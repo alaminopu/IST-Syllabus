@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IST Syllabus</string>
+    <string name="ece_1st_semester">First Semester</string>
+    <string name="ece_2nd_semester">Second Semester</string>
+    <string name="One">One</string>
+</resources>
