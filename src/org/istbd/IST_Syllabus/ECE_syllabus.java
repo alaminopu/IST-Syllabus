@@ -16,7 +16,7 @@ public class ECE_syllabus extends FragmentActivity implements
     private TabsPagerAdapter mAdapter;
     private ActionBar actionBar;
     // Tab titles
-    private String[] tabs = { "1st Semester", "2 Semester" };
+    private String[] tabs = { "1st Semester", "2nd Semester" };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
