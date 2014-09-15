@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="subject_code_and_name121">
+        <b>ECE-111: Physics – II (Modern Physics, Heat and Thermodynamics)</b>
+        \n\n
+
+        <b>Properties of Matter:</b> Atoms, Molecules and forces between them, Bonds – ionic, covalent, metallic,
+        Hydrogen bond and Van Der Walls force, Crystals and their types, Defects and deformations.
+        \n\n
+
+        <b>Atomic Physics:</b> Wave particle duality, Photoelectric effect, Quantum theory of light, X-rays and X-ray diffraction,
+        Compton Effect, De Broglie waves, Phase and group velocities, Particle diffraction, Uncertainty principle.
+        \n\n
+
+        <b>Atomic Structure:</b> Rutherford model of atom, Electron orbits, Atomic spectra, Bohr atom,
+        Energy levels and spectra, Atomic excitation.
+        \n\n
+
+        <b>Quantum Mechanics:</b> Wave function &amp; wave equation, Time dependent Schrödinger\’s equation,
+        Particle in a box, Reflection and transmission by a barrier
+    </string>
+
+
+
+
+
+
+
+    <string name="subject_code_and_name127">
+
+        <b>ECE-206: Electronic Circuits – I Lab</b>
+        \n\n
+        Based on course ECE-114 and ECE-115
+        \n\n
+
+    </string>
+
+
+
+</resources>

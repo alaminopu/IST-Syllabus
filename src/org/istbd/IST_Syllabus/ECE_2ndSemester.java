@@ -11,9 +11,7 @@ import android.widget.TextView;
 public class ECE_2ndSemester extends Fragment{
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState){
-        View view = inflater.inflate(R.layout.tab, container, false);
-        TextView textview = (TextView) view.findViewById(R.id.tabtextview);
-        textview.setText(R.string.One);
+        View view = inflater.inflate(R.layout.ece_second_semester, container, false);
         return view;
     }
 }
