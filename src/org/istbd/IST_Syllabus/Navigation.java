@@ -39,10 +39,14 @@ public class Navigation extends Activity {
                     if (names[position].equals("ECE")){
                         Intent nextView = new Intent(Navigation.this, ECE_syllabus.class);
                         startActivity(nextView);
-                    }else if(names[position].equals("BBA")){
+                    }else if(names[position].equals("CSE")){
                         Intent nextView = new Intent(Navigation.this, CSE_syllabus.class);
                         startActivity(nextView);
+                    }else if(names[position].equals("BBA")){
+                        Intent nextView = new Intent(Navigation.this, BBA_syllabus.class);
+                        startActivity(nextView);
                     }
+
                 }
             });
         }

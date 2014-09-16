@@ -1,13 +1,13 @@
 package org.istbd.IST_Syllabus.adapter;
 
-import org.istbd.IST_Syllabus.*;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+import org.istbd.IST_Syllabus.*;
 
-public class TabsPagerAdapter extends FragmentPagerAdapter {
+public class CSETabsPagerAdapter extends FragmentPagerAdapter {
 
-    public TabsPagerAdapter(FragmentManager fm) {
+    public CSETabsPagerAdapter(FragmentManager fm) {
         super(fm);
     }
 
@@ -16,21 +16,21 @@ public class TabsPagerAdapter extends FragmentPagerAdapter {
 
         switch (index) {
             case 0:
-                return new ECE_1stSemester();
+                return new CSE_1stSemester();
             case 1:
-                return new ECE_2ndSemester();
+                return new CSE_2ndSemester();
             case 2:
-                return new ECE_3rdSemester();
+                return new CSE_3rdSemester();
             case 3:
-                return new ECE_4thSemester();
+                return new CSE_4thSemester();
             case 4:
-                return new ECE_5thSemester();
+                return new CSE_5thSemester();
             case 5:
-                return new ECE_6thSemester();
+                return new CSE_6thSemester();
             case 6:
-                return new ECE_7thSemester();
+                return new CSE_7thSemester();
             case 7:
-                return new ECE_8thSemester();
+                return new CSE_8thSemester();
 
         }
 

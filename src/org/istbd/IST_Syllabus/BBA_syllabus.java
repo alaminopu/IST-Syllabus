@@ -1,18 +1,18 @@
 package org.istbd.IST_Syllabus;
 
-import org.istbd.IST_Syllabus.adapter.ECETabsPagerAdapter;
 import android.app.ActionBar;
 import android.app.ActionBar.Tab;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
+import org.istbd.IST_Syllabus.adapter.BBATabsPagerAdapter;
 
-public class ECE_syllabus extends FragmentActivity implements
+public class BBA_syllabus extends FragmentActivity implements
         ActionBar.TabListener {
 
     private ViewPager viewPager;
-    private ECETabsPagerAdapter mAdapter;
+    private BBATabsPagerAdapter mAdapter;
     private ActionBar actionBar;
     // Tab titles
     private String[] tabs = { "1st Semester", "2nd Semester" , "3rd Semester", "4th Semester", "5th Semester", "6th Semester", "7th Semester", "8th Semester"};
@@ -20,18 +20,18 @@ public class ECE_syllabus extends FragmentActivity implements
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.ece_syllabus);
+        setContentView(R.layout.bba_syllabus);
 
         // Initilization
         viewPager = (ViewPager) findViewById(R.id.pager);
         actionBar = getActionBar();
-        mAdapter = new ECETabsPagerAdapter(getSupportFragmentManager());
+        mAdapter = new BBATabsPagerAdapter(getSupportFragmentManager());
 
         viewPager.setAdapter(mAdapter);
         actionBar.setHomeButtonEnabled(false);
         actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
-        actionBar.setTitle("ECE");
-        actionBar.setIcon(R.drawable.action_bar_ece);
+        actionBar.setTitle("BBA");
+        actionBar.setIcon(R.drawable.action_bar_bba);
 
         // Adding Tabs
         for (String tab_name : tabs) {
