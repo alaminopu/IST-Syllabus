@@ -1,135 +1,278 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    
+    
     <string name="subject_code_and_name111">
         <b>ECE-101: English</b>
         \n\n
-
-        1. Reading and Comprehension: Thematic structure, vocabulary, cohesive and rhetorical devices, grammatical items, intention/attitude of the writer, précis (i) comprehension (ii) paragraph (iii) précis (iv) essay (v) amplification (vi) dialogue-writing.
+        
+        <b>Reading and Comprehension:</b> Thematic structure, vocabulary, cohesive and rhetorical devices, 
+        grammatical items, intention/attitude of the writer, précis (i) comprehension (ii) paragraph (iii) précis 
+        (iv) essay (v) amplification (vi) dialogue-writing.
         \n\n
-         2. Structures: The sentence:
-        Normal group – a) determiners b) adverb c) adjective d) non-adjective e) headword f) prepositional phrase g) infinitive phrase h) participle phrase i) appositive.
-        Verbal group – a) the tenses b) the modal auxiliaries c) phrasal verbs
-        Verb Modifiers – a) adverbials of time b) adverbials of place c) adverbials of manner d) adverbials of duration, Completing sentences, correction of sentences, transformation of sentences, framing of which questions.
+        
+         <b>Structures: The sentence:</b>
+         \n
+        Normal group – a) determiners b) adverb c) adjective d) non-adjective e) headword f) prepositional phrase 
+        g) infinitive phrase h) participle phrase i) appositive.
+        \n
+        Verbal group – a) the tenses b) the modal auxiliaries c) phrasal verbs.
+        \n
+        Verb Modifiers – a) adverbials of time b) adverbials of place c) adverbials of manner 
+        d) adverbials of duration, Completing sentences, correction of sentences, transformation of sentences, 
+        framing of which questions.
         \n\n
-        3. Notions and Functions: i) emotion attitudes ii) moral attitudes iii) suasion iv) intellectual attitudes v) socializing.
+        
+        <b>Notions and Functions:</b> i) emotion attitudes ii) moral attitudes iii) suasion iv) intellectual attitudes 
+        v) socializing.
         \n\n
-        4. Letters: Application, Request, Enquiries, Quotations, Tender to newspaper, Formal and informal, Advertisements, etc.
+        
+        <b>Letters:</b> Application, Request, Enquiries, Quotations, Tender to newspaper, Formal and informal, 
+        Advertisements, etc.
         \n\n
-        5. Translations: English to Bengali  and Bengali  to English.
+        
+        <b>Translations:</b> English to Bengali  and Bengali  to English.
         \n\n
-        6. Technical Writing: Projects, reports, and thesis.
-        \n\n\n
-
+        
+        <b>Technical Writing:</b> Projects, reports, and thesis.
+        \n\n
+        
+        
         <b>Recommended books:</b>
         \n\n
-        a)	Advanced Learners functional English by Chowdhury &amp; Hossain.
-        b)	Oxford English for Computing by Boeckner, Keith, and Brown.
-        c)	High School English Grammar and Composition by Waren &amp; Martin.
+        
+        
+        •	Advanced Learners functional English by Chowdhury &amp; Hossain.
         \n\n
+              
+        •	Oxford English for Computing by Boeckner, Keith, and Brown.
+        \n\n
+        
+        •	High School English Grammar and Composition by Waren &amp; Martin.
+        \n\n\n
 
 
     </string>
 
+    
+    
+    
     <string name="subject_code_and_name112">
+        
         <b>ECE-102: Physics-I (Electricity, Magnetism, &amp; Optics)</b>
         \n\n
-        <b>Electrostatics:</b> Electronic charge, Conservation &amp; quantization of charge, Coulomb’s law, Electric field and field strength, Lines of force, Point charge and dipole in an electric field, Electric flux &amp; Gauss’s law, Applications of Gauss’s law, Electric potential and field strength, Potential due to a point charge, Group of point charges, Potential due to continuous charge distribution, Electric potential energy.
+        
+        
+        <b>Electrostatics:</b> Electronic charge, Conservation &amp; quantization of charge, Coulomb\’s law,
+        Electric field and field strength, Lines of force, Point charge and dipole in an electric field, 
+        Electric flux &amp; Gauss\’s law, Applications of Gauss\’s law, Electric potential and field strength,
+        Potential due to a point charge, Group of point charges, Potential due to continuous charge distribution, 
+        Electric potential energy.
         \n\n
-        <b>Capacitance and Dielectrics:</b> Capacitance, calculation of capacitance, Parallel plate capacitor with and without dielectric, Dielectric – an atomic view, Gauss’s law for capacitor, The three electric vectors, Energy storage in an electric field.
+        
+        <b>Capacitance and Dielectrics:</b> Capacitance, calculation of capacitance, 
+        Parallel plate capacitor with and without dielectric, Dielectric – an atomic view, Gauss\’s law for capacitor,
+        The three electric vectors, Energy storage in an electric field.
         \n\n
-        <b>Magnetism and Electromagnetism:</b> The magnetic field, Definition of B, permeability of a medium, Magnetic force on a current, Torque on a current loop, Circulating charges, Ampere’s law, Lines of magnetic induction, Force between two parallel current carrying conductors, B for a solenoid, Biot-Savart law, Faraday’s law of electromagnetic induction, Lenz’s law, Time varying magnetic field, Inductance and calculation of inductance; Magnetic properties of matter - paramagnetism, diamagnetism, ferromagnetism, Intensity of magnetization, Magnetization curve, Hysteresis, the three magnetic vectors, Gauss’s law for magnetism, Magnetic induction and susceptibility, Magnetic circuit, Ampere turns, Comparison between magnetic and electric circuits.
+        
+        
+        <b>Magnetism and Electromagnetism:</b> The magnetic field, Definition of B, permeability of a medium, 
+        Magnetic force on a current, Torque on a current loop, Circulating charges, Ampere\’s law, Lines of magnetic induction,
+        Force between two parallel current carrying conductors, B for a solenoid, Biot-Savart law, 
+        Faraday\’s law of electromagnetic induction, Lenz\’s law, Time varying magnetic field,
+        Inductance and calculation of inductance; Magnetic properties of matter - paramagnetism, diamagnetism, 
+        ferromagnetism, Intensity of magnetization, Magnetization curve, Hysteresis, the three magnetic vectors, 
+        Gauss\’s law for magnetism, Magnetic induction and susceptibility, Magnetic circuit, Ampere turns,
+        Comparison between magnetic and electric circuits.
         \n\n
-        <b>Optics:</b> Optical interference, Young’s experiment, Coherence, Intensity in Young’s experiment, Thin Film interference, Newton’s rings, Michelson’s interferometer, Diffraction, Diffraction grating, Polarization, Double refraction, Optical activity.
-        \n\n\n
+        
+        
+        <b>Optics:</b> Optical interference, Young\’s experiment, Coherence, Intensity in Young\’s experiment,
+        Thin Film interference, Newton\’s rings, Michelson\’s interferometer, Diffraction, Diffraction grating,
+        Polarization, Double refraction, Optical activity.
+        \n\n
+        
+        
+        
         <b>Recommended Books:</b>
         \n\n
-        a)	Physics Part-II by David Halliday &amp; Robert Resnick
-        b)	Fundamentals of Physics by Halliday &amp; Robert Resnick
-    
+        
+        •	Physics Part-II by David Halliday &amp; Robert Resnick.
+        \n\n
+        
+        •	Fundamentals of Physics by Halliday &amp; Robert Resnick.
+        \n\n\n
+
+
     </string>
+    
+    
     
     
     <string name="subject_code_and_name113">
+        
         <b>ECE-103: Math-I: Differential &amp; Integral Calculus</b>
         \n\n
-        <b>Differential Calculus:</b> Limits, Continuity and differentiability; Successive differentiation of various types of functions; Leibnitz`s theorem; Rolle`s  theorem; Mean value theorem in finite and infinite forms; Lagrange`s form of remainders; Cauchy`s form of remainder; Evaluation of indeterminate forms by L` Hospitals rule; Partial differentiation; Euler`s Theorem; Maximum and minimum values of functions of single variable
+        
+        
+        <b>Differential Calculus:</b> Limits, Continuity and differentiability; 
+        Successive differentiation of various types of functions; Leibnitz\`s theorem; Rolle\`s  theorem;
+        Mean value theorem in finite and infinite forms; Lagrange\`s form of remainders; Cauchy\`s form of remainder;
+        Evaluation of indeterminate forms by L\` Hospitals rule; Partial differentiation;
+        Euler\`s Theorem; Maximum and minimum values of functions of single variable.
         \n\n
-        <b>Integral Calculus:</b> Definitions of integration; Integration by the method of substitutions; Integration by parts; Standard integrals; Integration by the method of successive reduction; Definite integrals and its properties and use in summing series;. Beta function and Gamma function;
-        \n\n\n
+        
+        
+        <b>Integral Calculus:</b> Definitions of integration; Integration by the method of substitutions; 
+        Integration by parts; Standard integrals; Integration by the method of successive reduction; 
+        Definite integrals and its properties and use in summing series; Beta function and Gamma function.
+        \n\n
+        
+        
         <b>Recommended Books:</b>
         \n\n
-        •	Integral Calculus by Anton
-        •	Integral Calculus by Abdul Matin
-        •	Integral Calculus by  Khose Mohammad
-        •	Integral Calculus by B.C. Das and B. N. Mukharjhee
-        •	Differential Calculus by B.C. Das and B. N. Mukharjhee
-        •	Ordinary Differential Equation by B.D. Sharma
+        
+        •	Integral Calculus by Anton.
         \n\n
+        
+        •	Integral Calculus by Abdul Matin.
+        \n\n
+        
+        •	Integral Calculus by  Khose Mohammad.
+        \n\n
+        
+        •	Integral Calculus by B.C. Das and B. N. Mukharjhee.
+        \n\n
+        
+        •	Differential Calculus by B.C. Das and B. N. Mukharjhee.
+        \n\n
+        
+        •	Ordinary Differential Equation by B.D. Sharma
+        \n\n\n
+        
     </string>    
     
+    
+    
     <string name="subject_code_and_name114">
+        
         <b>ECE-104: Math-II: Linear Algebra</b>
         \n\n
-        Vectors in Rn, Different operations on vectors, Dot product and cross product, Norm and distance in Rn, Cauchy Schwartz theorem, Minkowski’s inequality.
-        \n\n
+        
+        Vectors in Rn, Different operations on vectors, Dot product and cross product, Norm and distance in Rn, 
+        Cauchy Schwartz theorem, Minkowski\’s inequality.
+        \n
+        
         Linear equations and system of linear equations, Solution of linear equations.
-        \n\n
+        \n
+        
         Matrix, Different operations on matrix, Transpose matrix, square matrix, Inverse matrix, symmetric matrix.
-        \n\n
+        \n
+        
         Vector space and subspace.
-        \n\n
+        \n
+        
         Linear dependence and independence on vector space, Basis and dimensions, Rank of matrix, Coordinates.
-        \n\n
-        Linear mapping, Different types of mapping, Kernel and image of linear mappings, Singular and non-singular mappings, Isomorphism, Matrix Representation.
-        \n\n
+        \n
+        
+        Linear mapping, Different types of mapping, Kernel and image of linear mappings, Singular and non-singular mappings, 
+        Isomorphism, Matrix Representation.
+        \n
+        
         Eigen values and Eigen vectors.
-        \n\n\n
+        \n\n
+        
+        
         <b>Recommended Books:</b>
         \n\n
-        •	Linear Algebra, Schaums Outline Series
-        •	Linear Algebra by Abdur Rahman
+        •	Linear Algebra, Schaums Outline Series.
+        \n\n
+        
+        •	Linear Algebra by Abdur Rahman.
         \n\n
     
      </string>    
 
     
+    
+    
     <string name="subject_code_and_name115">
+        
     <b>ECE-105: Fundamentals of Computer &amp; Programming</b>
     \n\n
-    <b>Introduction:</b> Data and Information, History of Computer, Computer Generations, Types of Computer: Mainframe, Mini and Microcomputer, Different types of Micro Computer, Expanded Computer System, Number Systems: Binary, Decimal, Octal and Hexadecimal numbers, Classification of Hardware and Software, Input and Output Devices, Primary and Secondary Storage Devices.
+    
+    
+    <b>Introduction:</b> 
+    \n
+    
+    Data and Information, History of Computer, Computer Generations, Types of Computer: Mainframe, 
+    Mini and Microcomputer, Different types of Micro Computer, Expanded Computer System, Number Systems: Binary, 
+    Decimal, Octal and Hexadecimal numbers, Classification of Hardware and Software, Input and Output Devices, 
+    Primary and Secondary Storage Devices.
     \n\n
 
     <b>Programming in C:</b>
     \n
     <b>Introduction:</b> A Simple C program, Preparing and Running a C Program.
     \n\n
-    <b>C Fundamentals:</b> Character Set, Identifiers, Keywords, Data Types, Constants, Variables, Declarations, Expressions, Statements, Symbolic Constants.
+    
+    <b>C Fundamentals:</b> Character Set, Identifiers, Keywords, Data Types, Constants, Variables, Declarations, 
+    Expressions, Statements, Symbolic Constants.
     \n\n
-    <b>Operators and Expressions:</b>  Operators, Types of Operators, Library Functions, Data input and output, preparing and running a complete C program.
+    
+    <b>Operators and Expressions:</b>  Operators, Types of Operators, Library Functions, Data input and output, 
+    preparing and running a complete C program.
     \n\n
-    <b>Control Structures:</b>  Branching: if, if.else, nested if, ladder if, switch, break, Looping: while, do..while, for, Nested control structures.
+    
+    <b>Control Structures:</b>  Branching: if, if.else, nested if, ladder if, switch, break, Looping: while, do-while, 
+    for, Nested control structures.
     \n\n
-    <b>Functions:</b>  Definition and Declaration, Accessing, Processing, Function Prototypes, Passing arguments, Function Calling and Returning Values.
+    
+    <b>Functions:</b>  Definition and Declaration, Accessing, Processing, Function Prototypes, Passing arguments, 
+    Function Calling and Returning Values.
     \n\n
+    
     <b>Arrays:</b> Definition and declaration, Types of arrays, processing an Array, Passing arrays to functions.
     \n\n
-    <b>Pointers:</b>  Definitions and declarations, Passing pointer to functions, Dynamic Memory Allocations, Operations on Pointers, Arrays of Pointers.
+    
+    <b>Pointers:</b>  Definitions and declarations, Passing pointer to functions, Dynamic Memory Allocations, 
+    Operations on Pointers, Arrays of Pointers.
     \n\n
-    <b>Structures and Unions:</b> Definition, Processing, User Defined Data Types, Structure and Pointers, Passing Structures to Functions, Unions.
+    
+    <b>Structures and Unions:</b> Definition, Processing, User Defined Data Types, Structure and Pointers, 
+    Passing Structures to Functions, Unions.
     \n\n
+    
     <b>Data Files:</b> Definition and Declaration, Types of data files, Creating, Opening, closing and processing files.
-    \n\n\n
+    \n\n
+    
     <b>Recommended Books:</b>
     \n\n
     •	Computer Fundamentals by M. Lutfar Rahman and M. Alamgir Hossain.
+    \n\n
+    
     •	Programming in C (3rd Edition) (Developer\'s Library) by Stephen Kochan.
+    \n\n
+    
     •	The C Programming Language (2nd Edition) by Brian W. Kernighan, Dennis Ritchie, and Dennis M. Ritchie.
+    \n\n
+    
     •	Absolute Beginner\'s Guide to C (2nd Edition) by Greg Perry.
+    \n\n
+    
     •	C Programming for the Absolute Beginner (For the Absolute Beginner Series) by Michael Vine.
+    \n\n
+    
     •	C Programming: A Modern Approach, Second Edition by K. N. King.
-    •	C by Example (Cambridge Computer Science Texts) by Noel Kalicharan.\n\n
+    \n\n
+    
+    •	C by Example (Cambridge Computer Science Texts) by Noel Kalicharan.
+    \n\n\n
    </string>
    
+    
+    
+    
     <string name="subject_code_and_name116">
         <b>ECE-106: Physics – 1 Lab</b>
         \n\n
@@ -144,7 +287,7 @@
         \n\n
 
         Based on ECE-107 Fundamentals of Computer &amp; Programming.
-        \n\n
+        \n\n\n
     </string>
 
 </resources>

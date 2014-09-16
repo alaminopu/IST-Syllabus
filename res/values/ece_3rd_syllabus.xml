@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <string name="subject_code_and_name211">
+        
+        <b>ECE-201: Statistics &amp; Probability:</b>
+        \n\n
+        
+        <b>Statistics:</b> Frequency distribution of data: Population and sample, Collection and representation of 
+        statistical data. Tabulation of data. Class intervals. Frequency distribution, discrete, continuous and 
+        cumulative distributions. Histograms and frequency polygons. Graphical representation of data.
+        \n\n
+        
+        <b>Statistical Measures:</b> Measures of central tendency – arithmetic mean, median, mode, geometric mean, 
+        weighted average, harmonic mean. Measures of dispersion – range, standard deviation, variance, coefficient of 
+        variation, moments, skewness, kurtosis. Correlation theory: Linear correlation, Measures of correlation and 
+        its significance. Regression and curve fitting: Linear and non-linear regression, Methods of least squares. 
+        Curve fitting.
+        \n\n
+        
+        <b>Probability:</b> Definition of probability and related concepts. Laws of probability, 
+        Conditional probability and Baye\’s theorem, Discrete and continuous random variables, Probabiloty mass functions,
+        probability density function, Joint Distribution, Marginal and conditional distribution, 
+        Independence of Random Variables, Mathematical expectations. Probability distributions: Binomial, Poisson and Normal 
+        distributions and their properties.  
+        \n\n
+        
+        <b>Covariance, correlation and regression: </b>simple correlation, measures of correlation and its significance, 
+        regression and curve fitting, Linear and non-linear regression. Methods of Least squares and curve fitting, 
+        Rank correlation.
+        \n\n
+        
+        <b>Fundamentals of time series:</b> Introduction to time series.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	An Introduction to Statistics by S.P Gupta and M.P Gupta.
+        \n\n
+        
+        •	Theory and Problem of Statistics by Schaum\’s Outlines Series.
+        \n\n
+        
+        •	Basic Statistics by Abdul Jalil and Rezina Ferdouse.
+        \n\n
+        
+        •	Understanding Statistics by Graham Upton and Ian Cook.
+        \n\n
+        
+        •	An Introduction to Statistics and Probability by Dr. Nurul Islam.
+        \n\n\n
+
+        
+    </string>
+    
+    
+    
+    <string name="subject_code_and_name212">
+        
+        <b>ECE-202: Math-IV: Engineering Mathematics</b>
+        \n\n
+        
+        <b>Fourier Analysis: </b> Real and complex form of Fourier series; Finite transform; Fourier Integral; 
+        Fourier transforms and their uses in solving boundary value problems of wave equations.
+        \n\n
+        
+        <b>Laplace Transforms:</b> Definition; Laplace transforms of some elementary functions; Sufficient conditions 
+        for existence of Laplace transforms; Inverse Laplace transforms; Laplace transforms of derivatives. 
+        The unit step function. 
+        \n
+        
+       Periodic function. Some special theorems on Laplace transforms; Solutions of differential equations by Laplace 
+       transforms.
+       \n\n
+       
+       <b>Vector Algebra and Vector Calculus: </b> Additions, subtractions, dot and cross products, triple product 
+       and their geometrical interpretation and application, differentiation and integration of vectors, 
+       line surface and volume integrals, gradient, divergence, curl and their physical significance, 
+       divergence theorem and Gauss\’s theorem and their applications.
+       \n\n
+       
+       <b>Recommended Books:</b>
+       \n\n
+       
+       
+       •	Mathematical Methods by Abdur Rahman.
+       \n\n
+       
+       •	Fourier Transform by Schaums Outline.
+       \n\n
+       
+       •	Laplace Transform by Schaums Outline.
+       \n\n
+       
+       •	Physical Mathematics by B.D. Gupta.
+       \n\n\n 
+        
+        
+    </string>
+    
+    
+    
+    
+    <string name="subject_code_and_name213">
+        
+        <b>ECE-203: Electrical Circuits – II</b>
+        \n\n
+        
+        <b>AC Fundamentals: </b> Basic principles of AC generators, Equations of alternating voltage and current, 
+        Attributes of a sinusoidal signal, Phase relations, Average value, RMS value, Form factor, Vector diagrams, 
+        Addition of two AC equations; Response of basic R, L, and C elements to sinusoidal voltage and current, 
+        Frequency response of basic elements, Average power and power factor, complex Numbers, Rectangular form, 
+        Polar form, conversion between forms, Phasors.
+        \n\n 
+        
+        <b>Series and Parallel AC circuits:</b> Impedance and Phasor diagrams, AC through series RL circuits, 
+        Frequency response of series RL circuits, AC through series RC circuits, Admittance and susceptance, 
+        AC power, Power factor, Power triangle, Series R-L-C circuits and resonance; Parallel AC circuit with R, L, 
+        and C, Resonance in parallel RLC circuit, quality factor.
+        \n\n
+        
+        <b>AC Network Analysis in Frequency domain: </b>Mesh circuit method, Node voltage method, Equivalent Y and Δ connections.
+        \n\n
+        
+        <b>Polyphase Circuits: </b>Three-phase generator, Y connected generator with Y connected load, Y-Δ systems, 
+        Δ connected generator, Systems with unbalanced loads.
+        \n\n
+        
+        <b>Filters and Two Port Networks: </b>One port and two port networks, High pass, low pass, band pass networks and 
+        filters, Hay power frequencies.
+        \n\n
+        
+        <b>Complex Frequency: </b> Network analysis in the S domain, Network response in the S plane, 
+        natural response and forced response.
+        \n\n
+        
+        <b>Fourier Methods: </b>Trigonometric and exponential Fourier series, Waveform symmetry, Line spectrum, 
+        Effective values and power, Application in circuit analysis.
+        \n\n
+        
+        <b>The Laplace Transform: </b>Selected Laplace transforms, Initial value and final value theorems, 
+        Partial fraction expansions, etc.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Introductory Circuit Analysis by Robert Boylested.
+        \n\n
+        
+        •	A Textbook of Electrical Technology by B.L. Theraja.
+        \n\n
+        
+        •	Schaums Outline Series on Theory and Problem of Electric Circuits by Joseph A. Edminister.
+        \n\n\n
+
+        
+        
+    </string>
+    
+    
+    
+    
+    <string name="subject_code_and_name214">
+        
+        <b>ECE-204: Electronic Circuits – II</b>
+        \n\n
+        
+        <b>Feedback Amplifier: </b>Principle of feedback amplifier, Positive and negative feedback, 
+        Advantages of negative feedback - gain stability, Decreased distortion, increased bandwidth, 
+        Forms of negative feedback, Practical negative feedback circuits.
+        \n\n
+               
+        <b>Power Amplifiers:</b> Classification of large signal amplifiers - class A, AB, B and C, Harmonic distortion, 
+        efficiency and figure of merit of class A, AB, B; transformer - coupled amplifiers, 
+        push pull amplifiers, Complementary symmetry amplifiers, Tuned amplifiers - Single tuned circuits using 
+        BJTs and FETs, Impedance transformations and transformer coupling, Narrow band tuned amplifiers, Cascade 
+        tuned amplifiers, Synchronous and stagger tuning, Neutralization.
+        \n\n
+        
+        <b>Oscillators:</b> Sinusoidal oscillators, the Barkhausen criterion, Practical considerations, 
+        Analysis and design of RC phase shift oscillators, Hartley and Colpitts oscillators. 
+        Amplitude stabilizations, Crystal oscillators, Frequency stability, Stability criterion.
+        \n\n
+        
+        <b>Operational Amplifiers:</b> Difference amplifier; CMMR; Ideal operational amplifier; Inverting amplifier; 
+        Non-inverting amplifier; General-purpose IC operational amplifier; Integrator; Differentiator, adder, Voltage follower, 
+        Reference voltage source, V to I and I to V converter, Current amplifiers, Charge amplifiers, Differential amplifier, 
+        Instrumentation amplifier, Log and antilog amplifiers, Function generators, Precision rectifiers, Comparators, 
+        Window comparators, Schmitt trigger, Miller Sweep, Bootstrap sweep, Analog multiplier, Analog divider, Square rooters.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Electronics Devices and Circuits Theory by Robert L. Boylestad, Louis Nashelsky.
+        \n\n
+        
+        •	Op-Amp and Linear Integrated Circuits by  R.L. Gayakawad.
+        \n\n
+        
+        •	Op-Amp and Linear Integrated Circuits by  R.F. Caoughlin.
+        \n\n
+        
+        •	Schaum\'s Outline of Electronic Devices and Circuits, Second Edition, by Jim Cathey.
+        \n\n
+        
+        •	Pulse and Digital Electronics by G.K. Mithal.
+        \n\n
+        
+        •	Pulse and Digital Switching Waveforms by Millman and Taub.
+        \n\n\n
+         
+        
+    </string>
+ 
+    
+    
+    
+    <string name="subject_code_and_name215">
+        
+        <b>ECE-205: Object Oriented Programming</b>
+        \n\n
+        
+        Principles of object oriented programming, Beginning with C++, Tokens, Expressions and Control Structure, 
+        Functions in C++, Classes and Objects, Constructors and Destructors, Operator overloading and type conversion, 
+        Inheritance, Extending Classes, Pointers, virtual functions and Polymorphism, Managing console I/O operations, 
+        Working with files.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Object-Oriented Programming with C++ by E. Balagurusamy.
+        \n\n
+        
+        •	Teach Yourself C++ by Herbert Schildt.
+        \n\n
+        
+        •	Turbo C++ The Complete Reference by Herbert Schildt.
+        \n\n
+        
+        •	Turbo C++ by Robert Lafore.
+        \n\n\n
+           
+    </string>
+
+    
+    
+    <string name="subject_code_and_name216">
+        
+        <b>ECE-206: Electrical Circuits – II Lab</b>
+        \n\n
+        
+        Based on course ECE-203 Electrical Circuits – II. 
+        \n\n\n 
+    
+    </string>
+
+    
+    
+    <string name="subject_code_and_name217">
+        
+        <b>ECE-207: Object Oriented Programming Lab</b>
+        \n\n
+        
+        Based on course ECE-205 Object Oriented Programming.
+        \n\n\n
+        
+    </string>
+    
+    
+    <string name="subject_code_and_name218">
+        <b>ECE-208: Electronic Circuits – II Lab</b>
+        \n\n
+        
+        Based on course ECE-204 Electronic Circuits – II.
+        \n\n\n
+        
+    </string>
+    
+    
+    
+</resources>

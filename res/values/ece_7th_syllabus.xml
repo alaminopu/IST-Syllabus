@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="subject_code_and_name411">
+        <b>ECE-401: Microwave Engineering</b>
+        \n\n
+        
+        <b>Introduction:</b> VHF, UHF and microwave frequency ranges. 
+        \n\n
+        
+        <b>Microwave transmission lines:</b> Transmission line equation and solution, 
+        Reflection and transmission coefficient, Standing wave and standing wave ratio, 
+        Smith chart, impedance transformation and matching.
+        \n\n
+        
+        <b>Waveguides and components:</b> Rectangular waveguide, Circular waveguide, Waveguide components, 
+        cavities and resonators, Directional couplers, Circulators and isolators.
+        \n\n
+        
+        <b>Microstrip Lines:</b> Wave propagation and micro strip lines, dielectric constants, characteristic impedance, 
+        attenuation factors.
+        \n\n
+        
+        <b>Microwave Devices:</b> Microwave transistor, Varactor diode, IMPATT diode, Gunn diode, Schottky barrier diode, 
+        Backward diode, Point contact diode, Klystron, Reflex Klystron, TWT and magnetron. 
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Electronic Communication Systems by Kennedy, McGraw-Hill.
+        \n\n
+         
+        •	Fields and Waves in Communication Technology, S. Ramo, J.R. Whinnery, Th. van Duzer, John Wiley &amp; Sons, Inc.
+        \n\n
+         
+        •	Foundations for Microwave Engineers, R. E. Collin, IEEE (John Wiley &amp; Sons).
+        \n\n
+        
+        •	Microwave Transistors, Amplifiers, Analysis and Design by Guillermo Gonzalez, Prentice Hall.
+        \n\n
+        
+        •	Microwave Engineering by David M Pozar by John Wiley.
+        \n\n
+        
+        •	Microwave Devices and Circuits by Leo, Prentice Hall.
+        \n\n
+         
+        •	Foundations for Microwave Engineering by R E Collins, McGraw-Hill.
+        \n\n\n
+        
+    </string>
+  
+    
+    
+    
+    <string name="subject_code_and_name412">
+        <b>ECE-402: Wireless Communication Systems</b>
+        \n\n
+        
+        <b>Digital Modulation Technique:</b> Modern communication systems, BPSK, DPSK, QPSK, OQPSK, MSK, GMSK, MFSK, 
+        Spread spectrum modulation techniques, DS-SS, FH-SS, Multipath channels, intelligent cells, micro and nano cells.
+        \n\n
+        
+        <b>Satellite Communication:</b> Introduction, Orbits, Station Peeping. Satellite altitude, Transmission path, 
+        Path loss, Noise consideration, Satellite system, Saturation flux density, Effective isotropic radiated power, 
+        Multiple access methods, Earth station antenna, satellite link, design, frequency plan, Satellite communication 
+        for Internet, VSAT Network, GNSS-GPS and Galileo Systems, GIS, Multiple Access Techniques.
+        \n\n
+        
+        <b>Mobile Communication:</b> Mobile-Multimedia traffic, Flow control, Bandwidth allocation, Channels, lst, 
+        2nd and 3rd generation wireless networks. Cellular mobile system engineering. 
+        \n\n
+        
+        <b>Free-space propagation:</b> Propagation model. Multipath propagation, Propagation environment, Marine environment.
+        \n\n
+        
+        <b>Microcells:</b> Two Ray Model, Freznel Zone, RF cove¬rage, Indoor coverage, Outdoor coverage, 
+        computer aided Techniques, Single coverage plot, composite coverage plot, RF survey, Cellular traffic, 
+        Trunking efficiencies. 
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Introduction to Wireless Systems, Shankar P.M, Wiley, 2002.
+        \n\n
+        
+        •	Fundamentals of Wireless Communication, Tse D. and Viswanath P., Cambridge, 2005.
+        \n\n
+        
+        •	Wireless Communications and Networking, Stallings W., Prentice Hall 1st Edition, 2001.
+        \n\n
+        
+        •	Satellite Communication Systems: Systems, Techniques, and Technology, Maral G. and Bousquet M., Wiley 4th 
+        Edition, 2002, ISBN 0-471-49654-5.
+        \n\n
+        
+        •	Mobile Satellite Communication Networks, Sheriff R.E. and Fun Hun Y., Wiley, 2001.
+        \n\n\n
+
+        
+        
+    </string>
+    
+</resources>

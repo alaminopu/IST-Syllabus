@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="subject_code_and_name221">
+        <b>ECE-211: Fundamentals of Communications</b>
+        \n\n
+        
+        <b>Noise:</b> Shot noise, White noise, Gain in decibels, Signal to noise ratio.
+        \n\n
+        
+        <b>Radio Communication systems:</b> Amplitude modulation (AM), AM broadcast technical standards, 
+        Double sideband suppressed carrier (DSBSC), Single sideband suppressed carrier (SSB), Vestigial sideband (VSB), 
+        Phase modulation (PM) and frequency modulation (FM), Envelop detector, Product modulator, AM transmitter, 
+        Superheterodyne receiver, FM transmitters and recivers.
+        \n\n
+        
+        <b>Pulse and digital signaling:</b> Pulse code modulation (PCM), Delta modulation (DM), 
+        Adaptive delta modulation (ADM), Differential PCM (DPCM), Adaptive DPCM (ADPCM), 
+        Time division multiplexing (TDM), Frequency division multiplexing (FDM).
+        \n\n              
+        
+        <b>Telephony:</b> Background and concept, The simple telephone connection, Conventional analog switching in 
+        telephone networks, Analog telephone versus digital telephone systems, Basic switching functions, Introductory 
+        switching concepts, Numbering concept for telephony, Digital switching – space division and time division.
+        \n\n
+        
+        <b>Mobile Telephony:</b> Mobile radio systems, How a cellular telephone call is made, The cellular system design 
+        fundamentals – Frequency reuse, channel assignment strategies, Handoff strategies, Interference and system capacity, 
+        Trunking and grade of service, Cell splitting, Multipath propagation and fading, Doppler shift, 
+        Cellular system standards – AMPS, GSM, CDMA (IS-95). 
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Communication Systems by Simon Haykin.
+        \n\n
+        
+        •	Modern Communication Systems Principle and Applications by Loen W. Couch.
+        \n\n
+        •	Telecommunication System Engineering by R.L. Freeman.
+        \n\n
+        
+        •	Cellular Mobile Systems Engineering, Saleh Faruque.
+        \n\n
+        
+        •	Wireless Communication Principles and Practice by T.S. Rappaport.
+        \n\n
+        
+        •	Fundamentals of Communication by M. Lutfar Rahman (Editor).
+        \n\n\n
+                
+    </string>
+    
+    
+    
+    <string name="subject_code_and_name222">
+        <b>ECE-212: Electrical Instrumentation &amp; Measurements</b>
+        \n\n
+        
+        <b>Introduction:</b> Significance and methods of measurements, Direct and indirect methods and standard
+        types of instruments.
+        \n\n
+        
+        <b>Analog Voltmeters and Ammeters:</b> Different types of analog voltmeters, Accuracy and error of analog voltmeters.
+        Different types of ammeters, Accuracy and errors of analog ammeters.
+        \n\n
+        
+        <b>Digital Voltmeters:</b> Staircase ramp type, Successive approximation type, Integrating type,
+        Delta pulse modulation type. 
+        \n\n
+        
+        <b>Digital Multimeters:</b> DC voltage attenuator, Current to voltage converter, AC/DC converter, Resistance to voltage converter,
+        HF/LF converter, Automation in Multimeters, Automatic polarity indication and auto ranging digital instrumentations.
+        \n\n
+        
+        <b>Oscilloscope and Signal Generator:</b> Single beam and dual beam types, Sampling and storage types, 
+        Sweep frequency generations, Function generators.
+        \n\n
+        
+        <b>Analyzers:</b> Wave analyzer, Harmonic generators, Frequency synthesizer and spectrum analyzers, 
+        Analog and digital frequency meters, Recorders and displays.
+        \n\n
+        
+        <b>Data Acquisition:</b> Data loggers, Data acquisition and control, PC-based instrumentation.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Instrumentation, Measurements and Feedback by B.E. Jones.
+        \n\n
+        
+        •	Electronics Instrumentation and Measurement Techniques by W.D. Cooper.
+        \n\n
+        
+        •	Instrumentation Technology by B.B. Jones and Butterworth.
+        \n\n
+        
+        •	Industrial Instrumentation Fundamentals by A.E. Fribance.
+        \n\n\n     
+        
+    </string>
+    
+    
+    
+    
+    <string name="subject_code_and_name223">
+        <b>ECE-213: Digital Electronics – II</b>
+        \n\n
+        
+        <b>Decoding and Encoding:</b> Decoders, BCD to 7 segment decoder, BCD to decimal decoder, Encoders, Switch encoder.
+        \n\n
+        
+        <b>Multiplexing and Demultiplexing:</b> Multiplexer, Demultiplexer, MUX and DEMUX applications, Comparator, 
+        Parity generator and checker.
+        \n\n
+        
+        <b>Converters:</b> Digital to Analog Converter(DAC), Weighted register DAC, R-2R ladder, DAC specifications, 
+        Analog to digital converters (ADC), Digital ramp ADC, Successive approximation ADC, Flash ADC, 
+        Continuous conversion type ADC, Examples of ADC and DAC ICs, Principle of digital instruments, Digital multimeters, 
+        Phasemeters, Frequency meters. 
+        \n\n
+        
+        <b>Semiconductor Memories:</b> Memory organization and operation, Expansion of work size and work capacity, 
+        Classification and characterization of memory, Organization of RAM and ROM, Advancements of semiconductor memories, 
+        PLA, PLD, PAL.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Principles of Digital Electronics by T.J. Tocci.
+        \n\n
+        
+        •	Modern Digital Electronics by R.P. Jain.
+        \n\n
+        
+        •	Digital Electronics by Morris Mano.
+        \n\n
+        
+        •	Digital Systems by M. Lutfar Rahman.
+        \n\n\n
+        
+       
+    </string>
+    
+    
+    
+    <string name="subject_code_and_name224">
+        
+        <b>ECE-214: Signals and Systems</b>
+        \n\n
+        
+        <b>Signals:</b> Continuous-time and discrete-time signals, Even and odd signals, Periodic and non-Periodic signals, 
+        Deterministic and random signals, Energy and Power signal, Unit impulse and unit impulse functions; 
+        Some elementary D-T signals: Unit Sample Sequence, Step signal, Ramp &amp; Exponential signal.
+        Simple manipulation of D-T signals. Sampling and aliasing.
+        \n\n
+        
+        <b>Systems:</b> Digital System, D-T system, Block diagram representation of D-T systems. 
+        Different types of systems: Relax &amp; Non-Relax system, Static and Dynamic system, Time Invariant and Time Variant System,
+        Linear and Non-Linear system, Causal and Non-Causal system, Stable &amp; Unstable system.
+        Time Domain Representations for Linear Time Invariant Systems. Convolution theorem, Convolution sum; 
+        Correlation - Auto correlation and Cross correlation, Properties.
+        \n\n
+        
+        <b>Fourier Representations of Signals:</b> Discrete time periodic signals - the discrete time Fourier series 
+        Continuous time periodic signals - the Fourier series Discrete time non-periodic signals - 
+        the discrete time Fourier transform Continuous time non-periodic signals - 
+        the Fourier transform Properties of Fourier representations.
+        \n\n
+        
+        <b>Laplace Transform:</b> Region of convergence, Inverse Laplace transform, Analysis of LTI systems using 
+        Laplace transform.
+        \n\n
+        
+        <b>Recommended Books:</b>   
+        \n\n
+        
+        
+        •	Communications Systems by Simon Haykin.
+        \n\n
+        
+        •	Digital Signal Processing by Proakis and Manolakis.
+        \n\n
+        
+        •	Signals and Systems, A.V. Oppenheim, A.S. Willsky and I.T. Young, Prentice Hall, 1983.
+        \n\n
+        
+        •	Signals and Systems - Continuous and Discrete, R.F. Ziemer, W.H. Tranter and D.R. Fannin, 
+        4th edition, Prentice Hall, 1998.
+        \n\n
+        
+        •	Introduction to Signals and Systems, Douglas K. Lindner, Mc-Graw Hill International Edition: c1999.
+        \n\n
+        
+        • 	Signals and Systems, Simon Haykin, Barry van Veen, John Wiley and Sons (Asia) Private Limited, c1998.
+        \n\n
+        
+        •	Signals and Linear Systems, Robert A. Gabel, Richard A. Roberts, John Wiley and Sons (SEA) Private Limited, c1995.
+        \n\n
+        
+        •	Principles of Communication: Systems, Modulation and Noise, 5th Edition by R. E. Ziemer.
+        \n\n\n
+        
+        
+        
+        
+    </string>
+    
+    
+    
+    <string name="subject_code_and_name225">
+        <b>ECE-215: Computer Architecture</b>
+        \n\n
+        
+        <b>Overview of Computer Organization and architecture:</b> Organization and Structure, Structure and Functions, 
+        Simple machine code sequence to illustrate action, system buses, interconnection structures 
+        (Bus structure and bus types), Interrupts and instruction cycle.
+        
+        <b>Storage and Input/Output Systems:</b> Overview of memory system, memory chip organization and error correction, 
+        cache memory, memory storage devices. Overview of I/O, programmed and interrupt-driven I/Os, 
+        direct memory access (DMA).
+        \n\n
+        
+        <b>Computer Arithmetic:</b> Integer representation and arithmetic, floating-point representation (IEEE), 
+        floating-point arithmetic. Arithmetic and Logic Unit (ALU), Bit Sliced ALU.
+        \n\n
+        
+        <b>Instruction Set and Register:</b> Computer function (fetch and execute cycles), interrupts, Machine instruction 
+        characteristics, types of operands and operations, instruction functions, addressing modes, instruction formats, 
+        instruction pipelining. 
+        \n\n
+        
+        <b>Control Unit:</b> Micro-operations, hardwired control unit, control unit operation, micro-instruction 
+        sequencing and execution, micro-programmed control unit.
+        \n\n
+        
+        <b>High performance computer systems:</b> Techniques to achieve high performance, RISC, CISC, 
+        introduction to superscalar processor, parallel processor, array processor. 
+        \n\n
+           
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Computer Organization and Architecture, 6th edition, by William Stallings.
+        \n\n
+        
+        •	Computer Architecture: A Quantitative Approach by John Hennessey.
+        \n\n
+        
+        •	Computer Organization and Architecture: Designing for Performance (7th Edition) by William Stallings 
+        (Hardcover - Jul 11, 2005)
+        \n\n
+        
+        •	The Essentials of Computer Organization And Architecture by Linda Null and Julia Lobur 
+        (Hardcover - Feb 15, 2006)
+        \n\n
+        
+        •	Computer Organization by Carl Hamacher, Zvonko Vranesic, and Safwat Zaky (Hardcover - Aug 2, 2001)
+        \n\n
+        
+        •	Schaum\'s Outline of Computer Architecture by Nick Carter (Paperback - Dec 26,2001)
+        \n\n\n
+        
+               
+    </string>
+    
+    
+    
+    <string name="subject_code_and_name226">
+        <b>ECE-216: Digital Electronics – II Lab</b>
+        \n\n
+        Based on course ECE-213 Digital Electronics – II.
+        \n\n\n
+        
+    </string>
+
+    
+    <string name="subject_code_and_name227">
+        <b>ECE-217: Fundamentals of Communications Lab</b>
+        \n\n
+        
+        Based on course ECE-211 Fundamentals of Communications.
+        \n\n\n
+                
+    </string>
+    
+    
+    <string name="subject_code_and_name228">
+        <b>ECE-219: Viva-Voce</b>
+        \n\n
+        
+        Viva-voce is based on all the courses covered in the 4th semester.
+	    \n\n\n
+        
+        
+    </string>
+    
+</resources>

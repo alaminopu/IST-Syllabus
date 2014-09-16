@@ -1,41 +1,270 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
 
+<resources>
+    
+    
     <string name="subject_code_and_name121">
         <b>ECE-111: Physics – II (Modern Physics, Heat and Thermodynamics)</b>
         \n\n
-
+        
         <b>Properties of Matter:</b> Atoms, Molecules and forces between them, Bonds – ionic, covalent, metallic,
         Hydrogen bond and Van Der Walls force, Crystals and their types, Defects and deformations.
         \n\n
-
-        <b>Atomic Physics:</b> Wave particle duality, Photoelectric effect, Quantum theory of light, X-rays and X-ray diffraction,
-        Compton Effect, De Broglie waves, Phase and group velocities, Particle diffraction, Uncertainty principle.
+                
+        <b>Atomic Physics:</b> Wave particle duality, Photoelectric effect, Quantum theory of light, X-rays and X-ray diffraction, 
+        Compton Effect, De Broglie waves, Phase and group velocities, Particle diffraction, Uncertainty principle. 
         \n\n
-
-        <b>Atomic Structure:</b> Rutherford model of atom, Electron orbits, Atomic spectra, Bohr atom,
+        
+        <b>Atomic Structure:</b> Rutherford model of atom, Electron orbits, Atomic spectra, Bohr atom, 
         Energy levels and spectra, Atomic excitation.
         \n\n
-
+        
         <b>Quantum Mechanics:</b> Wave function &amp; wave equation, Time dependent Schrödinger\’s equation,
-        Particle in a box, Reflection and transmission by a barrier
+        Particle in a box, Reflection and transmission by a barrier.
+        \n\n
+        
+        <b>Heat and thermodynamics:</b> Temperature and thermometry, Thermal expansions and calorimetry, Heat transfer, 
+        First law and second law of thermodynamics with simple applications, Properties of thermodynamic substances.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+       
+        •	Concepts of Modern Physics by Arthur Beiser.
+        \n\n
+        		
+        •	Fundamentals of Classical Thermodynamics, Richard E. Sonntag, 
+        Claus Borgnakke and Gordon V. Van Wylen., 6th ed., John Wiley &amp; Sons, 1998.
+        \n\n
+        
+        •	Engineering Thermodynamics by S.L. Somasundaram.
+        \n\n
+        
+        •	Fundamentals of Engineering Thermodynamics, Michael J. Moran and Howard N. Shapiro, John Wiley &amp; Sons.
+        \n\n\n
+
     </string>
 
+    
+    
+    
+     <string name="subject_code_and_name122">
+        <b>ECE-112: Math – III:Differential Equations and Complex Variables</b>
+        \n\n
+        
+        <b>Ordinary Differential Equation:</b> Degree and order of ordinary differential equations, 
+        Formation of differential equations, Solution of first order differential equations by various methods, 
+        Solution of first order but higher degree ordinary differential equations, 
+        Solution of general linear equations of second and higher orders with constant coefficients, 
+        Solution of homogeneous linear equations and its applications.
+        \n\n
+        
+        <b>Complex Variables:</b> Complex number system, General functions of a complex variable, 
+        Limits and continuity of a function of complex variable and related theorems, 
+        Complex differentiation and the Cauchy-Riemann Equations, Mapping by elementary functions, 
+        Line integral of a complex function, Cauchy\’s Integral Theorem, Cauchy\’s Integral Formula,
+        Liouville\’s Theorem, Laurent\’s Theorem. Singular points, Residue, Cauchy\’s Residue theorem.
+        Evaluation of residues, Contour integration, conformal mapping.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Ordinary Differential Equation by B.D. Sharma.
+        \n\n
+        
+        •	Complex Variables by Schaum\’s Outlines Series.
+        \n\n
+        
+        •	Functions of a complex variable by Dewan Abdul Quddus.
+        \n\n
+        
+        •	Functions of a complex variable by Kedar Nath Ram Nath.
+        \n\n
+        
+        •	Laplace Transform by Schaums Outline Series.
+        \n\n\n
+        
+      
+    </string>
+    
 
+     
+    <string name ="subject_code_and_name123">
+        <b>ECE-113: Electrical Circuits – I</b>
+        \n\n
+        
+        <b>Electric current and Ohm\’s law:</b> Modern electron theory of electricity,
+        Effect of temperature of resistance, EMF and potential difference, Ohm\’s law,
+        Electric power and energy, Heating effect of current, Concept of alternating current (AC), 
+        AC waveforms, Average and effective values of AC signals.
+        \n\n
+        
+        <b>Laws of DC Circuit:</b> Kirchhoff\’s voltage and current laws, Series and parallel networks;
+        Network analysis - methods of branch and loop currents, Mesh analysis, nodal analysis, Bridge networks, 
+        Delta-Way conversion; Thevenin\’s and Norton\’s theorems, Maximum power transfer theorem, Millman\’s theorem,
+        Reciprocity theorem.
+        \n\n
+        
+        <b>Capacitive and Inductive Circuits:</b> Capacitance and dielectrics, Capacitors in series and parallel, 
+        Energy storage, Transients in RC circuits, Initial values; Magnetic field, Flux density, Permeability, 
+        reluctance, Ohm\’s law for magnetic field, Magnetizing force, Inductance, Induced voltage, RL transients,
+        Initial values, Inductors in series and parallel, RLC circuits with DC source.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        •	Introductory circuit Analysis by Robert L. Boylestad, 10th edition.
+        \n\n
+        
+        •	Introduction to Electric Circuits 5th edition by Richard C. Dorf.
+        \n\n
+        
+        •	Electric Circuits Fundamentals, 5th edition by Thomas L. Floyd.
+        \n\n
+         
+        •	Electrical Circuit Analysis, Hayt and Kemmerly, published by McGraw-Hill.
+        \n\n
+        
+        •	A text Book of Electrical Technologies by B.L. Theraja.
+        \n\n\n
 
+    </string> 
+    
 
+    
+    
+    <string name="subject_code_and_name124">
+        
+        <b>ECE-114: Electronic Circuits – I</b>
+        \n\n
+        
+        <b>Semiconductor Diode:</b> Introduction to semiconductors, p-type and n-type semiconductors; 
+        p-n junction diode characteristics, diode load line, Diode applications: half and full wave rectifiers, 
+        clipping and clamping circuits, regulated power supply using Zener diode, LED and photo diodes.
+        \n\n
+        
+        <b>Bipolar Junction Transistor (BJT):</b> Construction and operation, amplifying action, 
+        Transistor circuit configurations (CE, CB, CC), BJT biasing, relations between alpha and beta, 
+        leakage current in a transistor, Thermal runaway of a transistor, I-V characteristics, 
+        DC load line and Q point, transistor biasing factor, effect on bias variations, 
+        stability factor for CB and CE configuration, different methods of transistor biasing, AC load line.
+        \n\n
+        
+        <b>Field Effect Transistors (FET):</b> JFET construction, operation and characteristics, biasing of FET, 
+        MOSFET construction, operation and characteristics, depletion and enhancement type MOSFETs, 
+        biasing and application of depletion and enhancement MOSFETs.
+        \n\n
+        
+        <b>BJT small signal amplifier circuit analysis:</b> BJT Amplifiers CE, CB, CC configurations, 
+        DC analysis of transistor circuits, Collector feedback configuration, h-parameter model of transistor. 
+        Relationship between CC, CB, CE parameters, expressions for voltage gain, current gain, 
+        input resistance and output resistance. Effects of coupling and bypass capacitor. Hybrid Pi equivalent circuit, 
+        gain bandwidth product, Frequency response, Frequency compensation, Low frequency compensation, 
+        High frequency compensation, Cascade amplifier.
+        \n\n
+        
+        <b>FET small signal amplifier analysis:</b> Amplifier with source resistance, Small signal model, 
+        AC small signal operation, Loading effect, Source follower (common drain) circuit, Common gate circuit, 
+        Design of FET amplifier circuits (CS, CD and CG).
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Electronic Devices by Floyd – 5th edition.
+        \n\n
+        
+        •	Micro-electronics by Jacob Millman and Arvin Grabel.
+        \n\n
+        
+        •	Electronics Devices and Circuits Theory by Robert L. Boylestad, Louis Nashelsky.
+        \n\n
+        
+        •	OpAmp Applications Handbook, (Analog Devices Inc., edited by Walt Jang).
+        \n\n
+        
+        •	Schaum\'s Outline of Electronic Devices and Circuits, Second Edition, by Jim Cathey.
+        \n\n\n
 
+                
+    </string>
 
+    
+    
+    <string name="subject_code_and_name125">
+        
+        <b>ECE-115: Digital Electronics – I</b>
+        \n\n
+        
+        <b>Number Systems and Codes:</b> Decimal, binary, Octal and hexadecimal number systems and conversion, 
+        BCD, Alphanumeric, Grey, Excess-3, ASCII codes.
+        \n\n
+        
+        <b>Digital Logic:</b> Boolean algebra, De Morgan\’s theorem, Logic gates and their truth tables,
+        Canonical form of logic expressions.
+        \n\n
+        
+        <b>Combinational Logic Circuits:</b> Sum of Products form (SOP), Product of Sum form (POS), Max term, 
+        Min term, Algebraic simplification, designing combinational logic circuits, Simplification using K-map, 
+        K-map and don\’t care term.
+        \n\n
+        
+        <b>Flip-Flops and Related Devices:</b> Sequential circuits, NAND gate latch, NOR gate latch, 
+        Clock signal and clocked flip-flops, Asynchronous inputs of flip-flops, flip-flop timing considerations, 
+        Race-around condition, master-slave flip-flop, Flip-flop applications, Design of synchronous and asynchronous counters, 
+        Ring counter, Johnson counter, Different types of registers, Application of counter.
+        \n\n
+        
+        <b>Arithmetic Circuits:</b> Half adder, Parallel binary adder, Parallel binary adder with register, 
+        Parallel adder ICs, 2\’s complement system and circuit, BCD adder, Subtract circuit, Multiplier circuit.
+        \n\n
+        
+        <b>Integrated Circuit Logic Families:</b> TTL logic family, Standard TTL and other TTL series characteristics, 
+        TTL open collector output, Tristate TTL, ECL family and its characteristics, MOS, PMOS, NMOS, and CMOS families.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Principles of Digital Electronics by T.J. Tocci.
+        \n\n
+        
+        •	Modern Digital Electronics by R.P. Jain.
+        \n\n
+        
+        •	Digital electronics by by Morris Mano.
+        \n\n
+        
+        •	Digital Systems by M. Lutfar Rahman.
+        \n\n
 
+    </string>
+    
+     
+    <string name="subject_code_and_name126">
+        
+        <b>ECE-206: Electrical Circuits – I Lab</b>
+        \n\n
+        
+        Based on course ECE-113
+        \n\n\n
+        
+    </string>  
+    
+    
     <string name="subject_code_and_name127">
-
+        
         <b>ECE-206: Electronic Circuits – I Lab</b>
         \n\n
+        
         Based on course ECE-114 and ECE-115
-        \n\n
-
+        \n\n\n
+        
     </string>
-
-
-
 </resources>

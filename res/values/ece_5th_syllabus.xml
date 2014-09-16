@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="subject_code_and_name311">
+        <b>ECE-301: Electromagnetic Fields and Waves</b>
+        \n\n
+        
+        <b>Static electric field:</b> Postulates of electrostatics, Coulomb\’s law for discrete and continuously
+        distributed charges, Gauss\’s law and its applications, electric potential due to charge distribution,
+        conductors and dielectrics in static electric field, flux density – boundary conditions; capacitance – 
+        electrostatic energy and forces, energy in terms of field equations, capacitance calculations of different 
+        geometries; boundary value problems – Poisson\’s and Laplace\’s equations in different co-ordinate systems,
+        steady electric current, Ohm\’s law, continuity equation, Joule\’s law, resistance calculation.
+        \n\n
+        
+        <b>Static magnetic field:</b> Postulates of magneto statics, Biot-Savart\’s law, Ampere\’s law and applications,
+        vector magnetic potential, magnetic dipole, magnetization, magnetic field intensity and relative permeability, 
+        boundary conditions for magnetic fields, magnetic energy, magnetic forces, torque and inductance for different 
+        geometries.
+        \n\n
+        
+        <b>Time varying fields and Maxwell\’s equations:</b> Faraday\’s law of electromagnetic induction, Maxwell\’s
+        equations – differential and integral form, boundary conditions, potential functions, time harmonic fields 
+        and Poynting theorem.
+        \n\n
+        
+        <b>Plane electromagnetic waves:</b> Propagation and reflection of electromagnetic waves in unbounded media, 
+        plane waves in loss-less media – Doppler effect, transverse electromagnetic waves, polarization of plane waves, 
+        plane waves in lossy media, loss-less dielectrics, good conductors, group velocity, instantaneous and average 
+        power densities, normal and oblique incidence of plane waves at plane boundaries for different polarizations.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Fundamentals of Electromagnetics with Engineering Applications, 2005, S.M. Wentworth.
+        \n\n
+        
+        •	Fields and Waves in Communication Electronics, Simon Ramo, J.R. Whinnery, T.V. Duzer, 3rd Edition.
+        \n\n
+         
+        •	Fields and Waves in Communication Electronics, 3rd Ed., 1989, S. Ramo, J.R. Whinnery and T. VanDuzer, Wiley.
+        \n\n
+        
+        •	Elements of Electromagnetics, 3rd Ed., 2001, M.N.O. Sadiku, Oxford University Press.
+        \n\n
+        
+        •	Electricity and Magnetism, K.K. Tewari.S. Chand &amp; Company Ltd.
+        \n\n
+         
+        •	Electromagnetics, J.A. Edminister, TATA McGraw Hill Edition.
+        \n\n
+         
+        •	Field and Wave Electromagnetics, David K. Cheng, Addison Wesley Publishing Co., 1992, 2nd Edition.
+        \n\n\n 
+                     
+        
+        
+    </string>
+    
+    
+    
+    
+    <string name="subject_code_and_name312">
+        <b>ECE-302: Numerical Analysis</b>
+        \n\n
+        
+        Solution of equation in one variable (Fixed-point iteration Method, Newton Raphson Method, Error Analysis), 
+        Interpolation polynomial for equal and unequal interval, Solving Systems of Linear Equations (Direct Method, 
+        Gaussian elimination with backward substitution, using matrix operation), Numerical Solution of Ordinary 
+        differential Equation (Euler Method, Runge-Kutta Method, Finite Difference Method), Numerical Differentiation 
+        and Integration (Richardson\’s extrapolation method, Adaptive quadrature, Trapezoidal and Simpson\’s rule),
+        Illustrative programming projects and use of computer to implement the projects.
+        
+        \n\n
+        
+        <b>Recommended books:</b> 
+        \n\n
+        
+        
+        •	Nymerical Analysis : Richard L Burden, J. Douglas Faires, 7th edition.
+        \n\n
+        
+        •	Numerical Analysis, Vipin and Vasishtha.
+        \n\n
+        
+        •	Numerical Analysis : J.H. Mathews, Numerical Mehods for Computer Science , Engineering and Mathematics, 
+        Prentice-Hall, 1987
+        \n\n\n	
+        
+               
+    </string>
+    
+    
+    
+    
+    
+    
+    <string name="subject_code_and_name313">
+        <b>ECE-303: Microprocessors &amp; Assembly Language</b>
+        \n\n
+        
+        <b>Microprocessors:</b> Evaluation of Microprocessors, register and accumulator based microprocessor, 
+        programmable logic device, memory organization, I/O techniques, 8086 microprocessor: internal architecture, 
+        addressing modes, pin configuration and function, memory bank, interrupt interface, maximum/minimum mode interface, 
+        read/write cycle.
+        \n\n
+        
+        <b>Advanced Microprocessors:</b> Overview, internal architecture, memory management of 80186, 80286, 80386, and 
+        80486 microprocessor. Overview of Pentium processor, co-processor, Alpha processor, and pipeline processor.
+        \n\n
+        
+        <b>Assembly Language:</b> Types of assembler, assembly programming basics, instruction formats, 
+        assembly instruction types: Data transfer instruction, Arithmetic and Logic instruction, 
+        shift and rotate instruction, Transfer control and conditional processing, String processing, 
+        Input/Output, Interrupts, Procedures and macro.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Microprocessor and microprocessor based system design by M. Rafiquzzaman.
+        \n\n
+        
+        •	The 8088 and 8086 microprocessors by W. A. Triebel.
+        \n\n
+         
+        •	Introduction to Microprocessors by John Crisp.
+        \n\n
+        
+        •	INTEL Microprocessors 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Prentium ProProcessor, 
+        Pentium II, III, 4 by Barry B. Brey.
+        \n\n
+        
+        •	The Art of Assembly Language by Randall Hyde.
+        \n\n\n
+        
+    </string>
+    
+    
+    
+    
+    <string name="subject_code_and_name314">
+        <b>ECE-304: Data Communications</b>
+        \n\n
+        
+        <b>Introduction:</b> A data communication Model, Data Communication tasks, Data Communication 
+        networks standards, Introduction to OSI and TCP/IP models.
+        \n\n
+        
+        <b>Data Transmission:</b> Spectrum and bandwidth, Transmission impairments, 
+        Channel capacity and data rate, transmission media- coaxial cable. twisted pair, fiber optics, 
+        wireless transmission, electromagnetic spectrum, microwaves, radio waves, infrared and satellite communication.
+        \n\n
+        
+        <b>Data Encoding:</b> Digital data and digital signaling, NRZL, NRZI. Bipolar AMI, Manchester and 
+        differential Manchester encoding. Digital data and Analog signaling, ASK, FSK, PSK, QPSK, 
+        QAM and their performance. Analog data and digital signaling – PCM, DM.
+        \n\n
+        
+        <b>Data Transmission techniques:</b> Asynchronous and synchronous data transmission technique, 
+        EIA 232 &amp; V.24 interface standard.
+        \n\n
+        
+        <b>Data Link Control:</b> Flow control, Error Detection - Parity and CRC, Error correction and Hamming code, 
+        Error Control (Stop and Wait, Go back N ARQ. Selective Reject ARQ), High-level Data Link Control (HDLC).
+        \n\n
+        
+        <b>Multiplexing:</b> Frequency Division Multiplexing, Synchronous Time-Division Multiplexing, 
+        Statistical Time- division Multiplexing, wavelength division multiplexing.
+        \n\n
+        
+        <b>Data Communication Networking:</b> Circuit switching, Space division and TDM switching, 
+        Packet switching, Virtual circuit and datagram.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Data and Computer Communications, W. Stallings, Macmillan, 6th Edition.
+        \n\n
+         
+        •	Computer Networks, A. S. Tanenbaum, Prentice Hall, 1996.
+        \n\n
+         
+        •	Data Communications and Networking, 4/e, McGraw-Hill, Behrouz A. Forouzan.
+        \n\n\n 
+        
+      
+    </string>
+    
+    
+    
+    
+    <string name="subject_code_and_name315">
+        <b>ECE-305: Electronic Materials</b>
+        \n\n
+        
+        <b>Structural properties:</b> Crystalline, amorphous, polymer, binding force, elastic properties, 
+        dislocations, defects, etc. Thermal and electrical properties: specific heat, thermal expansion, thermal conductivity.
+        \n\n
+        
+        <b>Dielectric properties of solids:</b> Basic relationship and parameters, model of dielectric polarization, 
+        ferroelectricity and piezo-electricity.
+        \n\n
+        
+        <b>Optical properties of solids:</b> Classical theory, free carrier effects, lattice absorption, electrical absorption.
+        \n\n
+        
+        <b>Magnetic properties of solids:</b> Atomic magnetic moments, dia and paramagnetism, ferromagnetism, anti ferromagnetism, 
+        magnetic resonance.
+        \n\n
+        
+        <b>Superconductivity:</b> Theory of superconductivity, superconductors and some applications.
+        \n\n
+        
+        <b>Nano-Technology:</b> Carbon as a nano material, structure of carbon, carbon nanotube, quantum dots and nanowires.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Electronic Processes in Materials by Azaroff and Brophy.
+        \n\n
+        
+        •	Semiconductor and Electronic Devices by Streetman.
+        \n\n
+        
+        •	Handbook of Nano-structured  Materials and Nano Technology b H S Nawla.
+        \n\n\n
+             
+    </string>
+    
+    
+    
+    
+    <string name="subject_code_and_name316">
+        <b>ECE-306: Data Communications Lab</b>
+        \n\n
+        
+        Based on course ECE-304 Data Communications. 
+        \n\n\n
+              
+    </string>
+    
+    
+    
+    <string name="subject_code_and_name317">
+        <b>ECE-307: Microprocessors &amp; Assembly Language  Lab</b>
+        \n\n
+        
+        Based on course ECE-303 Microprocessor and Assembly Language.
+        \n\n\n
+        
+    </string>
+    
+</resources>
