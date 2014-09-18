@@ -18,5 +18,6 @@
         <activity android:name=".ECE_syllabus"/>
         <activity android:name=".CSE_syllabus"/>
         <activity android:name=".BBA_syllabus"/>
+        <activity android:name=".Credit"/>
     </application>
 </manifest>

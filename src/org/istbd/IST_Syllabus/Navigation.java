@@ -13,7 +13,7 @@ import com.capricorn.ArcMenu;
  */
 public class Navigation extends Activity {
     private static final int[] ITEM_DRAWABLES = { R.drawable.ece_button, R.drawable.cse_button,
-            R.drawable.bba_button};
+            R.drawable.bba_button,R.drawable.credit_button};
 
 
     @Override
@@ -27,7 +27,7 @@ public class Navigation extends Activity {
 
     private void initArcMenu(ArcMenu menu, int[] itemDrawables) {
         final int itemCount = itemDrawables.length;
-        final String[] names = {"ECE", "CSE", "BBA"};
+        final String[] names = {"ECE", "CSE", "BBA","CREDIT"};
         for (int i = 0; i < itemCount; i++) {
             ImageView item = new ImageView(this);
             item.setImageResource(itemDrawables[i]);
@@ -44,6 +44,9 @@ public class Navigation extends Activity {
                         startActivity(nextView);
                     }else if(names[position].equals("BBA")){
                         Intent nextView = new Intent(Navigation.this, BBA_syllabus.class);
+                        startActivity(nextView);
+                    }else if(names[position].equals("CREDIT")){
+                        Intent nextView = new Intent(Navigation.this, Credit.class);
                         startActivity(nextView);
                     }
 
