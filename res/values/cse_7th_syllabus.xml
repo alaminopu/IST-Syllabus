@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cse_subject_code_and_name411">
+        <b>CSE-411 Computer Network</b>
+        \n\n
+        
+        <b>Introduction: </b> Basic computer network concept; Network structure; Network software; Reference model; Example 
+        networks; OSI Model, TCP/IP Model, X.25 Networks.
+        \n\n
+        
+        <b>Frame Relay: </b> Introduction to frame relay, advantages and disadvantages, role of frame relay, frame relay 
+        operations, virtual circuits, DLCIs inside the network, frame relay layers; physical layer , data link layer.
+        \n\n
+        
+        <b>ATM Network: </b> Packet networks, mixed network traffic, cell networks, asynchronous TDM,virtual connection, 
+        identifiers, cell, connection establishment and release, Application Adoptions Layer(AAL),ATM layers, Physical layer, 
+        ATM WANs, ATM LANs.
+        \n\n
+        
+        <b>Medium Access sub-layer: </b> Multiple Access Protocols: ALOHA; CSMA/CD Protocol; Collision-Free protocols;CDMA Limited 
+        contention protocol; Wavelength division multiple access protocols; Wireless LAN protocols; IEEE standard 802 for 
+        LANs and MANs; Bridges; High-speed LANs;Wireless LANs,Mobile telephony and Satellite Networks.
+        \n\n
+        
+        <b>Network Layer: </b> Network layer design issues; Routing algorithms; Congestion control Algorithms; Inter networking; 
+        Network layer in the internet; IPv4 and introduction to IPv6.
+        \n\n
+        
+        <b>Transport Layer: </b> The transport service; Elements of transport protocols; The internet transport protocols; The 
+        ATM AAL layer protocols.
+        \n\n
+        
+        <b>Optical Fiber Network: </b> SONET and SDH.
+        \n\n
+        
+        <b>Application Layer: </b> Network security; DNS-Domain Name system; SNMP: Simple Network Management protocol; 
+        Electronic Mail; The World Wide Web; Multimedia.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+        1.	Tannenbaum ,Computer Networks.
+        \n\n
+        
+        2.	W. Stallings, Data &amp; Computer Communication.
+        \n\n
+        
+        3.	Behrouz &amp; Forouzen, Data Communication &amp; Networking.
+	    \n\n\n\n\n
+	            
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name412">
+        <b>CSE-412 Computer Network Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-411
+        \n\n
+        
+        Overall Concept about network, Configure TCP/IP, Different protocol and net card, DHCP server/client configuration. 
+        Introduction to DNS, DNS server configuration, use of DNS testing utility, Caching only DNS server configuration, 
+        canonical name implementation, Introduction to electronic mail system, configuration, use of DNS testing utility, 
+        Caching only DNS server configuration, Canonical name implementation, introduction to electronic mail system, configure 
+        to ISP online mail, configure SMTP, POP, testing and debugging, email account splitting, virtual hosting, IMP and POP 
+        setup, WINS configuration, apache web server configuration, apache core active and apache module, web based mail 
+        configuration, apache core active and apache module, web based mail configuration using open web mail, IP based virtual 
+        web hosting, name based virtual web hosting, testing and debugging and log file analysis, squid  proxy server 
+        configuration, understanding of different squid tag FTP configuration.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name413">
+        <b>CSE-413 Artificial Intelligence and Neural Network</b>
+        \n\n
+        
+        <b>Introduction: </b> What is AI, Intelligent agents.
+        \n\n
+        
+        <b>Problem Solving by Searching: </b> Blind search, Informed search, Depth first, breadth first, depth limited, 
+        iterative deepening, bi-directional, best first, heuristics search, A* search, Hill climbing search, Simulated 
+        annealing search, Genetic Algorithm.
+        \n\n
+        
+        <b>Knowledge: </b> Knowledge representation, First-order logic, PL, FOPL, WFFs, Fuzzy Logic. 
+        \n\n
+        
+        <b>Neural Network: </b> ANN, Perceptron, Learning, Supervised, Unsupervised, Reinforcement learning, Back Propagation.
+        \n\n\n
+        
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+        1.	Stuart Russel &amp; Peter Norvig,  Artificial Intelligence: A Modern Approach.
+        \n\n
+        
+        2.	Stamations V. Katalopoulos, Understanding Neural Networks and Fuzzy Logic.
+        \n\n
+        
+        3.	Barr and Feigenbaum, Handbook of Artificial Intelligence Vol. I , William Kaufmann
+        \n\n
+        
+        4.	Iven Bratko, Programming for Artificial Intelligence.
+        \n\n\n\n\n
+	
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name414">
+        <b>CSE-414 Parallel and Distributed Processing</b>
+        \n\n
+        
+        <b>Parallel Processing: </b> Overview- Importance, architecture, hardware and software issues. Architecture for 
+        parallels processing- classifications, comparative study of different architectures. Issues in parallel processing, 
+        Parallel Algorithm – Pointer Jumping, Work-efficient, Sorting Networks, Graph Problems- Connected Components, Shortest 
+        Paths Spanning Trees.
+        \n\n
+        
+        <b>Distributed processing : </b> Overview- Definition, impact of distributed processing on organizations, pitfalls in 
+        distributed processing. Forms of distributed processing- Function distribution, hierarchical distributed systems, 
+        horizontal distributed system.
+        \n\n
+        
+        <b>Strategy: </b> strategies for distributed data processing, control of complicity, problem of incompatibility, 
+        centralization Vs decentralization, cost an benefit analysis.
+        \n\n
+        
+        <b>Design of distributed data: </b> Distributed data- Distributed data, location of data, multiple copies data, conflict 
+        analysis, database management, distributed database and applications.
+        \n\n
+        
+        <b>Fault Tolerance: </b> Forward and Backward Error Recovery, Voting Protocol, Redundancy Approaches, Operation based 
+        and State Based Approach, Commit Protocols.
+	    \n\n\n
+	    
+	    <b>Reference Books: </b>
+        \n\n
+        
+        
+        1.	Advanced Computer Architecture- Hwang Kai
+        \n\n
+        
+        2.	Distributed Operating System- P.K. Sinha
+        \n\n
+        
+        3.	Distributed Operating System- Tanenbaum
+        \n\n
+        
+        4.	Algorithm- Coreman
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name415">
+        <b>CSE-415 Peripheral and Interfacing</b>
+        \n\n
+        
+        <b>Interfacing techniques: </b> Interfacing for Memory; Communication system; System overhead (DMA and Programmed data 
+        transfer); I/O ports and Control; Parallel and Serial Interfacing devices; Timing considerations; Noise considerations; 
+        Application of PPI, PIC, DMAC, PCI etc.
+        \n\n
+        
+        <b>Digital Interfacing: </b> Programmable parallel ports and handshake input/output (IC 8255), Interfacing a 
+        Microprocessor to keyboards, X-lat, Display-Alphanumeric and multiplexed LED (Interfacing with IC 7447), Relay, Stepper 
+        motor, Incremental Encoder, Optical motor shaft encoder.
+        \n\n
+        
+        <b>Modern data-entry devices: </b> Scanners overview; Bar code reader; Optical mark reader (OMR); Optical Character 
+        Reader (OCR); Tape Reader; Digitizer: Reading technique, Capacitive Electrostatic scanning digitizer.
+        \n\n
+        
+        <b>Display devices: </b> CRT; Basic CRT operations; Timing and frequencies; CRT controller ICs; LCD technologies; 
+        Passive and active matrix; LCD reliability; Electroluminescent display.
+        \n\n
+        
+        <b>Printers: </b> Impact printers; Serial and line printing; Laser printing; Ink-Jet printing; Color printing; Plotters.
+        \n\n
+        
+        <b>Storage devices: </b> Floppy disk; Floppy disk controller (IC 8272) ; Magnetic hard disk and controller; Compact 
+        disk, magnetic tape storage.
+        \n\n
+        
+        <b>Data Communication and Network: </b> Introduction to asynchronous serial data communication, RS-232 C serial data 
+        standard, USART(IC 8251A) word format, Null Modem configuration, The GPIB, HPIB, IEEE 488 Bus.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+       	1. Microprocessor and Interfacing by Andrew Hall
+       	\n\n
+       	
+    	2. Computer Peripherals (Part B) by Barry Wilkinson
+    	\n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name416">
+        <b>CSE-416 Peripheral and Interfacing Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-415
+        \n\n
+        
+        Understand SDK 86 board, write and execute a program in an SDK 86.
+        \n
+        
+        Understand RS-232 standard, Connections and Cabling.
+        \n
+         
+        Communicate between two Computers using parallel ports (Printer Port).
+        \n
+        
+        Observe and manipulate Null modem Configuration.
+        \n
+        
+        Communicate between two Computers using serial ports.
+        \n
+        
+        Drive a single 7 segment LED display with 7447.
+        \n
+        
+        Understand the basic characteristics of IC 8255.
+        \n\n\n\n\n
+
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name417"> 
+        <b>CSE-417 Digital Signal Processing</b>
+        \n\n
+        
+        <b>Introduction to Digital Signal Processing (DSP): </b> Introduction; Digital Signal Processing; Sampling and 
+        Analog-to-Digital Conversion; Discrete Time Signals; Ambiguity in Digital signals; Discrete Time Systems; Application 
+        areas for DSP; Keys of DSP operations: Convolution, Correlation, Digital Filtering, Discrete Transformation, 
+        Modulation; System Design: Methodology  &amp; Implementation Methodology.
+        \n\n
+        
+        <b>Discrete Fourier transform: </b> Fourier series, one dimensional Fourier transforms, discrete Fourier Transform 
+        (DFT) and its properties, Fast Fourier Transform (FFT) and its algorithm, Inverse discrete Fourier transformation.
+        \n\n
+        
+        <b>The Z-Transform: </b> Introduction to z-Transform; General Results of z-transform; Inverse z-Transform: Partial 
+        Fraction Expansion, Power Series Expansion, Contour Integration; Comparison of inverse z-transform method; Properties 
+        of z-transform; Complex Convolution Theorem and Parseval\'s Relation.
+        \n\n
+        
+        <b>Implementation of Discrete-Time Systems: </b> Introduction; Block Diagram and Signal Flow Graph Representation of 
+        Digital Networks; Matrix Representation of Digital Networks; Basic Structures of IIR Systems: Direct Form, Cascade 
+        forms, Parallel Form; Transposed Forms; Basic Structures of FIR Systems; Finite Precision Effects.
+        \n\n
+        
+        <b>Design of Digital Filters: </b> Introduction to Digital Filters; Types of Digital Filters: FIR and IIR; Choosing between 
+        FIR and IIR Filters: Digital Filter Design Steps; Design of FIR Filters: Design of FIR Filters by Windowing, Design of 
+        Optimum Equiripple Linear-Phase FIR Filters, Design of IIR Filters: Classical Continuous-Time Low-Pass Filter 
+        Approximations, Conversion of Transfer Functions from Continuous to Discrete Time, Frequency Transformations of Low pass 
+        Filters, Adaptive digital filters: concepts of adaptive filtering, basic wiener filter theory, the basic LMS adaptive 
+        algorithm, recursive least square algorithm.
+        \n\n\n
+        
+        <b>Reference books: </b>
+        \n\n
+        
+        
+        1.	Emmanuel C. Ifeachor, Barrie W. jervis.  Digital Signal Processing.
+        \n\n
+        
+        2.	John G. Proakis, Dimitris G. Manolakis,  Digital Signal Processing – Principles, Algorithms, and applications.
+        \n\n
+          
+        3.	Alan V. Oppenheim, Ronald W. Schafer, John R. Buck, Dicrete-Time signal Processing.
+        \n\n\n\n\n
+
+    </string>
+    
+    
+   
+</resources>

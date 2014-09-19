@@ -3,7 +3,7 @@
 <resources>
     
     
-    <string name="subject_code_and_name121">
+    <string name="ece_subject_code_and_name121">
         <b>ECE-111: Physics – II (Modern Physics, Heat and Thermodynamics)</b>
         \n\n
         
@@ -49,7 +49,7 @@
     
     
     
-     <string name="subject_code_and_name122">
+     <string name="ece_subject_code_and_name122">
         <b>ECE-112: Math – III:Differential Equations and Complex Variables</b>
         \n\n
         
@@ -92,7 +92,7 @@
     
 
      
-    <string name ="subject_code_and_name123">
+    <string name ="ece_subject_code_and_name123">
         <b>ECE-113: Electrical Circuits – I</b>
         \n\n
         
@@ -137,7 +137,7 @@
 
     
     
-    <string name="subject_code_and_name124">
+    <string name="ece_subject_code_and_name124">
         
         <b>ECE-114: Electronic Circuits – I</b>
         \n\n
@@ -196,7 +196,7 @@
 
     
     
-    <string name="subject_code_and_name125">
+    <string name="ece_subject_code_and_name125">
         
         <b>ECE-115: Digital Electronics – I</b>
         \n\n
@@ -247,7 +247,7 @@
     </string>
     
      
-    <string name="subject_code_and_name126">
+    <string name="ece_subject_code_and_name126">
         
         <b>ECE-206: Electrical Circuits – I Lab</b>
         \n\n
@@ -258,7 +258,7 @@
     </string>  
     
     
-    <string name="subject_code_and_name127">
+    <string name="ece_subject_code_and_name127">
         
         <b>ECE-206: Electronic Circuits – I Lab</b>
         \n\n

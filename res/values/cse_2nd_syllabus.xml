@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="cse_subject_code_and_name121">
+        <b>CSE-121  Data Structure</b>
+        \n\n
+        
+        <b>Introduction:</b> Basic Terminology; Elementary Data Organization; Data Structures; Data Structure Operations; 
+        Control Structures; Algorithms: Complexity, Time-Space Tradeoff, Mathematical Notation and function, String Processing: 
+        String Operations, word processing, and Pattern Matching Algorithms.
+        \n\n
+        
+        <b>Arrays, Records and Pointers:</b> Linear Arrays; Representation of linear array in memory; Traversing linear arrays, 
+        Inserting and Deleting; Sorting; (Bubble sort), Searching (linear, binary), Multidimensional Arrays; Pointer Arrays; 
+        Record Structures;  Matrices.
+        \n\n
+        
+        <b>Linked lists:</b> Representation of Linked lists in memory, Traversing a linked list, Searching a linked list, 
+        insertion, deletion; Header and two-way lists. 
+        \n\n
+        
+        <b>Stacks, Queues, Recursion:</b> Array Representation of Stacks, Polish Notation; Quicksort, Recursive definition; 
+        Towers of Hanoi, Implementation of Recursive procedures, Queue Dequeue, Priority Queues.
+        \n\n
+        
+        <b>Trees:</b> Binary Trees; Representing Binary Trees in memory, traversing binary tree, Header Nodes; Threads , 
+        binary search trees, Heap tree, heap sort, Huffman\’s Algorithm.
+        \n\n
+        
+        <b>Graphs:</b> Sequential Representation of Graph; Adjacency Matrix; Path Matrix; Warshall\’s Algorithm; 
+        Linked representation of Graphs.
+        \n\n\n
+        
+        <b>Reference book:</b>
+        \n\n
+        
+        
+        1.	Seymour Lipschutz ( Schaum\’s  outline series), Data Structure (International Edition)
+        \n\n
+        
+        2.	Ellis Horowitz &amp; Sartaj Sahni, Data Structure and Algorthm.
+        \n\n
+        
+        3.	Robers L Kruse, Data Structure &amp; Programming Design, 2nd Ed.
+        \n\n\n\n\n
+    
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name122">
+        <b>CSE-122 Data Structure Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-121
+        \n\n
+        
+        Operation on array of character (Single character, substring insertion, deletion, counting, find, etc), Usage of 
+        built-in string function declared in STRING.H file, Declaration and use of single/ multiple structure/ record type 
+        variables, Searching algorithms (Linear, Binary), Sorting Algorithms (Bubble, insertion, merge, Quick), Usage of 
+        pointer variable and memory allocation, Usage of address arithmetic, Usage of call by reference variable, Usage of 
+        pointer in structure variables and implementation as link list, Operation on one-way link list (Creation, display, 
+        insertion, deletion, append etc.), Declaration and operation on stack (Push, Pop) and queue (Dequeue), Recursive 
+        function (Towers Hanoi), Binary tree implementation, Infix, prefix, postfix transformation using array, Traversing 
+        techniques (In-order, preorder, post-order), Calculation of paths and nodes as well as height of a graph and tree,
+         Advanced sorting technique (Heap sort).
+        \n\n\n\n\n        
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name123">
+        <b>CSE-123   Introduction to Electrical Engineering</b>
+        \n\n
+        
+        <b>Ohm\’s law, Power and Energy:</b> Conductance and conductivity, Ohm\’s Law, Power, Wattmeter, Efficiency, Energy, 
+        Circuit Breaker\’s, GFCIS and Fuses, Effect of Temperature on resistance
+        \n\n
+        
+        <b>Series Circuits:</b> Introduction, Voltage Sources in Series, Kirchoff\’s Voltage Law, Resistances is Series, 
+        Voltage Divider rule, Voltage regulation.
+        \n\n
+        
+        <b>Parallel circuits:</b> Introduction, kirchoff\’s current law, Current divider rule, Voltage source in parallel, 
+        Open and short circuits, Voltmeter.
+        \n\n
+        
+        <b>Method of analysis:</b> Source conversion, Maxwell\’s loop Current method, Mesh Analysis with matrix form, 
+        Nodal analysis with voltage source, Nodal analysis with current source.
+        \n\n
+        
+        <b>Network theorem:</b> Delta star conversion, Superposition theorem, Thevenin\’s theorem, Norton\’s theorem, Maximum 
+        power transfer theorem.
+        \n\n
+        
+        <b>Laws:</b> Ampere\’s law, Biot-Savart law, Induction and Inductance, Magnetic properties of matter, 
+        Inductors and transformers, AC and DC networks, DC and AC powers, instantaneous and r.m.s value: Current, 
+        voltage and power, average power for various combinations of R, L and C circuits, phasor representation.
+        \n\n\n
+        
+        <b>Reference Books:</b>
+        \n\n
+        
+        
+        1. Boylested, Introductory Circuit and Analysis.
+        \n\n
+        
+        2. B.L.Theraja,AText book of Electrical Technology
+        \n\n
+        
+        3. David Halliday and Robert Resin, Physics Part-II
+        \n\n\n\n\n
+
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name124">
+        <b>CSE-124 Introduction to Electrical Engineering Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-123.
+        \n\n
+        
+        Verification of ohm\’s law and measurement of Resistivity of a Metallic wire, To verify Kirchhoff\’s Current law and 
+        kirchhoff\’s Voltage law, To verify Thevenen\’s theorem, To verify Norton\’s theorem, To verify Superposition 
+        theorem, To study R-C circuit and to find out the time constant, To study the R-L-C series Resonance circuit.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name125">
+        <b>CSE-125 Integral Calculus and Differential Equation</b>
+        \n\n
+        
+        <b>Indefinite Integrals as Inverse of Derivatives:</b> Techniques of integration; Definite integral as limit of a 
+        sum; Interpretation as area; Fundamental theorem of integral calculus (for continuous functions); Determination of 
+        length and area of plain curve; Volume and surface area of revolution.
+        \n\n
+        
+        <b>Introduction to linear, Nonlinear and Inhomogeneous Differential Equations:</b> Solutions of ordinary differential 
+        equations; Solutions by the method of variation of parameters and indetermined coefficients.
+        \n\n
+        
+        <b>Differential Equations:</b> Power series solutions about singular points; Solutions of partial differential 
+        equations by the method of separation of variables.
+        \n\n\n
+        
+        <b>Reference Books:</b>
+        \n\n
+        
+        
+        1.	Dr. Abdul Matin, Integral Calculus.
+        \n\n
+        
+        2.	B.C Das &amp; B.N Mukherjee, Integral Calculus.
+        \n\n
+        
+        3.	Abu Yusuf, Differential Equations.
+        \n\n
+         
+        4.	Dr. Abdul Matin, Differential Equations.
+        \n\n\n\n\n
+              
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name126">
+        <b>CSE-126 Statistics and Probability </b>
+        \n\n
+        
+        <b>Elements of Statistics:</b> Nature and scope of statistics, Nature &amp; representation of statistical data; 
+        Attributes and variables; discrete and continuous variables; Method of data collection.
+        \n\n
+        
+        <b>Measures of location:</b> Characteristics of an ideal measure; Arithmetic mean; Geometric mean; Harmonic mean; 
+        Median; Mode; Quartiles; Deciles; Percentiles.
+        \n\n
+        
+        <b>Measure of dispersion:</b> Characteristics of an ideal measure: Absolute &amp; Relative measures; Range; Standard 
+        deviation; Mean deviation; Quartile deviation; Coefficient of dispersion; Coefficient of variation; Skew ness and 
+        kurtosis.
+        \n\n
+        
+        <b>Elements of Probability:</b> Meaning and definition of probability; A priori and a posteriori probability; Basic 
+        terminology of probability; Random variables; Probability function; Expectation of sum and products.
+        \n\n
+        
+        <b>Regression and correlation:</b> Relationship between variables; Fitting of regression lines; Simple correlation; 
+        Multiple correlation and regression. 
+        \n\n
+        
+        <b>Sampling:</b> Sampling Techniques &amp; its role, different types of sampling &amp; its merits &amp; Demerits.
+        \n\n
+        
+        <b>Tests of Significance:</b> Tests of means, Variance, Correlation coefficient and regression coefficient.
+        \n\n
+        
+        <b>Probability Distribution:</b> Binomial Distribution, its uses and properties, Poisson Distribution, its uses and 
+        properties, Normal Distribution, its uses and properties.
+        \n\n\n
+        
+        <b>Reference Books:</b> 
+        \n\n
+        
+        
+        1. M. Nurul Islam, An introduction to Statistics.
+        \n\n
+         
+        2. M.G. Mostafa, Methods of statistics.
+        \n\n
+        
+        3. Md Abdul Aziz, Business Statistics.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name127">
+        <b>CSE-127 Discrete Mathematics</b>
+        \n\n
+        
+        Set Theory, Relations, Functions, Graph Theory, Planer Graph and Trees, Direct graphs and Binary Trees, Algebraic 
+        Systems, Ordered sets and lattices, Propositional Calculus, Boolean Algebra, Lattices, group theory, cyclic groups, 
+        permutation groups, symmetry groups, quotient, homomorphism, Basic structure theory, Prepositional and Predicate logic, 
+        Mathematical reasoning and program techniques. Theories with induction. Counting and countability. Graph and trees. 
+        Morphisms, Algebraic structures.
+        \n\n\n
+        
+        <b>Reference Books :</b>
+        \n\n
+        
+        
+       1.	K.H. Rosen, Discrete Mathematics and Its Applications, McGraw Hill,4th ED 2000. 
+       \n\n
+       	
+       2.	O. Nicodemi, Discrete Mathematics CBS, 1989. 
+       \n\n
+       
+       3.	J. C. Molluzzo and F.Buckley( Waveland Press, reprinted 1997) ISBN 0-8833-9407
+       \n\n\n\n\n
+      
+    </string>
+    
+    
+    
+    
+</resources>

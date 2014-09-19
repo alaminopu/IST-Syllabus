@@ -2,7 +2,7 @@
 <resources>
     
     
-    <string name="subject_code_and_name111">
+    <string name="ece_subject_code_and_name111">
         <b>ECE-101: English</b>
         \n\n
         
@@ -57,7 +57,7 @@
     
     
     
-    <string name="subject_code_and_name112">
+    <string name="ece_subject_code_and_name112">
         
         <b>ECE-102: Physics-I (Electricity, Magnetism, &amp; Optics)</b>
         \n\n
@@ -109,7 +109,7 @@
     
     
     
-    <string name="subject_code_and_name113">
+    <string name="ece_subject_code_and_name113">
         
         <b>ECE-103: Math-I: Differential &amp; Integral Calculus</b>
         \n\n
@@ -154,7 +154,7 @@
     
     
     
-    <string name="subject_code_and_name114">
+    <string name="ece_subject_code_and_name114">
         
         <b>ECE-104: Math-II: Linear Algebra</b>
         \n\n
@@ -196,7 +196,7 @@
     
     
     
-    <string name="subject_code_and_name115">
+    <string name="ece_subject_code_and_name115">
         
     <b>ECE-105: Fundamentals of Computer &amp; Programming</b>
     \n\n
@@ -273,7 +273,7 @@
     
     
     
-    <string name="subject_code_and_name116">
+    <string name="ece_subject_code_and_name116">
         <b>ECE-106: Physics – 1 Lab</b>
         \n\n
             Based on ECE-102 Physics – 1.
@@ -282,7 +282,7 @@
     </string>
     
     
-    <string name="subject_code_and_name117">
+    <string name="ece_subject_code_and_name117">
         <b>ECE-107: Fundamentals of Computer &amp; Programming Lab</b>
         \n\n
 

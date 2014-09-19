@@ -10,51 +10,51 @@
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name121"
-                android:id="@+id/subject_code_and_name121"
+                android:text="@string/ece_subject_code_and_name121"
+                android:id="@+id/ece_subject_code_and_name121"
                 android:layout_alignParentTop="true" android:textColor="#000000"/>
 
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name122"
-                android:id="@+id/subject_code_and_name122"
-                android:layout_below="@+id/subject_code_and_name121"
+                android:text="@string/ece_subject_code_and_name122"
+                android:id="@+id/ece_subject_code_and_name122"
+                android:layout_below="@+id/ece_subject_code_and_name121"
                 android:textColor="#000000"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name123"
-                android:id="@+id/subject_code_and_name123"
-                android:layout_below="@+id/subject_code_and_name122"
+                android:text="@string/ece_subject_code_and_name123"
+                android:id="@+id/ece_subject_code_and_name123"
+                android:layout_below="@+id/ece_subject_code_and_name122"
                 android:textColor="#000000"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name124"
-                android:id="@+id/subject_code_and_name124"
-                android:layout_below="@+id/subject_code_and_name123"
+                android:text="@string/ece_subject_code_and_name124"
+                android:id="@+id/ece_subject_code_and_name124"
+                android:layout_below="@+id/ece_subject_code_and_name123"
                 android:textColor="#000000"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name125"
-                android:id="@+id/subject_code_and_name125"
-                android:layout_below="@+id/subject_code_and_name124"
+                android:text="@string/ece_subject_code_and_name125"
+                android:id="@+id/ece_subject_code_and_name125"
+                android:layout_below="@+id/ece_subject_code_and_name124"
                 android:textColor="#000000"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name126"
-                android:id="@+id/subject_code_and_name126"
-                android:layout_below="@+id/subject_code_and_name125"
+                android:text="@string/ece_subject_code_and_name126"
+                android:id="@+id/ece_subject_code_and_name126"
+                android:layout_below="@+id/ece_subject_code_and_name125"
                 android:textColor="#000000"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name127"
-                android:id="@+id/subject_code_and_name127"
-                android:layout_below="@+id/subject_code_and_name126"
+                android:text="@string/ece_subject_code_and_name127"
+                android:id="@+id/ece_subject_code_and_name127"
+                android:layout_below="@+id/ece_subject_code_and_name126"
                 android:textColor="#000000"/>
 
     </RelativeLayout>

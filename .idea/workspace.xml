@@ -68,22 +68,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Credit.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/Credit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51724136" vertical-offset="0" max-vertical-offset="406">
-              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-              <folding />
-            </state>
+      <file leaf-file-name="cse_third_semester.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/cse_third_semester.xml">
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="315">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding />
+            <state vertical-scroll-proportion="0.6447368" vertical-offset="805" max-vertical-offset="1200">
+              <caret line="70" column="71" selection-start-line="70" selection-start-column="71" selection-end-line="70" selection-end-column="71" />
+              <folding>
+                <element signature="e#3477#3515#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,32 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_2ndSemester.java" />
-        <option value="$PROJECT_DIR$/res/layout/ece_second_semester.xml" />
-        <option value="$PROJECT_DIR$/res/layout/ece_third_semester.xml" />
-        <option value="$PROJECT_DIR$/res/layout/ece_forth_semester.xml" />
-        <option value="$PROJECT_DIR$/res/layout/ece_fifth_semester.xml" />
-        <option value="$PROJECT_DIR$/res/layout/ece_sixth_semester.xml" />
-        <option value="$PROJECT_DIR$/res/layout/ece_seventh_semester.xml" />
-        <option value="$PROJECT_DIR$/res/layout/ece_eighth_semester.xml" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_3rdSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_4thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/adapter/TabsPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_5thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_6thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_7thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_8thSemester.java" />
-        <option value="$PROJECT_DIR$/res/values/ece_1st_syllabus.xml" />
-        <option value="$PROJECT_DIR$/res/values/ece_2nd_syllabus.xml" />
-        <option value="$PROJECT_DIR$/res/values/ece_3rd_syllabus.xml" />
-        <option value="$PROJECT_DIR$/res/values/ece_5th_syllabus.xml" />
-        <option value="$PROJECT_DIR$/res/values/ece_7th_syllabus.xml" />
-        <option value="$PROJECT_DIR$/res/values/ece_4th_syllabus.xml" />
-        <option value="$PROJECT_DIR$/res/values/ece_6th_syllabus.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/adapter/ECETabsPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/adapter/CSETabsPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_1stSemester.java" />
         <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_2ndSemester.java" />
         <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_3rdSemester.java" />
         <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_4thSemester.java" />
@@ -134,24 +103,50 @@
         <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_6thSemester.java" />
         <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_7thSemester.java" />
         <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_8thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/adapter/BBATabsPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_1stSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_2ndSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_3rdSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_4thSemester.java" />
         <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_5thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_6thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_7thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_8thSemester.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_syllabus.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_syllabus.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_syllabus.java" />
+        <option value="$PROJECT_DIR$/gen/org/istbd/IST_Syllabus/R.java" />
+        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_1stSemester.java" />
+        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_1stSemester.java" />
+        <option value="$PROJECT_DIR$/res/values/cse_2nd_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/cse_3rd_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/cse_4th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/cse_5th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/cse_6th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/cse_7th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/cse_8th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/ece_1st_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/ece_2nd_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/ece_3rd_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/ece_4th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/ece_5th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/ece_6th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/ece_7th_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/values/ece_8th_syllabus.xml" />
         <option value="$PROJECT_DIR$/res/layout/ece_first_semester.xml" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/Navigation.java" />
-        <option value="$PROJECT_DIR$/src/org/istbd/IST_Syllabus/Credit.java" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/res/layout/credit.xml" />
-        <option value="$PROJECT_DIR$/res/layout-land/credit.xml" />
+        <option value="$PROJECT_DIR$/res/layout/ece_second_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/ece_third_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/ece_forth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/ece_sixth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/ece_seventh_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/ece_fifth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/ece_eighth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cse_seventh_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cse_second_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cse_forth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/values/cse_1st_syllabus.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cse_first_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cse_fifth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cse_eighth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cse_sixth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bba_first_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bba_second_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bba_third_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bba_fifth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bba_sixth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bba_forth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bba_seventh_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/bba_eighth_semester.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cse_third_semester.xml" />
       </list>
     </option>
   </component>
@@ -223,8 +218,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -253,6 +248,42 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IST_Syllabus" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IST Syllabus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IST Syllabus" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IST Syllabus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IST Syllabus" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -271,7 +302,7 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout-land" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,7 +318,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="BX902W6TA4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/v4" />
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="false" />
@@ -306,7 +337,6 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Galaxy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -314,9 +344,9 @@
       <recent name="org.istbd.IST_Syllabus.adapter" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/layout" />
       <recent name="$PROJECT_DIR$/res/layout-land" />
       <recent name="$PROJECT_DIR$/src/org/istbd/IST_Syllabus" />
-      <recent name="$PROJECT_DIR$/res/layout" />
       <recent name="$PROJECT_DIR$/res/values" />
       <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
     </key>
@@ -325,7 +355,11 @@
       <recent name="org.taptwo.android.widget" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/res/layout/" />
+      <recent name="$PROJECT_DIR$/res/values" />
+      <recent name="$PROJECT_DIR$/res" />
+      <recent name="$PROJECT_DIR$/res/layout" />
+      <recent name="$PROJECT_DIR$/res/layout/cse" />
+      <recent name="$PROJECT_DIR$/res/layout/ece" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.IST Syllabus">
@@ -364,6 +398,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -389,19 +436,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -537,7 +571,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20424597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20424597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -589,231 +623,75 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_4thSemester.java">
+    <entry file="file://$PROJECT_DIR$/gen/org/istbd/IST_Syllabus/R.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44334975" vertical-offset="0" max-vertical-offset="406">
-          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_5thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36945814" vertical-offset="0" max-vertical-offset="406">
-          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_6thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48029557" vertical-offset="0" max-vertical-offset="406">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_7thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2955665" vertical-offset="0" max-vertical-offset="406">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_8thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44334975" vertical-offset="0" max-vertical-offset="406">
-          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/ece_2nd_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7" vertical-offset="3775" max-vertical-offset="4125">
-          <caret line="268" column="6" selection-start-line="268" selection-start-column="5" selection-end-line="268" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.22167487" vertical-offset="0" max-vertical-offset="406">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/ece_3rd_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74285716" vertical-offset="4075" max-vertical-offset="4425">
-          <caret line="289" column="2" selection-start-line="289" selection-start-column="1" selection-end-line="289" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/ece_5th_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74285716" vertical-offset="3640" max-vertical-offset="3990">
-          <caret line="260" column="2" selection-start-line="260" selection-start-column="1" selection-end-line="260" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/ece_7th_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74285716" vertical-offset="1345" max-vertical-offset="1695">
-          <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/ece_4th_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.234422" vertical-offset="3645" max-vertical-offset="4650">
-          <caret line="58" column="69" selection-start-line="58" selection-start-column="69" selection-end-line="58" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/ece_6th_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.125616" vertical-offset="0" max-vertical-offset="3900">
-          <caret line="247" column="16" selection-start-line="247" selection-start-column="16" selection-end-line="247" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_3rdSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51724136" vertical-offset="0" max-vertical-offset="406">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/ece_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39473686" vertical-offset="0" max-vertical-offset="380">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/cse_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/bba_syllabus.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/IST_Syllabus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="525">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/adapter/ECETabsPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.073891625" vertical-offset="0" max-vertical-offset="765">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_1stSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25862068" vertical-offset="0" max-vertical-offset="406">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_2ndSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_3rdSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_4thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_5thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_6thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_7thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_8thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/adapter/CSETabsPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48029557" vertical-offset="0" max-vertical-offset="690">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_1stSemester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="406">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.25862068" vertical-offset="0" max-vertical-offset="406">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IST Syllabus.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proguard-project.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_1stSemester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14778325" vertical-offset="0" max-vertical-offset="406">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_2ndSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_3rdSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.25862068" vertical-offset="0" max-vertical-offset="406">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -821,175 +699,464 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_5thSemester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_6thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_7thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_8thSemester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18472907" vertical-offset="0" max-vertical-offset="406">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/adapter/BBATabsPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0714285" vertical-offset="0" max-vertical-offset="690">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.44334975" vertical-offset="0" max-vertical-offset="406">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/ece_1st_syllabus.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77832514" vertical-offset="4064" max-vertical-offset="4470">
-          <caret line="292" column="2" selection-start-line="292" selection-start-column="1" selection-end-line="292" selection-end-column="2" />
+        <state vertical-scroll-proportion="-76.07143" vertical-offset="0" max-vertical-offset="4470">
+          <caret line="284" column="43" selection-start-line="284" selection-start-column="43" selection-end-line="284" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/ece_2nd_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.142858" vertical-offset="0" max-vertical-offset="4125">
+          <caret line="260" column="43" selection-start-line="260" selection-start-column="43" selection-end-line="260" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/ece_3rd_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.914286" vertical-offset="0" max-vertical-offset="4425">
+          <caret line="278" column="43" selection-start-line="278" selection-start-column="43" selection-end-line="278" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/ece_4th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.086054" vertical-offset="0" max-vertical-offset="4650">
+          <caret line="294" column="43" selection-start-line="294" selection-start-column="43" selection-end-line="294" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/ece_5th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="10.757143" vertical-offset="0" max-vertical-offset="3990">
+          <caret line="251" column="43" selection-start-line="251" selection-start-column="43" selection-end-line="251" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/ece_6th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="10.3714285" vertical-offset="0" max-vertical-offset="3900">
+          <caret line="242" column="43" selection-start-line="242" selection-start-column="43" selection-end-line="242" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/ece_7th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.057143" vertical-offset="0" max-vertical-offset="4110">
+          <caret line="258" column="43" selection-start-line="258" selection-start-column="43" selection-end-line="258" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/ece_8th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.857143" vertical-offset="0" max-vertical-offset="6975">
+          <caret line="440" column="43" selection-start-line="440" selection-start-column="43" selection-end-line="440" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/ece_sixth_semester.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.368421" vertical-offset="0" max-vertical-offset="990">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libs/ArcMenu/library/src/com/capricorn/ArcMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2463055" vertical-offset="2129" max-vertical-offset="2535">
-          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        <state vertical-scroll-proportion="2.3703704" vertical-offset="72" max-vertical-offset="990">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+          <folding>
+            <element signature="e#528#566#0" expanded="true" />
+            <element signature="e#866#904#0" expanded="true" />
+            <element signature="e#1239#1277#0" expanded="true" />
+            <element signature="e#1612#1650#0" expanded="true" />
+            <element signature="e#1985#2023#0" expanded="true" />
+            <element signature="e#2358#2396#0" expanded="true" />
+            <element signature="e#2731#2769#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/navigation.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/res/layout/ece_third_semester.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/ece_first_semester.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="105" max-vertical-offset="975">
-          <caret line="7" column="85" selection-start-line="7" selection-start-column="85" selection-end-line="7" selection-end-column="85" />
+        <state vertical-scroll-proportion="2.0210526" vertical-offset="72" max-vertical-offset="990">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/ece_seventh_semester.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/Navigation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4778326" vertical-offset="0" max-vertical-offset="810">
-          <caret line="48" column="73" selection-start-line="48" selection-start-column="73" selection-end-line="48" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/BBA_syllabus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.29771" vertical-offset="0" max-vertical-offset="1170">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/CSE_syllabus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7633588" vertical-offset="90" max-vertical-offset="1170">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/ECE_syllabus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.221374" vertical-offset="0" max-vertical-offset="1260">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
+        <state vertical-scroll-proportion="2.3703704" vertical-offset="72" max-vertical-offset="1005">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+          <folding>
+            <element signature="e#528#566#0" expanded="true" />
+            <element signature="e#866#904#0" expanded="true" />
+            <element signature="e#1239#1277#0" expanded="true" />
+            <element signature="e#1612#1650#0" expanded="true" />
+            <element signature="e#1985#2023#0" expanded="true" />
+            <element signature="e#2358#2396#0" expanded="true" />
+            <element signature="e#2731#2769#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/ece_fifth_semester.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2368422" vertical-offset="430" max-vertical-offset="990">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/credit.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1538461" vertical-offset="0" max-vertical-offset="750">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="2.5165563" vertical-offset="80" max-vertical-offset="990">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+          <folding>
+            <element signature="e#528#566#0" expanded="true" />
+            <element signature="e#866#904#0" expanded="true" />
+            <element signature="e#1239#1277#0" expanded="true" />
+            <element signature="e#1612#1650#0" expanded="true" />
+            <element signature="e#1985#2023#0" expanded="true" />
+            <element signature="e#2358#2396#0" expanded="true" />
+            <element signature="e#2731#2769#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/ece_forth_semester.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6674877" vertical-offset="14" max-vertical-offset="420">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state vertical-scroll-proportion="2.0210526" vertical-offset="72" max-vertical-offset="990">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout-land/credit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44959128" vertical-offset="30" max-vertical-offset="930">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/res/layout/ece_second_semester.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/istbd/IST_Syllabus/Credit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51724136" vertical-offset="0" max-vertical-offset="406">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        <state vertical-scroll-proportion="2.0210526" vertical-offset="72" max-vertical-offset="990">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/ece_eighth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.851852" vertical-offset="72" max-vertical-offset="1455">
+          <caret line="88" column="72" selection-start-line="88" selection-start-column="72" selection-end-line="88" selection-end-column="72" />
+          <folding>
+            <element signature="e#528#566#0" expanded="true" />
+            <element signature="e#876#914#0" expanded="true" />
+            <element signature="e#1270#1308#0" expanded="true" />
+            <element signature="e#1664#1702#0" expanded="true" />
+            <element signature="e#2058#2096#0" expanded="true" />
+            <element signature="e#2452#2490#0" expanded="true" />
+            <element signature="e#2846#2884#0" expanded="true" />
+            <element signature="e#3245#3283#0" expanded="true" />
+            <element signature="e#3647#3685#0" expanded="true" />
+            <element signature="e#4049#4087#0" expanded="true" />
+            <element signature="e#4451#4489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/ece_first_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6894737" vertical-offset="578" max-vertical-offset="975">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cse_eighth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.425926" vertical-offset="0" max-vertical-offset="1230">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="e#528#566#0" expanded="true" />
+            <element signature="e#876#914#0" expanded="true" />
+            <element signature="e#1270#1308#0" expanded="true" />
+            <element signature="e#1664#1702#0" expanded="true" />
+            <element signature="e#2058#2096#0" expanded="true" />
+            <element signature="e#2452#2490#0" expanded="true" />
+            <element signature="e#2846#2884#0" expanded="true" />
+            <element signature="e#3245#3283#0" expanded="true" />
+            <element signature="e#3647#3685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/cse_8th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.197044" vertical-offset="4769" max-vertical-offset="5535">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cse_seventh_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7894737" vertical-offset="540" max-vertical-offset="1005">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/cse_7th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.182266" vertical-offset="2894" max-vertical-offset="4605">
+          <caret line="252" column="43" selection-start-line="252" selection-start-column="43" selection-end-line="252" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cse_sixth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6052632" vertical-offset="715" max-vertical-offset="1095">
+          <caret line="63" column="71" selection-start-line="63" selection-start-column="71" selection-end-line="63" selection-end-column="71" />
+          <folding>
+            <element signature="e#528#566#0" expanded="true" />
+            <element signature="e#866#904#0" expanded="true" />
+            <element signature="e#1239#1277#0" expanded="true" />
+            <element signature="e#1612#1650#0" expanded="true" />
+            <element signature="e#1985#2023#0" expanded="true" />
+            <element signature="e#2358#2396#0" expanded="true" />
+            <element signature="e#2731#2769#0" expanded="true" />
+            <element signature="e#3104#3142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/cse_6th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1059114" vertical-offset="5144" max-vertical-offset="5550">
+          <caret line="313" column="43" selection-start-line="313" selection-start-column="43" selection-end-line="313" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/cse_5th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5541872" vertical-offset="2955" max-vertical-offset="4140">
+          <caret line="212" column="43" selection-start-line="212" selection-start-column="43" selection-end-line="212" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cse_fifth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0131578" vertical-offset="0" max-vertical-offset="885">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cse_forth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6052632" vertical-offset="610" max-vertical-offset="990">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/cse_4th_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3275862" vertical-offset="4109" max-vertical-offset="4830">
+          <caret line="238" column="43" selection-start-line="238" selection-start-column="43" selection-end-line="238" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/cse_3rd_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37192118" vertical-offset="4589" max-vertical-offset="5670">
+          <caret line="316" column="43" selection-start-line="316" selection-start-column="43" selection-end-line="316" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/cse_2nd_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59359604" vertical-offset="3194" max-vertical-offset="3960">
+          <caret line="229" column="43" selection-start-line="229" selection-start-column="43" selection-end-line="229" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cse_second_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6052632" vertical-offset="610" max-vertical-offset="990">
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/cse_1st_syllabus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.8423645" vertical-offset="0" max-vertical-offset="4365">
+          <caret line="104" column="4" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cse_first_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82894737" vertical-offset="450" max-vertical-offset="885">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bba_first_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.375" vertical-offset="54" max-vertical-offset="990">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bba_second_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49720672" vertical-offset="2" max-vertical-offset="1005">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bba_third_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24581006" vertical-offset="92" max-vertical-offset="1005">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bba_fifth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3715084" vertical-offset="47" max-vertical-offset="990">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bba_sixth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5027933" vertical-offset="0" max-vertical-offset="990">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bba_forth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28947368" vertical-offset="70" max-vertical-offset="990">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bba_seventh_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47368422" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/bba_eighth_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35526314" vertical-offset="45" max-vertical-offset="1470">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cse_third_semester.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6447368" vertical-offset="805" max-vertical-offset="1200">
+          <caret line="70" column="71" selection-start-line="70" selection-start-column="71" selection-end-line="70" selection-end-column="71" />
+          <folding>
+            <element signature="e#3477#3515#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

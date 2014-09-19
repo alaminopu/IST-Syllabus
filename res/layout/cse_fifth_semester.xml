@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+        >
+    <RelativeLayout
+                 android:layout_width="wrap_content"
+                  android:layout_height="wrap_content" android:background="#ffffffff">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name311"
+                android:id="@+id/cse_subject_code_and_name311"
+                android:layout_alignParentTop="true" android:textColor="#000000"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name312"
+                android:id="@+id/cse_subject_code_and_name312"
+                android:layout_below="@+id/cse_subject_code_and_name311"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name313"
+                android:id="@+id/cse_subject_code_and_name313"
+                android:layout_below="@+id/cse_subject_code_and_name312"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name314"
+                android:id="@+id/cse_subject_code_and_name314"
+                android:layout_below="@+id/cse_subject_code_and_name313"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name315"
+                android:id="@+id/cse_subject_code_and_name315"
+                android:layout_below="@+id/cse_subject_code_and_name314"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name316"
+                android:id="@+id/cse_subject_code_and_name316"
+                android:layout_below="@+id/cse_subject_code_and_name315"
+                android:textColor="#000000"/>
+
+    </RelativeLayout>
+</ScrollView>

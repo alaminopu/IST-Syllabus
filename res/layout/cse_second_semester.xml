@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+        >
+    <RelativeLayout
+                 android:layout_width="wrap_content"
+                  android:layout_height="wrap_content" android:background="#ffffffff">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name121"
+                android:id="@+id/cse_subject_code_and_name121"
+                android:layout_alignParentTop="true" android:textColor="#000000"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name122"
+                android:id="@+id/cse_subject_code_and_name122"
+                android:layout_below="@+id/cse_subject_code_and_name121"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name123"
+                android:id="@+id/cse_subject_code_and_name123"
+                android:layout_below="@+id/cse_subject_code_and_name122"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name124"
+                android:id="@+id/cse_subject_code_and_name124"
+                android:layout_below="@+id/cse_subject_code_and_name123"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name125"
+                android:id="@+id/cse_subject_code_and_name125"
+                android:layout_below="@+id/cse_subject_code_and_name124"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name126"
+                android:id="@+id/cse_subject_code_and_name126"
+                android:layout_below="@+id/cse_subject_code_and_name125"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name127"
+                android:id="@+id/cse_subject_code_and_name127"
+                android:layout_below="@+id/cse_subject_code_and_name126"
+                android:textColor="#000000"/>
+
+    </RelativeLayout>
+</ScrollView>

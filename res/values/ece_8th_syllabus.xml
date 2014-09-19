@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="ece_subject_code_and_name421">
+        <b>ECE-411: Information Theory and Coding</b>
+        \n\n
+        
+      <b>Block and Convolutional Codes for High Spectral Efficiency:</b> Trellis Coded Modulation (TCM), Coding with Diversity. 
+      Turbo Codes.
+      \n\n
+      
+      <b>Iterative Decoding:</b> MAP Algorithms. ARQ schemes. General concepts of coding theory. Noise and error correcting codes. 
+      Linear codes including the Hamming, Golary, the Reed-Muller codes, Finite and Number Fields. Algebraic Function fields, 
+      algebraic curves and their applications, Cyclic codes (including the BCH, Reed-Solomon, Justesen, Goppa, and Quadratic 
+      Residue codes). Decoding techniques for some of these codes. Application to information processing.
+      \n\n
+       
+      <b>Information measures:</b> entropy, relative entropy, and mutual information, Asymptotic equipartition theory, Entropy rates, 
+      source coding and data compression, unannei capacity, Differential entropy and Gaussian channel, Rate-distortion theory.
+      \n\n
+      
+      <b>Recommended Books:</b>
+      \n\n
+      
+      
+      •	Information and Coding Theory (Springer Undergraduate Mathematics Series) by Gareth A. Jones, J.Mary Jones.
+      \n\n
+      
+      •	Theory of Information &amp; Coding by Robert McEliece.
+      \n\n
+      
+      •	Fundamentals of Information Theory and Coding Design (Discrete Mathematics and Its Applications) by Roberto Togneri, 
+      Christopher J. S. Desilva.
+      \n\n
+      
+     
+      •	Digital Communication by Simon Haykins.
+      \n\n
+      
+      •	Information Theory by Thomas &amp; Cover.
+      \n\n
+       
+      •	The Theory of Information and Coding: Student Edition (Encyclopedia of Mathematics and its Applications) by R. J. 
+      McEliece (Hardcover - Aug 2, 2004)
+      \n\n\n\n\n
+          
+    </string>
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name422">
+        <b>ECE-412: Biomedical Instruments</b>
+        \n\n
+        
+        <b>Human Anatomy &amp; Physiology:</b> Anatomy &amp; Physiology of major systems of the body - generation &amp; 
+        propagation of Bioelectric potentials.Transducers, Leads &amp; Electrodes: Transducers for biological applications 
+        types, properties, characteristics &amp; selection.
+        \n\n
+        
+        <b>Leads &amp; Electrodes:</b> Types, materials, properties, characteristics. Method of application and 
+        selection - equivalent circuits of leads &amp; electrodes. Fundamentals of biomaterials: Compatability studies of 
+        metals, ceramic plastics used in the inplantable devices.
+        \n\n
+        
+        <b>EEG :</b> Working principles, lead system &amp; clinical applications.
+        \n\n
+        
+        <b>EMG :</b> Working principles, &amp; clinical applications. Evoked potential systems, Audiometry.
+        \n\n
+        
+        <b>Theraputic instruments:</b> Diathermy, defibrilletor, cardiac pacemakers, stimulators. Power source for 
+        implantable devices.Laser Applications in machine. 
+        \n\n
+        
+        <b>X-Rays:</b> Production &amp; use in machine, basics of radiography, diagnostic &amp; therapeutic - X-Ray film 
+        construction and processing, interaction with body. Fundamentals of Radiation Therapy.
+        \n\n
+        
+        <b>Blood pressure:</b> Diastolic &amp; Systolic measurement by invasive and non invasive methods - Ultra sound, 
+        Spygmomanometer Automated methods - direct methods.
+        \n\n
+        
+        <b>Blood flow:</b> Electro-magnetic, Ultrasound, Blood cell counters. Applications of Ultra sound-basic physics 
+        of Ultra sound generation, Echo cardiography, Modes of Scan, Doppler measurements, Biological effects - colour doppler.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Principles of Applied Biomedical Instrumentation, Geddes &amp; Baker.
+        \n\n
+         
+        •	Biomedical Instrumentation and Measurements, Cromwel.
+        \n\n
+         
+        •	Hand book of Bio -medical Instrumentation, R.S. Kandpur.
+        \n\n
+         
+        •	Fundamental Physics of Radiography, Massey &amp; Meridith.
+        \n\n
+         
+        •	Medical Physics , Christanson.
+        \n\n
+         
+        •	Hand book of Analytical Equipment, R.S. Kandpur.
+        \n\n\n\n\n
+	
+    
+    </string>
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name423">
+        <b>ECE-413: Network Security</b>
+        \n\n
+        
+        <b>Cryptography and Cryptography Algorithms:</b> Traditional cryptography, Cryptanalysis, Private-key (Symmetric-key) 
+        and Public-key (asymmetric-key) cryptographic algorithms, DES and Block cipher modes, Advanced Encryption Standard 
+        (AES), RSA and other public key cryptosystems, Key Management, Diffie-Hellman key exchange, Elliptic curve cryptography. 
+        Cryptographic hash functions, Secure Hash Algorithms, Message authentication codes, Digital signatures and digital 
+        signature standard.
+        \n\n
+        
+        <b>Cryptography and Network Security:</b> Data origin authentication and Data integrity, Key distribution, 
+        Key management, Kerberos and X.509 authentication service, Certificate authority (CA) and public key infrastructure 
+        (PKI), E-mail security, PGP and S/MIME, IP security (IPSec), Authentication header and ESP, Security associations, 
+        key management, Oakley key determination protocol and ISAKMP, Web security considerations, secure socket layer (SSL) 
+        and transport layer security (TLS), Secure electronic transactions (SET).
+        \n\n
+        
+        <b>Recommended books:</b>  
+        \n\n
+        
+        
+        •	Hand Book of Applied Cryptography - Menezes, Van Oorschot and Vanstone, CRC Press.
+        \n\n
+        
+        •	Cryptography and Network Security, Principles and Practice - William Stallings, Printece Hall.
+        \n\n
+        
+        •	Applied Cryptography - Bruce Schneier.
+        \n\n
+        
+        •	Network Security - Kaufman, Perlman and Speciner.
+        \n\n\n\n\n
+	
+        
+        <b>Optional Courses</b>
+        \n\n\n
+    </string>
+    
+    
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name431">
+        <b>ECE-420: Neural networks</b>
+        \n\n
+        
+        <b>Preliminaries:</b> Neural computations, Classifiers, Approximators, Simple memory and restoration patterns, 
+        Optimizing networks, Clustering and feature detecting networks, Development of artificial neural systems, 
+        Future trends.
+        
+        <b>Fundamental concepts and models of artificial neural systems:</b> Biological neuron and their artificial models, 
+        Models of artificial neural networks, McCulloch\’s Pitts neural model, Feed forward and feedback network, Neural 
+        processing, Learning and adaptation, Neural network learning rules, Associative memory, BAM, MAM, FAM, Hopfield 
+        networks, Self organizing networks, ART networks, Back propagation network.
+        \n\n
+        
+        <b>Applications of neural algorithm and systems:</b> Character recognition, Control networks, Robot kinematics, 
+        Expert systems.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Introduction to Artificial Neural Systems by Jacek M. Zurada.
+        \n\n
+        
+        •	Artificial Intelligence by E Rich, McGraw-Hill.
+        \n\n
+         
+        •	Neural Networks, A Comprehensive Foundation, 2nd edition, by Simon Haykin, Prentice-Hall, 1999.
+        \n\n
+         
+        •	Neural Networks: Algorithm, Applications, and Programming Techniques, J. Freeman and D. Skapura, 
+        Addison-Wesley, 1992. 
+        \n\n
+         
+        •	Adaptive Pattern Recognition and Neural Networks, Y-H Pao,  Addison-Wesley, 1989.
+        \n\n\n\n\n
+      
+    </string>
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name432">
+        <b>ECE-421: Digital Image Processing</b>
+        \n\n
+        
+        <b>Fundamentals of Digital Image Processing:</b> Formation of an image, Imaging in the ultraviolet band, 
+        Imaging in the visible band, Imaging in the microwave band, imaging in the radio band, 
+        X-ray imaging, gamma ray imaging,  Components of an image processing system, Steps in DIP.
+        \n\n
+        
+        <b>Digital Image:</b> Elements of visual perception – structure of the human eye, image formation in the eye.
+        \n\n
+        
+        <b>Image Sensing and Acquisition:</b> Image sensor, Sensor strip, Sensor arrays, Image formation model.
+        \n\n
+        
+        <b>Image Sampling and Quantization:</b> representing digital image, Basic relationship between pixels, 
+        Image operation on pixel basis.
+        \n\n
+        
+        <b>Image Enhancement in the Spatial Domain:</b> Gray level transformations, Histogram processing, 
+        Enhancement using arithmetic logic operations, spatial filtering, Smoothing and sharpening spatial filters.
+        \n\n
+        
+        <b>Image Enhance in the Frequency Domain:</b> Fourier transform, 1D and 2D FT, Properties of 2D FT, DFT, FFT; 
+        Smoothing frequency domain filters, Sharpening frequency domain filters, Homomorphic filtering.
+        \n\n
+        
+        <b>Image Restoration:</b> Model of image restoration process, Restoration in the presence of noise, 
+        Estimation of the degradation function.
+        \n\n
+        
+        <b>Color Image Processing:</b> Color models, Color Image processing, Color transformation, Color Image compression.
+        \n\n
+        
+        <b>Wavelet and Multiresolution Processing:</b> Wavelet transforms.
+        \n\n
+        
+        <b>Image Compression:</b> Image compression models.      
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Digital Image Processing by rafael C. Gonzalez and Richard E. Woods.
+        \n\n
+         
+        •	Fundamentals of Digital Image Processing, Anil K. Jain, Prentice Hall, 1989.
+        \n\n
+         
+        •	Digital Image Processing, Gonzalez and Woods, 2nd edition, Prentice Hall, 2001.
+        \n\n
+         
+        •	Digital Image Processing, William K. Pratt, 3rd Edition, John Wiley, 2001.
+        \n\n
+        
+        •	Digital Image Processing, Kenneth R. Castleman, Prentice Hall, 1996.
+        \n\n\n\n\n
+      
+    </string>
+    
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name433">
+        <b>ECE-422: Multimedia Communication</b>
+        \n\n
+        
+        Fundamentals, Introduction of international standards, Image coding: DCT/subband/VQ, Image coding: JPEG, Video 
+        coding: ITU-T H.261, H.263, H.263 Version 2, Video coding: ISO MPEG-1, MPEG-2 , MPEG audio coding, ITU-T speech 
+        coding: G.72x, MPEG-4 Video, Systems: ITU-T H.320, H.323, H.324, etc., Systems: MPEG-1, MPEG-2, MPEG-4 Systems, 
+        Multipoint data conferencing: T.120, Networking issues: error resilience, network characteristics, Quality of 
+        Service (QoS), Error resilience in video codecs: H.26x and MPEG, Multimedia over IP: Multicast, RTP/RTCP, 
+        packetization, streaming, Multimedia over ATM, Multimedia over wireless/mobile networks.
+        \n\n
+        
+        This course introduces technologies for multimedia communications. We will address how to efficiently represent 
+        multimedia data, including video, image, and audio, and how to deliver them over a variety of networks. In the coding 
+        aspect, state-of-the-art compression technologies will be presented. Emphasis will be given to a number of standards, 
+        including H.26x, MPEG, and JPEG. In the networking aspect, special considerations for sending multimedia over ATM, 
+        wireless, and IP networks, such as error resilience and quality of service, will be discussed. The H.32x series, 
+        standards for audiovisual communication systems in various network environments, will be described. Current research 
+        results in multimedia communications will be reviewed through student seminars in the last weeks of the course.
+        \n\n
+        
+        <b>Recommended Books:</b>
+        \n\n
+        
+        
+        •	Multimedia Communication Systems: Techniques, Standards, and Networks by K. R. Rao.
+        \n\n
+        
+        •	Introduction to Multimedia Systems (Communications, Networking, and Multimedia) by Sugata Mitra, Gaurav Bhatnagar.
+        \n\n\n\n\n
+     
+    </string>
+    
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name434">
+        <b>ECE-423: High Speed Telecommunication</b>
+        \n\n
+        
+        Networking terminology, Evolution of Internet, Networking basics and Internet protocol stack, TCP performance analysis, 
+        TCP sequence number plots; Wireless networks – Wireless internet protocol and performance, Wireless TCP issues, 
+        Multichannel MAC issues, Vegas and Multicast rate control, Video server broadcasting, IEEE 802.11 and 802.16; 
+        ATM networks: ATM terminology, Cell networking, ATM signaling, ATM adaptation layer, ATM switching, ATM traffic 
+        management; Network traffic management and modeling, Connection and admission control; High-speed LAN, Performance 
+        modeling and estimation – Probability and stochastic process, queuing analysis, self similar traffic; Congestion and 
+        traffic management, Internet routing, Quality of Service (QoS).
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	High-Speed Networks and Internets by William Stallings.
+        \n\n
+        
+        •	Computer Networks and Systems – Queuing Theory and Performance Evaluation by Thomas G. Robertazzi.
+        \n\n
+        
+        •	Principles of Wireless Networks by Kaveh Pahlavan and Prashant Krishnamurthy.
+        \n\n\n\n\n
+      
+    </string>
+    
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name435">
+        <b>ECE-424: Radar and Navigation</b>
+        \n\n
+        
+        Fundamentals, Basic principle, Radar development, Applications of radar, Power, Frequencies used in Radar, 
+        Factors governing radar performance, Radar equation and range, Factors influencing maximum range, 
+        Effect of noise, Types of Radar, CW &amp; FM radar; Doppler effect; MTI &amp; Pulse radar; Modulators, Multiple access 
+        techniques, Receivers, Duplexers, Radar antenna, Tracking radar and radar systems.
+        \n\n
+        
+        <b>Recommended Books:</b>    
+        \n\n
+        
+        
+        •	Microwave and Radar Engineering by M. Kulkarni
+        \n\n
+        
+        •	Microwave Principle by J Reich
+        \n\n
+        
+        •	Microwave Devices and Circuits by Y. Liao
+        \n\n
+           
+        •	Introduction to Radar System by M. I. Skolnik.
+        \n\n
+        
+        •	Microwave Engineering by David M. Pozar.
+        \n\n\n\n\n
+      
+    </string>
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name436">
+        <b>ECE-425: Radio and Television Engineering</b>
+        \n\n
+        
+        Introduction to radio frequencies; Radio frequency amplifiers; Amplitude modulation and demodulation, 
+        Angle modulation and demodulation, Frequency conversion and Mixing; Radio transmitter and receiver, 
+        Superheterodyne receiver; Antennas.
+        \n\n
+        
+        Television fundamentals; Analysis and synthesis of TV pictures, Composite video signal, TV picture tube; TV 
+        cameras – types, construction and operating principle; Color signal; TV receivers; TV measurements; Colorimetry.
+        \n\n
+        
+        Television transmission systems – PAL, SECAM and NTSC systems, TV signal transmission and distribution systems.
+        \n\n
+        
+        Introduction to satellite TV receiver system – elements of the system and construction, creation and operation of the 
+        system.
+        \n\n
+        
+        
+    </string>
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name437">
+        <b>ECE-426: IC and VLSI Technology</b>
+        \n\n
+        
+        IC processing, Wafer production and clean room principles, Silicon processing, Lithography, Oxidation, Doping 
+        techniques, Thin film deposition, Etching, Back-end technology, Layer processes used in IC fabrication, 
+        Designing a fabrication process to specifically meet physical and electrical specifications for the final chip, 
+        Integrating the fabrication steps, IC packaging, Yields in IC processing, Microsystem products, Microfabrication 
+        process, nanotechnology.
+        \n\n
+        
+        CMOS VLSI design process and focuses on design at the circuit and physical levels, Terminologies and trends in 
+        VLSI design. MOS transistor theory, CMOS processing technology, resistance and capacitance estimation, 
+        CMOS design styles, NMOS and CMOS inverters, dc, transient and tranfer characteristics. Designing and testing 
+        basic logic gates and other VLSi building blocks such as adders, multipliers, counters, barrel shifters, etc. 
+        using computer aided design tools and hardware in the laboratory.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Silicon VLSI Technology: Fundamentals, Practice, and Modeling by James D. Plummer, Michael D. Deal, Peter B. 
+        Griffin.
+        \n\n
+        
+        •	Solid State Electronic Devices, Fifth Edition, Ben Streetman, Sanyay Banerjee, Prentice Hall, 2000.
+        \n\n
+         
+        •	Silicon VLSI Technology, James D. Plummer, Michael D. Deal, Peter B. Griffin, Prentice Hall, 2000.
+        \n\n
+         
+        •	Principles of CMOS VLSI Design, Neil H. E. Weste and Kamran Eshraghian, Addison Wesley.
+        \n\n
+        
+        •	Analysis and Design of Digital Integrated Circuits, Third Edition, David A. Hodges, Horace G. Jackson, and Resve 
+        A. Saleh, McGraw-Hill, 2004.
+        \n\n\n\n\n
+        
+
+    </string>
+    
+    
+    
+    <string name="ece_subject_code_and_name438">
+        <b>ECE-439: Project Report and Project Defense</b>
+        \n\n
+        
+        The project work must be started in the 7th semester of the 4th year and it must be completed by the end of 8th 
+        semester. The project work must be carried out under the supervision of a teacher. Group projects may be allowed but a 
+        group must not consist of more than two students. A project report will be submitted after the completion of the 
+        project work. A panel of examiners appointed by the National University will conduct the project defense and also 
+        evaluate the project report. The evaluation of project work carrying 200 marks is as follows:
+        \n\n
+        
+        a. Project Report	100 marks.
+        \n
+        
+        b. Project Defense	100 marks.
+        \n\n\n\n\n
+        
+        
+    </string>
+</resources>

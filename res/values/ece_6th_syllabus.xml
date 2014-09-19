@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="subject_code_and_name321">
+    <string name="ece_subject_code_and_name321">
         <b>ECE-311: Optical Fiber Communication</b>
         \n\n
         
@@ -49,7 +49,7 @@
     
     
     
-    <string name="subject_code_and_name322">
+    <string name="ece_subject_code_and_name322">
         <b>ECE-312: Digital Signal Processing</b>
         \n\n
         
@@ -96,7 +96,7 @@
         
     </string>
 
-    <string name="subject_code_and_name323">
+    <string name="ece_subject_code_and_name323">
         <b>ECE-313: Industrial &amp; Power Electronics</b>
         \n\n
         
@@ -150,7 +150,7 @@
     
     
     
-    <string name="subject_code_and_name324">
+    <string name="ece_subject_code_and_name324">
         <b>ECE-314: Antenna &amp; Propagation</b>
         \n\n
         
@@ -194,7 +194,7 @@
     
     
     
-    <string name="subject_code_and_name325">
+    <string name="ece_subject_code_and_name325">
         <b>ECE-315: Computer Peripherals and Interfacing</b>
         \n\n
         
@@ -228,7 +228,7 @@
     
     
     
-    <string name="subject_code_and_name326">
+    <string name="ece_subject_code_and_name326">
         <b>ECE-316: Computer Peripherals and Interfacing Lab</b>
         \n\n
         
@@ -240,7 +240,7 @@
     
     
     
-    <string name="subject_code_and_name327">
+    <string name="ece_subject_code_and_name327">
         <b>ECE-317: Industrial &amp; Power Electronics Lab</b>
         \n\n
         

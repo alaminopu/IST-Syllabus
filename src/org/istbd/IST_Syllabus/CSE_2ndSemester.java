@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 public class CSE_2ndSemester extends Fragment{
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState){
-        View view = inflater.inflate(R.layout.ece_second_semester, container, false);
+        View view = inflater.inflate(R.layout.cse_second_semester, container, false);
         return view;
     }
 }

@@ -2,7 +2,7 @@
 
 <resources>
     
-    <string name="subject_code_and_name211">
+    <string name="ece_subject_code_and_name211">
         
         <b>ECE-201: Statistics &amp; Probability:</b>
         \n\n
@@ -58,7 +58,7 @@
     
     
     
-    <string name="subject_code_and_name212">
+    <string name="ece_subject_code_and_name212">
         
         <b>ECE-202: Math-IV: Engineering Mathematics</b>
         \n\n
@@ -104,7 +104,7 @@
     
     
     
-    <string name="subject_code_and_name213">
+    <string name="ece_subject_code_and_name213">
         
         <b>ECE-203: Electrical Circuits – II</b>
         \n\n
@@ -165,7 +165,7 @@
     
     
     
-    <string name="subject_code_and_name214">
+    <string name="ece_subject_code_and_name214">
         
         <b>ECE-204: Electronic Circuits – II</b>
         \n\n
@@ -222,7 +222,7 @@
     
     
     
-    <string name="subject_code_and_name215">
+    <string name="ece_subject_code_and_name215">
         
         <b>ECE-205: Object Oriented Programming</b>
         \n\n
@@ -253,7 +253,7 @@
 
     
     
-    <string name="subject_code_and_name216">
+    <string name="ece_subject_code_and_name216">
         
         <b>ECE-206: Electrical Circuits – II Lab</b>
         \n\n
@@ -265,7 +265,7 @@
 
     
     
-    <string name="subject_code_and_name217">
+    <string name="ece_subject_code_and_name217">
         
         <b>ECE-207: Object Oriented Programming Lab</b>
         \n\n
@@ -276,7 +276,7 @@
     </string>
     
     
-    <string name="subject_code_and_name218">
+    <string name="ece_subject_code_and_name218">
         <b>ECE-208: Electronic Circuits – II Lab</b>
         \n\n
         

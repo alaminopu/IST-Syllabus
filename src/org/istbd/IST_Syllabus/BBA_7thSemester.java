@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 public class BBA_7thSemester extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState){
-        View view = inflater.inflate(R.layout.ece_seventh_semester, container, false);
+        View view = inflater.inflate(R.layout.bba_seventh_semester, container, false);
         return view;
     }
 }

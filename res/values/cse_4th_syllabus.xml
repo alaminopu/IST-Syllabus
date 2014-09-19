@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="cse_subject_code_and_name221">
+        <b>CSE-221 Algorithm Design</b>
+        \n\n
+        
+        <b>Introduction to algorithm: </b> Analysis of algorithm, design of algorithm, mathematical foundation of algorithm, 
+        asymptotic notations, summations, recurrences, sets etc.
+        \n\n
+        
+        <b>Divide and Conquer: </b> General method, Binary Search, Finding the Maximum and Minimum, Quick Sort, Selection.
+        \n\n
+        
+        <b>The Greedy method: </b> General method, Knapsack problem, Minimum cost spanning trees, Single Source Shortest path.
+        \n\n
+        
+        <b>Dynamic programming: </b> General method, Multistage Graphs, All pair\’s shortest paths, Single Source Shortest 
+        path, Knapsack problem, Optimal Binary search Tree, Traveling salesperson.
+        \n\n
+        
+        <b>Basic Traversal &amp; Search technique: </b> Techniques for Binary trees, Techniques for Graphs.
+        \n\n
+        
+        <b>Backtracking: </b> General method, The 8-Queens problem, Sum of subsets, Graph Coloring.
+        \n\n
+        
+        <b>Branch and Bound: </b> The method, 0/1 Knapsack problem, Traveling salesperson.
+        \n\n\n
+        
+        <b>Reference books: </b>
+        \n\n
+        
+        
+        1. Fundamentals of Computer Algorithm, Sartaj Sahni
+        \n\n
+         
+        2. How to Solve it by Computer, R.G.Dromey.
+        \n\n
+        
+        3. Data Structure &amp; Programming Design, Robert L.Kruse.
+        \n\n\n\n\n
+       
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name222">
+        <b>CSE-222 Algorithm Design Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-221
+        \n\n
+        
+        <b>Divide and conquer: </b> Binary Search, finding the maximum and minimum.
+        \n\n
+        
+        <b>Performance measurement using time Function: </b> quick sort and marge sort, marge sort and Bubble sort, Quick sort 
+        and Heap sort.
+        \n\n
+        
+        <b>Greedy Method: </b> Knapsack problem, Minimum cost spanning tree, Prim\’s algorithm, Single source shortest path.
+        \n\n
+        
+        <b>Dynamic Programming: </b> All pair shortest path, 0/1 kanpsack problem, the traveling salesperson problem. 
+        \n\n
+        
+        <b>Backtracking: </b> The 8 Queens Problem, Graph coloring problem.
+        \n\n\n
+        
+    </string>
+    
+    
+    
+    <string name="cse_subject_code_and_name223">
+        <b>CSE-223 Database Management System</b>
+        \n\n
+        
+        <b>Introduction: </b> Database system concept, Purpose of Database system; View of data: Data abstraction; Data models: 
+        Relational model, Network model, Hierarchical model; Database languages: DDL, DML; Conventional file processing; 
+        Transaction management; Storage management; Database Administrator; Database users; Overall system structure.
+        \n\n
+        
+        <b>Database model: </b> Entity-Relationship model; Attributes; Mapping Cardinalities; Existence Dependencies; Weak 
+        entity set &amp; Strong entity set; Relational model and its language (Relational algebra and SQL).
+        \n\n
+        
+        <b>Database design: </b> Decomposition; Normalization; Object-oriented Databases; Centralized systems; Distributed 
+        Databases; Data Fragmentation; Parallel Databases.
+        \n\n
+        
+        <b>Integrity Constraints: </b> Domain constraints, Referential constraints, Functional Dependencies.
+        \n\n
+        
+        <b>Indexing: </b> Basic concept; Ordered index; Primary index; Dense index and Sparse index; Multilevel index; Secondary 
+        index.
+        \n\n\n
+        
+        <b>Reference Book: </b>
+        \n\n
+        
+        1. Database System Concepts (4th Edition) -Abraham Silberschatz   Henry F.Korth   S.Sudarshan
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name224">
+        <b>CSE-224 Database Management System Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-223.
+        \n\n
+        
+        Design and Create database, Insert/Delete records in each table, Design MASTER FORM with menus, Do the  different 
+        queries, Report design. Different PL/SQL problems.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name225">
+        <b>CSE-225 Computer Organization and Architecture</b>
+        \n\n
+        
+        <b>Introduction: </b> Organisation and Architecture, Instruction sets- formats, cycle, timing etc; Addressing modes; 
+        Types of Instruction; RISC characteristics; CISC characteristics.
+        \n\n
+        
+        <b>Computer System: </b> System Buses, Components, Functions, Bus Interconnection.
+        \n\n
+        
+        <b>Computer Arithmetic: </b> Different types of data representation; Addition and Subtraction; Multiplication 
+        Algorithms; Division Algorithms.
+        \n\n
+        
+        <b>Memory Organization: </b> Main memory, Auxiliary memory, Associative memory, Cache memory, Virtual memory, Memory 
+        management requirements and hardware.
+        \n\n
+        
+        <b>Input-Output Organization: </b> Input-Output Interfaces; Data transfer, Interrupts; Direct Memory Access (DMA); 
+        Input-Output channel.
+        \n\n
+        
+        <b>Central Processing Unit(CPU): </b> ALU, CPU structure and Functions.
+        \n\n
+        
+        <b>Control Unit: </b> Control Unit operation, Micro-operation, Control of processor, Hardwired Implementation.
+        \n\n
+        
+        <b>Fundamentals of parallel processing: </b> Parallel processing; Pipelining; Vector processing; Multiprocessors; Array 
+        processor, Bit-slice processor Interconnection structures.
+        \n\n\n
+        
+        <b>Reference Books:</b>
+        \n\n
+        
+        
+        1. William Stallings, Computer Organisation and Architecture.
+        \n\n
+        
+        2. V. Hamcher, Z.Vranesic and S.Zaky, Computer Organisation.
+        \n\n
+        
+        3. J.P. Hayes, Computer Architecture and Organisation.
+        \n\n
+        
+        4. Dr. M. Rafiquzzaman, Fundamentals of Computer System Architecture.
+        \n\n\n\n\n
+      
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name226">
+        <b>CSE-226 Data Communications</b>
+        \n\n
+        
+        <b>Introduction: </b> Data Communication networks standards, communication architecture and protocol.
+        \n\n
+        
+        <b>Data Transmission: </b> Analog and digital data, Spectrum and Bandwidth, Transmission impairments, Channel capacity, 
+        Transmission media, coaxial cable, twisted pair, fiber optics, wireless transmission, electromagnetic spectrum, radio, 
+        microwave, infra red, cellular and satellite.
+        \n\n
+        
+        <b>Data Encoding: </b> Digital data and digital signaling, NRZL, NRZI, Bipolar AMI, Manchester and differential 
+        Manchester encoding, Digital data and analog signaling,  ASK, FSK, PSK &amp; QPSK and their performance, Analog data 
+        and digital signaling, PCM.
+        \n\n
+        
+        <b>Data Communication Techniques: </b> Asynchronous and Synchronous transmission, CRC Method, RS232( or EIA 232D), 
+        V2.4 interface standard.
+        \n\n
+        
+        <b>Data Link Control: </b> Flow control; Error detection- parity and CRC, Error Control(Stop and wait, Go back N ARQ, 
+        Selective Reject ARQ), HDLC, Other data link control protocols.
+        \n\n
+        
+        <b>Multiplexing: </b> Frequency Division Multiplexing, Synchronous Time Division Multiplexing, Statistical Time 
+        Division Multiplexing.
+        \n\n
+        
+        <b>Circuit Switching &amp; Packet Switching: </b> Space Division and Time Division switching, Switching network; 
+        Circuit switching network; Circuit switching concepts,  Packet switching principles, Virtual Circuit, Datagram.
+        \n\n\n
+        
+        <b>Reference Books: </b>  
+        \n\n
+        
+        
+        1.	Behrouz A. Forouzan, Data Communication and Networking.
+        \n\n
+        
+        2.	W Stallings, Data and Computer Communication.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name227">
+        <b>GED-227 Economics</b>
+        \n\n
+        
+        <b>Introduction: </b> Definition, micro economics and macro economics. Positive Vs. normative economics. The basic 
+        problems of economic organization. Production possibility frontier.
+        \n\n
+        
+        <b>Supply and demand: </b> Concepts of supply and demand and their determinants, market equilibrium and shifts of 
+        market equilibrium, concepts and measurements of various elasticitis of demand and supply.
+        \n\n
+        
+        <b>The theory of consumer behaviour: </b> Utility-total and marginal utility, cardinal &amp; ordinal utility, law of 
+        diminishing marginal utility.
+        \n\n
+        
+        <b>Theory of production: </b> Production function, fixed Vs, variable factors of production, short run and long run, 
+        total average and marginal product, the law of diminishing returns, returns to scale, technological change.
+        \n\n
+        
+        <b>Theory of cost and revenues: </b> Short and long run cost functions, implicit and opportunity cost, fixed and 
+        variable costs, total average and marginal costs, envelope curves, marginal product and the least cost rule, profit 
+        maximizing conditions.
+        \n\n
+        
+        <b>Market: </b> Perfect competition and monopoly, short &amp; long run equilibrium of firm and industry, 
+        profit maximization, shut down condition, resource allocation and economic efficiency.
+        \n\n
+        
+        <b>Macro economic overview: </b> Fundamental concepts of macroeconomic, aggregate demand and aggregate supply.
+        \n\n
+        
+        <b>National income accounting: </b> circular flow of income, different concepts of national income- GNP, GDP, NNP, NI 
+        at factor price, market price and constant price, personal income, disposable income, real and nominal GDP, Net 
+        economic welfare (NEW); The CPI &amp; the GDP Deflator, the methods and problems of computing national income.
+        \n\n
+        
+        <b>Consumption and saving function: </b> concepts of MPC, APC, MPS, APS- Short run and long run  view-Kuznet\’s puzzle.
+        \n\n
+        
+        <b>Investment Function: </b> Determinants of investment, concepts of MEC, MEI, Present value Theorem.
+        \n\n
+        
+        <b>The Classical and Keynesian theory: </b> Determination of income and employment, Inflationary and deflationary gaps 
+        and measures to bridge the gap, theory of multiplier and accelerator.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+         
+        
+        1.	Samuelson &amp; Nordhaus, W, : Economics.
+        \n\n
+        
+        2.	Leftwitch: the price System &amp; Resurce Allocation.
+        \n\n
+        
+        3.	Bilsa: microeconomic theory.
+        \n\n
+        
+        4.	Koutsoyiannis: Moderm Micro-economics.
+        \n\n
+        
+        5.	Dornburg &amp; Mc Dougall: Macro-economics.
+        \n\n
+        
+        6.	Swenburg &amp; Mc Dougall: Macro-economics.
+        \n\n
+        
+        7.	Domwnick Salvatory: Micro-economics.
+        \n\n
+        
+        8.	Eugene Diulio: Macro-economics.
+        \n\n\n\n\n
+         
+        
+    </string>
+    
+</resources>

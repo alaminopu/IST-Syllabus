@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="cse_subject_code_and_name311">
+        <b>CSE-311 Theory of Computation</b>
+        \n\n
+        
+        Language theory; Finite automata; deterministic finite automata nondeterministic finite automata, equivalence and 
+        conversion of deterministic and nondeterministic finite automata, pushdown automata; Context free languages; Context 
+        free grammars; Turing Machines: basic machines, configuration, computing with Turing Machines, combining Turing 
+        machines; Undecidability.
+        \n\n\n
+        
+        <b>Reference Books:</b>
+        \n\n
+        
+        
+        1.	Hopcroft and Ullman, Introduction to Automata theory, Languages and Computations.
+        \n\n
+        
+        2.	Adamek, Automata and Algebras.
+        \n\n\n\n\n
+    
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name312">
+        <b>CSE-312 Microprocessor and Assembly Language</b>
+        \n\n
+        
+        <b>Microprocessors:</b> Evolution of microprocessors, register base and accumulator based microprocessor, 
+        programmable logic devices; main memory array design, memory management concepts, input/ Out techniques, internal 
+        architecture of microprocessor: 8085, 8086, addressing mode, instruction format, instruction set, pin configuration and 
+        function, maximum/ minimum mode, read/write cycle, memory bank, interrupt and interrupt handling, interrupt controller, 
+        DMA.
+        \n\n
+        
+        <b>Advanced microprocessors: </b> Internal architecture, memory management, protection, an overview of Intel 80186, 
+        80286, 80386, 80486, Pentium microprocessors, RISC processor, Coprocessor, Alpha processor.
+        \n\n
+        
+        <b>Assembly Language: </b> Programming with 8086 instruction, conditional and unconditional jump, string instruction, 
+        stacks operation, procedure, reentrant and recursive procedure, macro.
+        \n\n\n
+        
+        <b>Book References: </b>
+        \n\n
+        
+        
+        1. D.V Hall, Microprocessors and Interfacing, McGrow-Hill, 1987
+        \n\n
+        
+        2. M.Rafiquzzaman, Microprocessors and Microprocessor based system design.
+        \n\n
+        
+        3. Y.Liu and G.A. Ginson, Microcomputer system:8086/8088 family.
+        \n\n\n\n\n
+       
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name313">
+        <b>CSE-313 Assembly Language Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-312.
+        \n\n
+
+        Display message (n) times in different line; simple arithmetic operation; Convert a lowercase letter to an uppercase 
+        letter and  vice versa; Display all alphabetic characters; Input two numbers, compare them and display the smaller one 
+        and vice versa; Accept a string from keyboard and display the string in reverse order; Find the largest element from an 
+        array and vice versa; perform bubble sort; display first ten numbers by Fibonacci Series; Calculate sum and average of 
+        few numbers; Convert hexadecimal number to binary equivalent; If a character is “y” or “Y”, Display it, otherwise 
+        terminate; Calculate the following expression=M+N-P+1(Using Subroutine); Calculate following operation: if x>y then 
+        (M/N) +P else (M-N)*P ;(IF-ELSE Statement).
+        \n\n\n
+        
+        <b>Book References: </b>
+        \n\n
+        
+        
+        1. Assembly Language Programming,  Marut
+        \n\n
+        
+        2. Assembly Language Programming, Richard C. Detmer
+        \n\n
+        
+        3. Assembly Language Programming, Vanugopal
+        \n\n
+        
+        4. Techniques for the IBM PC, Alan R. Miller 
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name314">
+        <b>CSE-314 Engineering Mathematics</b>
+        \n\n
+        
+        <b>Series Solutions of Differential Equation: </b> Power series method, theory of power series method, Legendre\’s 
+        equation, Legendre\’s polynomials. Bessel\’s equation and Bessel\’s functions. Strum – Liouville Problems, Orthogonal 
+        function. Orthogonal Eigenfunction Expansions.
+        \n\n
+        
+        <b>Complex Numbers and function: </b> Complex numbers, Complex plane. Polar form of complex numbers, powers and roots. 
+        Derivative, Analytic function. Cauchy- Riemann equations. Geometry of analytical functions: Conformal mapping. Exponential 
+        function, Trigonometric functions, Hyperbolic functions, Linear fractional transformational.
+        \n\n
+        
+        <b>Complex Integration: </b> Line integral in the complex plane, Cauchy\’s integral theorem, Cauchy\’s integral 
+        formula, derivatives of analytic functions.
+        \n\n
+        
+        <b>Power series, Taylor series: </b> Sequence, Series, Convergence tests, power series, function given by power series, 
+        Taylor series and maclaurin series, uniform convergence, Optional.
+        \n\n
+        
+        <b>Laurent Series, Residue Integration: </b> Laurent Series, Singularities and Zeros, Infinity, Residue Integration 
+        method, Evaluation of real integrals.
+        \n\n\n
+        
+        <b>Book References: </b>
+        \n\n
+        
+        1. Erwin Kreyszig, Advanced Engineering Mathematics.
+        \n\n\n\n\n
+      
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name315">
+        <b>GED-315 Sociology</b>
+        \n\n
+        
+        <b>Sociological perspective: </b> definition, nature, scope and importance of sociology.
+        \n\n
+        
+        <b>Sociology and scientific approaches: </b> methods of social research, stages of social research.
+        \n\n
+        
+        <b>Primary concepts of sociology: </b> society, community, association, institution, group.
+        \n\n
+        
+        <b>Social evaluation: </b> stages in the evolution of human civilization.
+        \n\n
+        
+        <b>Culture: </b> definition, characteristics, culture content (material and non-material), cultural lag, culture and 
+        civilization.
+        \n\n
+        
+        <b>Industrial revolution: </b> The growth of capitalism, features and social consequences, socialism.
+        \n\n
+        
+        <b>Social organization: </b> family, forms and functions of family, functions of family in modern industrial society, 
+        marriage, forms of marriage, functions of marriage.
+        \n\n
+        
+        <b>Social stratification: </b> main types of social stratification- slavery-caste and social class and status, 
+        social stratification and social mobility.
+        \n\n
+        
+        <b>Social control: </b> religion and morality, custom and public opinion, taboo-low, state and education.
+        \n\n
+        
+        <b>Social change: </b> change evolution-progress-development, factors in social change.
+        \n\n
+        
+        <b>Society and population: </b> human migration, population and resources.
+        \n\n
+        
+        <b>Some current social problems: </b> crime, deviance, juvenile delinquency, youth unrest.
+        \n\n
+        
+        <b>Technology and society: </b> effects of technological factors on social life.
+        \n\n\n
+        
+        <b>Book References: </b> 
+        \n\n
+        
+        
+        1.	Metta Spencer and Alex Inkeles, Foundation of modern sociology.
+        \n\n
+        
+        2.	Young, P.V Scientific social survey and research.
+        \n\n
+        
+        3.	Ogburn and Nimkoff, A Hand book of sociology.
+        \n\n
+        
+        4.	Fairchild Little Field, Henry Pratt- Dictionary of sociology and related sciences.
+        \n\n
+         
+        5.	Giddings F.H Elements of sociology.
+        \n\n\n\n\n 
+      
+    </string>
+    
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name316">
+        <b>GED-316 Technical Writing &amp; Communications</b>
+        \n\n
+        
+        <b>Communication in the workplace: </b> Definition, Scope, role, principles, function, and objective.
+        \n\n
+        
+        <b>The processes of human communication</b> Definition, steps, feedback.
+        \n\n
+        
+        <b>Adaptation and the selection of words: </b> the basics need for adaptation, suggestion for selecting words, 
+        suggestion for nondiscriminatory writing.
+        \n\n
+        
+        <b>Construction of clear sentences and paragraph: </b> The basic need for adaptation, suggestion for selecting words, 
+        suggestion for nondiscriminatory writing.
+        \n\n
+        
+        <b>Writing for effect: </b> Business etiquette and the need for effect conversational style, you-viewpoint, accent on 
+        positive language courtesy, the role of emphasis, coherence.
+        \n\n
+        
+        <b>Directness in Good news: </b> the process of writing, Routine Inquiries.
+        \n\n
+        
+        <b>Indirectness in Bad-News Message: </b> Situations report indirectness, Refused request, Adjustment refusal, other 
+        indirect messages. Strategies in the job search process: the job search, Preparing the application documents, 
+        Construction the traditional resume, Constructing the electronic resume, Writing the application letter, Handling the 
+        interview.
+        \n\n
+        
+        <b>Modern devices in communication/ electronic communication/ Technology in modern communication: </b> meaning, media, 
+        advantage, disadvantage, Internet, e-mail, teleconferencing, multimedia.
+        \n\n
+        
+        <b>Basics of Report writing: </b> Defining reports, determining the report purpose, determining the factors, gathering 
+        the information needed, interpreting the findings, Organizing the repot information, writing the report, collaborative 
+        report writing.
+        \n\n
+        
+        <b>Long, Formal reports: </b> Organizing and content of the longer report, the prefatory parts, the report proper, 
+        structural coherence helper.
+        \n\n\n
+        
+        <b>Reference Books:</b>
+        \n\n
+        
+        1.	Lesiker, Pettit, Flatley, Business Communication.
+        \n\n
+        
+        2.	Betty &amp; Key, Business communication system and application.
+        \n\n
+        
+        3.	Raymond V. Lesiker,  Bain computer.
+        \n\n\n\n\n
+        
+        
+    </string>
+</resources>

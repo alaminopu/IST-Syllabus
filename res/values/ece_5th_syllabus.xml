@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="subject_code_and_name311">
+    <string name="ece_subject_code_and_name311">
         <b>ECE-301: Electromagnetic Fields and Waves</b>
         \n\n
         
@@ -62,7 +62,7 @@
     
     
     
-    <string name="subject_code_and_name312">
+    <string name="ece_subject_code_and_name312">
         <b>ECE-302: Numerical Analysis</b>
         \n\n
         
@@ -97,7 +97,7 @@
     
     
     
-    <string name="subject_code_and_name313">
+    <string name="ece_subject_code_and_name313">
         <b>ECE-303: Microprocessors &amp; Assembly Language</b>
         \n\n
         
@@ -142,7 +142,7 @@
     
     
     
-    <string name="subject_code_and_name314">
+    <string name="ece_subject_code_and_name314">
         <b>ECE-304: Data Communications</b>
         \n\n
         
@@ -195,7 +195,7 @@
     
     
     
-    <string name="subject_code_and_name315">
+    <string name="ece_subject_code_and_name315">
         <b>ECE-305: Electronic Materials</b>
         \n\n
         
@@ -238,7 +238,7 @@
     
     
     
-    <string name="subject_code_and_name316">
+    <string name="ece_subject_code_and_name316">
         <b>ECE-306: Data Communications Lab</b>
         \n\n
         
@@ -249,7 +249,7 @@
     
     
     
-    <string name="subject_code_and_name317">
+    <string name="ece_subject_code_and_name317">
         <b>ECE-307: Microprocessors &amp; Assembly Language  Lab</b>
         \n\n
         

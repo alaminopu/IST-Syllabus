@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+        >
+    <RelativeLayout
+                 android:layout_width="wrap_content"
+                  android:layout_height="wrap_content" android:background="#ffffffff">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name211"
+                android:id="@+id/cse_subject_code_and_name211"
+                android:layout_alignParentTop="true" android:textColor="#000000"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name212"
+                android:id="@+id/cse_subject_code_and_name212"
+                android:layout_below="@+id/cse_subject_code_and_name211"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name213"
+                android:id="@+id/cse_subject_code_and_name213"
+                android:layout_below="@+id/cse_subject_code_and_name212"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name214"
+                android:id="@+id/cse_subject_code_and_name214"
+                android:layout_below="@+id/cse_subject_code_and_name213"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name215"
+                android:id="@+id/cse_subject_code_and_name215"
+                android:layout_below="@+id/cse_subject_code_and_name214"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name216"
+                android:id="@+id/cse_subject_code_and_name216"
+                android:layout_below="@+id/cse_subject_code_and_name215"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name217"
+                android:id="@+id/cse_subject_code_and_name217"
+                android:layout_below="@+id/cse_subject_code_and_name216"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name218"
+                android:id="@+id/cse_subject_code_and_name218"
+                android:layout_below="@+id/cse_subject_code_and_name217"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cse_subject_code_and_name219"
+                android:id="@+id/cse_subject_code_and_name219"
+                android:layout_below="@+id/cse_subject_code_and_name218"
+                android:textColor="#000000"/>
+
+    </RelativeLayout>
+</ScrollView>

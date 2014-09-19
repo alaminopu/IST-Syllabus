@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="cse_subject_code_and_name421">
+        <b>CSE-421 Web Engineering</b>
+        \n\n
+        
+        Introduction to Web application technology, basic concepts, Client Server architecture, Web browser and Web servers, 
+        WWW, structure of a website, popular websites and their speciality, basic concepts static and dynamic web sectors, 
+        different web problems like Hoaxes, Spyware, Viruses and Pop-ups etc.
+        \n\n
+        
+        Brief history of Mark-up languages, HTML and introduction to HTML, basic HTML tags, adding links to different pages, 
+        inserting images, back ground sounds, GIF, Animations, form and form components, Contact/Feed back Forms (Text box, 
+        Text fields, pull-down menu, submit/reset Button, redirection between Web pages.
+        \n\n
+         
+        CSS, basic concepts of CSS, CSS handlers, creating custom text styles using CSS, using/calling CSS functions in forms, 
+        changing links.
+        \n\n
+         
+        Introduction to Java scripts, Using Basic Java Scripts functions like writeline, time,date etc. Using Simple scripts on 
+        different mouse events, Changing page Title,Using java Scripts to design multi-state  image links, pull- down menus, 
+        embedding dynamic elements with  Java Scripts, advanced custom tags.
+        \n\n
+        
+        Basic Concepts of Java applet , building simple applets with images, text and links, supported platform and browsers, 
+        common problems and trouble shooting. Basic concepts of DHTML, How it uses HTML, Java Scripts and CSS components. 
+        Texts, links and Image array.
+        \n\n
+        
+        PHP, Supported platforms, basic programming concepts and its dynamism, Simple PHP scripts to write/read inputs in 
+        forms and using in Dynamic forms. Integrating PHP and My-SQL, Using PHP Forms to manipulate data in the database, 
+        Data Validation, Session, security, Web application development.
+        \n\n\n
+        
+        <b>Reference Book: </b>
+        \n\n
+        
+            
+        1.	Chris Lea, Wankyu Choi,Allan Kent,Ganesh Prasad,Chris Ullman. Beginning Php 4 (Programmer to Programmer).
+        \n\n
+        
+        2.	 Surid Sharkar, CSS/Java Script.
+        \n\n
+        
+        3.  Web Design Complete Reference by Thomas A. Powell
+        \n\n
+        
+        4.  Creating Web Pages with HTML Simplified by Sherry Willard Kinkoph
+        \n\n
+        
+        5.  Web Design in a Nutshell (O’RELLY)- Jennifer Niederst 
+        \n\n\n\n\n
+
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name422">
+        <b>CSE-422 Web Engineering Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-421
+        \n\n
+        
+        
+        1. Designing a simple HTML Document to show text (Introduction to &lt;HTML&gt;,&lt;Body&gt;, &lt;Head&gt;, &lt;Title&gt;,
+        &lt;Meta Content&gt;,Using
+        Different HTML tags to format Body contents.
+        \n\n
+        
+        2.Text alignment in table, Introduction to Form elements(textbox, checkbox, combo box etc) and designing simple 
+        Feedback/Contact forms.
+        \n\n
+        
+        3.Using Java Scripts to to create web pages containing custom Welcome message(Date-time).
+        \n\n
+        
+        4.Using text Links to navigate between different pages, inserting  Images  and back ground sounds and using Images as 
+        Link.
+        \n\n
+        
+        5.Using page frames and mousover links and implementing them in a HTML document.
+        \n\n
+        
+        6.Using CSS to apply formatting text, forms, tables and link styles.
+        \n\n
+        
+        10.Using different control statements in Java Scripts to execute simple mathematical expressions(if-else, Switch-case, 
+        for, while, do-while).
+        \n\n
+        
+        11.Installing Apache, PHP 4/5 and integrating into windows platform, creating PHP documents with simple tags, 
+        installing My-SQL and connection between PHP and My-SQL.
+        \n\n
+        
+        12.Inserting data into My-SQL database using PHP forms.
+        \n\n
+        
+        	
+        Project: Design and develop a Complete Dynamic website with HTML, PHP and My-SQL having forms and also a 
+        flexible navigation menu which has links to all available section on the site.
+        \n\n\n\n\n
+       
+    </string>
+    
+        
+    
+        
+    <string name="cse_subject_code_and_name423">
+        <b>CSE-423 Computer and Network Security</b>
+        \n\n
+        
+        <b>Cryptography and cryptographic algorithms: </b> Traditional cryptographic algorithms: traditional cryptography, 
+        cryptanalysis, Private-key (symmetric-key) and public-key (asymmetric-key) cryptographic algorithms, DES and block 
+        cipher modes, advanced encryption standard, RSA and other public key cryptosystems, key management, Diffie-Hellman key 
+        exchange, Elliptic curve cryptography, cryptography hash functions, secure hash algorithm, message authentication 
+        codes, Digital signatures and digital signature standard.
+        \n\n
+        
+        <b>Cryptography and network security: </b> Data-origin authentication and data integrity, Key distribution, management, 
+        Kerberos and X.509 authentication service, certificate authotity and public key infrastructure, Email security, PGP and 
+        S/MIME, IP Security, authentication header and ESP, Security associations, Key management, eb security considerations, 
+        secure socket layer and transport layer security, secure electronic transactions (SET).
+        \n\n
+        
+        <b>Cryptography for antivirus software and password management: </b> generic decryption, digital immune system and UNIX 
+        password scheme.
+        \n\n\n
+        
+        <b>Reference Book: </b>
+        \n\n
+        
+        
+        1.	Cryptography and Network Security, William Stallings.
+        \n\n
+         
+        2.	Hand book of Applied Cryptography, by A. Menezes, P.van Oorschot, and S. Vanstone, CRC press, 1996 
+        ( www.cacr.math.uwaterloo.ca/hac)
+        \n\n\n\n\n 
+	
+    </string>    
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name424">
+        <b>CSE-42X Elective Course </b>
+        \n\n
+        
+        This is an elective course the student should choose one of the elective course in consultation with head of the 
+        department. 
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name425">
+        <b>CSE- 499 Project Work (Continued from 7th Sem.)</b>
+        \n\n
+        
+        12 hours in a week, 6.00 Cr.
+        \n\n\n\n\n
+        
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name426">
+        <b>CSE-424 Image Processing</b>
+        \n\n
+        
+        <b>Introduction to image processing: </b> Representation of image, A basic image processing system, Relationship to 
+        human visual system, Example of fields that use digital image processing.
+        \n\n
+        
+        <b>Digital Image Fundamentals: </b> Image formation in the eye, Light and electromagnetic spectrum, Image sensing and 
+        acquisition, Image sampling, Image quantization, Some basic relationships between pixels Neighbors of a pixel, Adjacency, 
+        connectivity, region, Boundaries, Distance measures.
+        \n\n
+        
+        <b>Image enhancement: </b> Some basic gray level transformations, Histogram processing, Histogram equalization, Histogram 
+        matching, Image negatives, log transformation, Power law transformation, Basics of spatial filtering, Smoothing spatial 
+        filters, Homomorphic filtering, Correspondence between the spatial and frequency domain filtering.
+        \n\n
+        
+        <b>Image Restoration: </b> A model of the image degradation/ Restoration process, Noise models, Restoration in the 
+        presence of noise only spatial filtering.
+        \n\n
+        
+        <b>Color Image processing: </b>Color fundamentals, Color models, the RGB color model The CMY, CMYK color Model, HIS 
+        color Model, Basics of full-color transformation, Color transformations, formulation.
+        \n\n
+        
+        <b>Image Compression: </b>Image compression fundamentals, Coding redundancy, Inter pixel redundancy.
+        \n
+        
+        Psychovisual redundancy, Image compression models, The source encoder and decoder, The channel encoder and decoder.
+        \n\n
+        
+        <b>Image Segmentation: </b> Edge detection, line detection, point detection, Boundary Detection, Thresholding, 
+        Region based segmentation.
+        \n\n\n 
+        
+        <b>Reference book: </b>
+        \n\n
+        
+        
+        1.	Rafael C. Gonzalez, Richard E. Woods. Digital Image Processing.
+        \n\n
+        
+        2.	Anil K. Jain. Fundamentals of Digital Image Processing.
+        \n\n
+        
+        3.	M A Sid-Ahmed. Image processing theory, Algorithms and architectures.
+        \n\n\n\n\n 
+        
+         
+    </string>
+    
+    
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name427">
+        <b>CSE-425 VLSI Design</b>
+        \n\n
+        
+        <b>VLSI Design: </b> Design and analysis techniques for VLSI circuits; Design of reliable VLSI circuits; Noise 
+        consideration; Design and operation of large fan out and fan in circuits, clocking methodologies; Techniques for data 
+        path and data control design. Simulation techniques; parallel processing, Special purpose architectures in VLSI layout 
+        partitioning and placement routing and wiring in VLSI; Reliability aspects of VLSI design, Graph based VLSI Design, 
+        Multilevel VLSI circuit, Multiple Valued VLSI circuit.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        	 
+        1.	Basic VLSI Design system and Circuits, Douglas A. Pucknell, KAMRAN Eshraghiam, Pentic, Hall International Inc. 
+        Second Edition.
+        \n\n
+         
+        2.	Modern VLSI Design by Wayne Wolf.
+        \n\n\n\n\n
+     
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name428">
+        <b>CSE-426 Simulation and Modeling</b>
+        \n\n
+        
+        <b>Concept of system: </b> System components, continuous and discrete systems.
+        \n\n
+        
+        <b>System modeling: </b> Types of models, static and dynamic models, physical and mathematical models, continuous and 
+        discrete models. Principles used in system modeling. Study if system model;  system design, system model analysis and 
+        postulation.
+        \n\n
+        
+        <b>System Dynamics: </b> Need for simulation, types of simulation, techniques of simulation. Comparison of simulated 
+        and analytical methods. Continuous system simulation. Differential equation model.
+        \n
+        
+        Exponential growth models and decay models, generalization of growth models. System dynamics diagrams. Multi-sigment 
+        models, representation of time delay. Probability concepts in simulation; Stochastic variable, discrete and and 
+        continuous probability functions,. Generations of random numbers. Generating discrete distributions. Non-uniform 
+        continuously distributed random numbers, Rejection method.
+        \n\n
+        
+        <b>Discrete System Simulation: </b> Discrete event simulation, activity simulation, representation of time, generation 
+        of arrival patterns, entities, resources, queues. Measures of queues and mathematical solution of queuing problems.
+        \n\n
+        
+        <b>Discrete simulation languages: </b> General Purpose simulation, System language (GPSS) and  SIMSCRIPT.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+		1.System Simulation by Geoffery Grodon, Prentice Hall
+		\n\n
+		
+		2.Discrete-event System Simulation by Banks J and Carson JS, Prentice Hall.
+		\n\n
+		
+		3.Simulation Modeling with Pascal, Prentice Hall.
+		\n\n
+		
+		4. System Simulation with digital computer. Narsing deo.
+		\n\n\n\n\n
+
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name429">
+        <b>CSE-427 E-Commerce</b>
+        \n\n
+        
+        <b>Introduction: </b> An overview,traditional and electronic business trasanctions, types of e-commerce, benefits of 
+        e-commerce.
+        \n\n
+        
+        <b>Security and e-commerce: </b> Review of private key and public key enery operations, Comparasion of encryption 
+        method, Digital signatures and certificates, overview of literate security systems.
+        \n\n
+        
+        <b>Handling money on the net: </b> Transactions on the internet,requirements for payment systems,types and tools for 
+        electyronics payment, electronic data interchange and components of EDI system.
+        \n\n
+        
+        <b>Consumer and Business Markets: </b> Consumer markets and one to one marketing,value chains and the market place, 
+        Online communities and new marketing opportunies, websities and ordering online, Online catalogs , tying database, to 
+        online catalogs, Electronic consumer support,tracking online problems, security software modules.
+        \n\n
+        
+        <b>Virtual: </b>Virtual factory, virtual coordination and implementation,access to shared data and applications, 
+        entrusting access to intermediary.
+        \n\n
+        
+        <b>Business Process Engineering: </b> Approaches, models and methodologies, management of changes.
+        \n\n
+        
+        <b>Legal Issues: </b> Risk associated with proper documents and electronic documents, authentication of electronic 
+        documents, laws for e-commerce, EDI interchange agreements legal issues for internet commerce.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+        1.E-Commerce,KK Bajaj and D. Nag.
+        \n\n
+        
+        2.E-Commerce, D.Kosiur.
+        \n\n
+        
+        3.Electronic Commerce , P. Loshin, P. Murphy.
+        \n\n
+        
+        4.Frontiers of Electronic Commerce, R. Kalakota.	
+        \n\n\n\n\n
+        
+    </string>
+</resources>

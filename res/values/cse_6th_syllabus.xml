@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="cse_subject_code_and_name321">
+        <b>CSE-321 Software Engineering</b>
+        \n\n
+        
+        <b>Software Engineering Paradigms: </b> Definition of S/W Eng.; The classical life cycle; Prototyping fourth generation 
+        technique; The product and the process model, Generic view of software engineering, Boehm\'s spiral model, Measurement 
+        and Matrices.
+        \n\n
+        
+        <b>Requirements Analysis Fundamentals: </b> Analysis principle; Feasibility Study, Software Prototyping Specification; 
+        Requirement Analysis Methodologies; Structured and object oriented analysis; Data Flow-oriented analysis methods.
+        \n\n
+        
+        <b>Software Design Fundamentals: </b> Design process; Design fundamentals: S/W architecture, Program structure, Data 
+        structure, S/W procedure, Modularity, abstraction; Effective modular design; Procedural design; Data flow-oriented 
+        Design; Top-down and bottom-up design; Design process considerations; Transform analysis; Transaction analysis; Data 
+        structure-oriented design: Logical construction of programs and systems, Data structured systems development; 
+        Object-oriented design; Design concepts; Methods; strategy. Real-time Design; Coding style: Code documentation, Data 
+        declaration, statement construction, Input/output, Software reliability.
+        \n\n
+        
+        <b>Software Testing Techniques and Strategies: </b> Software Testing method, Testing fundamentals &amp; strategies; 
+        White box testing; Basis path testing; Loop testing; Black Box testing. Verification and validation; Organization for 
+        software testing; Defect testing; Integration testing; Validation testing; System testing; The art of debugging.
+        \n\n
+        
+        <b>Software Management and Maintenance Technique: </b> Maintenance process, System documentation, Maintenance cost, 
+        Configuration management &amp; planning, Change management, person &amp; release management, Software cost estimation 
+        technique, Algorithmic cost modeling, The COCOMO model, Software quality assurance &amp; activities, McCall\’s quality 
+        factor, Software reuse, Software re-engineering, Computer Aided Software Engineering (CASE) tool.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+        1. Software Engineering by Lan Sommerville
+        \n\n
+        
+        2. Software Engineering by Roger S. Pressman
+        \n\n
+        
+        3. Software Engineering by Martin L. Shooman
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name322">
+        <b>CSE-322 Software Engineering  Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-321
+        \n\n
+        
+        <b>A student has to perform one of the following computer based systems: </b>Student information system, Admission 
+        processing system, Employee information system, Payroll management system, Result processing system, Library management 
+        system.
+        \n 
+        
+        It is further mentioned that a student can propose any other system, which is relevant with this subject/ field.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name323">
+        <b>CSE-323 Numerical Analysis</b>
+        \n\n
+        
+        <b>Numerical solution of polynomials: </b> general algebraic equation, integration.
+        \n\n
+        
+        <b>Numerical solution of simultaneous linear equation: </b>matrix operations; least-squares curve flitting techniques; 
+        interpolation polynomials.
+        \n\n
+        
+        <b>Numerical solution of ordinary differential equation: </b> Euler method, Multi-step methods, Adams-Moulton, 
+        Adams-Bashforth method, predictor-corrector scheme, Runge-Kutta methods, stiffness, Error estimation and step size 
+        control. Detailed error analysis of several techniques. Root finding for non linear equations, Numerical methods for 
+        initial value problems for ordinary differential equations.
+        \n\n
+        
+        <b>Direct methods for systems of linear equations: </b> Gaussian Elimination interpreted as matrix factorization, 
+        pivoting strategies, techniques for special classes of matrices.
+        \n\n
+        
+        <b>Iterative techniques for systems of linear equations: </b> Jacobi and Gauss- Seidel iteration, their analysis via 
+        matrix and vector norms, the spectral radius of a matrix Eigenvalue problems for matrices illustrative programming 
+        projects and use of computer to implement the projects.
+        \n\n\n
+        
+        <b>Reference Books:</b>
+        \n\n
+        
+        
+        1.	J.H. Mathews, Numerical Methods for Computer Science, Engineering and Mathematics, Prentice-Hall, 1987.
+        \n\n
+        
+        2.	B. Irons and N.G. Shrive, Numerical methods in Engineering and applies Science, Ellis Horwood, 1987.
+        \n\n
+        
+        3.	I. Jacques and C. Judd, Numerical Analysis, Chapman and Hall, 19878.
+        \n\n
+        
+        4.	M.J. Marron, Numerical Analysis: A practical approach, Macmillan, 1987.
+        \n\n\n\n\n
+	
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name324">
+        <b>CSE-324 Computer Graphics and Multimedia</b>
+        \n\n
+        
+        <b>Graphics Input, storage, Output and Communications: </b> Graphics input, storage, Communication Devices, Common 
+        Display devices, Raster Scan CRT.
+        \n\n
+        
+        <b>Scan Conversion: </b> Scan converting a Point, Line, Circle, Ellipse, Arcs, Rectangle, Region filling, Side Effects 
+        of Scan Conversion.
+        \n\n
+        
+        <b>Two-dimensional and three-dimensional Graphics Transformation </b> Geometric Transformations, Co-ordinate 
+        Transformations, Composite Transformations, and Instance Transformation.
+        \n\n
+        
+        <b>Two-dimensional and three-dimensional Viewing and Clipping: </b> Viewing Transformations, Clipping Algorithms.
+        \n\n
+        
+        <b>Mathematics of Projection: </b> Perspective projection, Parallel projection.
+        \n\n
+        
+        <b>Geometric representations: </b> Wire frame model, Curve Design, Interpolation and Approximation.
+        \n\n
+        
+        <b>Hidden Surfaces: </b> Depth comparisons, Z-Buffer algorithm, The Painter\’s algorithm, Scan line algorithm.
+        \n\n
+        
+        <b>Introduction to Multimedia Systems: </b> Interactive and non-interactive multimedia, temporal media and Non-Temporal 
+        media, Hypertext, Hypermedia, MPC Level 1, MPC Level 2, Quick Time.
+        \n\n
+        
+        <b>Image: </b> Image, Types and applications, Image Capture, Text conversion, Vectorization, Image compression, 
+        Encoding, Standards for encoding images, JPEG.
+        \n\n
+        
+        <b>Audio: </b> Audio capture, Compression methods, MIDI, Digital audio, Sampling Rate, Sampling Size, MPEG-1, MPEG-2.
+        \n\n
+        
+        <b>Video: </b> TV screen, Monitor,Video capturing technique, Broadcast TV standards,  video standards, Video 
+        compression, Coding of real-time video, Analog video signal formats. Animation Classification and techniques.
+        \n\n
+        
+        <b>Storage for multimedia: </b> Choice of storage, Storage types, Compact Disk specification,  CD-DA, CD-ROM, CD-I.
+        \n\n
+        
+        <b>Multimedia Project: </b> Project Design concept, Media content Design and Development, Interface Design and 
+        Development Process, Multimedia team.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+        1. Computer graphics, Schaum\’s Outline series.
+        \n\n
+         
+        2. Computer graphics principal and practice, Foley, Vandam.
+        \n\n
+        
+        3. Computer graphics: a programming approach.  Steven and Harrington.
+        \n\n
+        
+        4. Multimedia in Practice, Judith Jeffcoate.
+        \n\n
+        
+        5. Multimedia Magic,S.Gokul.
+        \n\n
+        
+        6. Multimedia Programming Objects, Environments and framework, Simon J. Gibbs.
+        \n\n
+        
+        7. Multimedia Computers and Communications, N. Sessagiri and Aram Akopov.
+        \n\n
+        
+        8. Open GL(r) 1.2 Programming Guide, Mason woo, Jakie Neider, Tom David, Dave shriner.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name325">
+        <b>CSE-325 Computer Graphics and Multimedia Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-324.
+        \n\n
+        
+        Scan Convention Lines, Scan Converting Circles, Scan Converting Ellipses, Filling Rectangles, Filling Polygons, 
+        Filling Ellipse Arcs, Pattern Filling, Clipping Lines, Clipping Circles and Ellipses, Clipping Polygons 2D 
+        Transformation, the window to View port Transformation.
+        \n
+        
+        Computer Graphics Programming: Open GL.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name326">
+        <b>CSE-326 Compiler Design</b>
+        \n\n
+        
+        <b>Introduction to compiler: </b> Compiler, Analysis of the source Program, the phases of compiler, of the compiler, 
+        compiler construction tools.
+        \n\n
+        
+        <b>A simple one pass compiler: </b> syntax definition, CFG, parse tree, ambiguity, associativity of operators, lexical 
+        analysis.
+        \n\n
+        
+        <b>Lexical analysis: </b> the role of the lexical analyzer, input buffering, specification tokens, finite automaton, 
+        Thompson\’s construction, conversion of regular expression to DFA.
+        \n\n
+        
+        <b>Basic parsing technique: </b> Parser Bottom-up parsing, operator precedence parsing, operator precedence grammar, 
+        Top down parsing, Predictive parsing, LL1 grammar, LR parser (SLR, LALR).
+        \n\n
+        
+        <b>Syntax Directed Translation: </b> Syntax Directed Definition, Construction of Syntax tree L –Attributed definition.
+        \n\n
+        
+        <b>Runtime Environment: </b> Activation tree, Storage organization, Storage allocation strategies, parameter passing, 
+        symbol table.
+        \n\n
+        
+        <b>Intermediate code generation: </b> Intermediate languages, three address code, Boolean expression, back patching.
+        \n\n
+        
+        <b>Code generation: </b> issues in the design of a code generator, target machine, basic block, flow graph, code 
+        generator algorithm, DAG, peephole optimization.
+        \n\n
+        
+        <b>Code optimization: </b> Function preserving  optimization, optimization of basic block, loop optimization.
+        \n\n
+        
+        <b>Error detection: </b> reporting errors, Sources of error, syntactic error, semantic error, dynamic error, plan of 
+        error detection.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+        1.	Alfred V. Aho, Ravi Sethi, Jeffery D. Ullman, Compilers, Techniques and tools.
+        \n\n
+        
+        2.	Alfred V. Aho,  Jeffery D. Ullman, Principles of Compiler Design.
+        \n\n
+        
+        3.	A.J Holub, Compiler Design in C.
+        \n\n\n\n\n
+         
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name327">
+        <b>CSE-327 Compiler Design Practical</b>
+        \n\n
+        
+        Laboratory works based on CSE-326.
+        \n\n
+        
+        
+        Lex specification to recognize the following verb: is, am, are , were, was, be, being, been, do, does, did, will, would, 
+        should, can, could, has, have, had, go. Lex specification to recognize the following words as different parts of 
+        speech: is, am, are, were, go, very, simply, quickly, gently, to, from, behind, between, if, then. Lex specification 
+        to recognize different keyword. Lex specification to recognize the identifier. Lex specification to recognize real 
+        numbers. Lex specification to recognize integer. Lex specification to recognize float. Lex specification to recognize 
+        for the positive and negative integer and float number. Lex specification to recognize different punctuation  symbol. 
+        Lex specification to recognize digit. Lex program to eat up comments. Lex program to find out user name. Lex program to 
+        recognize different types of operator. Checking the validity of an arithmetic expression using CFG. Converting Regular 
+        Grammar into Regular expression. Parsing any string using a CFG.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="cse_subject_code_and_name328">
+        <b>CSE-328 System Analysis and Design</b>
+        \n\n
+        
+        <b>The systems Development Environment: </b> Introduction- A modern approach to systems analysis and design, your role 
+        and other organizational responsibilities in systems development types of information systems and systems development, 
+        Developing information systems and the systems development life cycle.
+        \n
+        
+        Succeeding as a systems analyst, acquiring the techniques of the systems analyst; automated tools for systems 
+        development prototyping, reusable code CASE tools. Visual and emerging development tools- object oriented development 
+        tools, visual development tools, evolution and future of development tools.
+        \n\n
+        
+        <b>Analysis: </b> Fundamental principles of systems analysis, the preliminary investigation phase, determining systems 
+        requirements, traditional methods for determining requirements, modern methods for determining systems requirements, 
+        feasibility study; structuring system requirements- Process modeling, data flow diagramming, logic modeling with 
+        structured English, decision trees, Decision tables, Data dictionary, process descriptions, conceptual data modeling.
+        \n\n
+        
+        <b>The design phase: </b> the logical representation of data, design of physical files and database, design principles 
+        and output design, input design, designing forms and reports, designing databases, designing the internals- program and 
+        process, Designing distributed systems.
+        \n
+        
+        System development and implementation: program and process design, Verification and validation, methods of errors 
+        checking and testing; installation-Direct, parallel single location, phased and planning.
+        \n\n
+        
+        <b>System maintenance: </b>documentation; maintenance information system, the process of maintaining information 
+        systems, the process of maintaining information systems, types of maintenance, managing maintenance, documentation the 
+        system-user document, programmer document and operational document.
+        \n\n\n
+        
+        <b>Reference Books: </b>
+        \n\n
+        
+        
+        1.	Modern systems analysis &amp; design, Jefrey A. Hoffer etc all, Pearson education Asia, 3rd edition, 2001.
+        \n\n
+        
+        2.	Systems Analysis and Design, Shin Yen Wu, West Publishing  Company, 1994.
+        \n\n
+        
+        3.	Information System: A Management Perspective, 2nd Edition Steven A Benjamin/ Cummings 1996.
+        \n\n
+        
+        4.	Information Systems: Theory and Practice, 5th Edition, J Burch and G Grundnitski (John Wiley and Sons, 1989).
+        \n\n\n\n\n
+
+    </string>
+</resources>

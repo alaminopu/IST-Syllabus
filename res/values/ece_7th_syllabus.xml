@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="subject_code_and_name411">
+    <string name="ece_subject_code_and_name411">
         <b>ECE-401: Microwave Engineering</b>
         \n\n
         
@@ -48,14 +48,14 @@
         \n\n
          
         •	Foundations for Microwave Engineering by R E Collins, McGraw-Hill.
-        \n\n\n
+        \n\n\n\n\n
         
     </string>
   
     
     
     
-    <string name="subject_code_and_name412">
+    <string name="ece_subject_code_and_name412">
         <b>ECE-402: Wireless Communication Systems</b>
         \n\n
         
@@ -99,10 +99,171 @@
         \n\n
         
         •	Mobile Satellite Communication Networks, Sheriff R.E. and Fun Hun Y., Wiley, 2001.
-        \n\n\n
+        \n\n\n\n\n
 
         
         
     </string>
+    
+    
+    
+    <string name="ece_subject_code_and_name413">
+        <b>ECE403: Control Systems</b>
+        \n\n
+        
+        <b>Introduction:</b> Introduction to, control, systems, Definitions and Mathematical background.
+        \n\n
+        
+        <b>System Equations:</b> State concepts, Transfer function and block diagram, Mechanical translation systems, 
+        Mechanical rotational systems.
+        \n\n
+        
+        <b>Solution of Differential Equations:</b> Standard inputs to control systems, Steady-state response and 
+        transient response.
+        \n\n
+        
+        <b>Laplace Transform:</b> Definition, Laplace transform theorem, Application of the Laplace transforms to 
+        differential equations, inverse, transformation, Heavi¬side, partial fraction expansion theorems.
+        \n\n
+        
+        <b>System Representation:</b> Block diagrams, Determination of the overall transfer function, 
+        Standard block din grain terminology, Simulation diagrams, Signal flow graphs.
+        \n\n
+        
+        <b>Control System Characteristics:</b> Routh-Hurwitz stabi¬lity criterion, Feedback system types, 
+        Analysis of system types, Steady-state error coefficients, Nonunity-feedback system.
+        \n\n
+        
+        <b>Root Locus:</b> Plotting roots of a characteristics equation, Quantitative analysis of the root locus, 
+        Open-loop transfer function, Poles of the control ratio, Application of the magnitude and angle condition.
+        \n\n
+        
+        <b>Frequency Response:</b> Correlation of the sinusoidal and time responses, Frequency response curves, 
+        Bode plots (Logarithmic plots), General frequency transfer function relationships, Nyquist\’s stability criterion, 
+        Definitions of phase margins and gain margins and their relation of stability.
+        \n\n
+        
+        <b>Recommended books</b>
+        \n\n
+        
+        
+        •	Linear control systems and design by John J.D. Azzo. 
+        \n\n
+        
+        •	Control engineering by C.C. Bissel. 
+        \n\n
+        
+        •	Modern control systems by RR Dorf.
+        \n\n\n\n\n
+
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name414">
+        <b>ECE-404: Computer Networks and Internet</b>
+        \n\n
+        
+        <b>Introduction:</b> Introduction to computer Networks, Protocols and Architecture- TCP/IP protocol suit, 
+        The OSI Reference Model.
+        \n\n
+        
+        <b>Local Area Networks and the Medium Access Sublayer:</b> LAN Technology, Architecture. Topology, Wireless LAN, 
+        Ethernet and Fast-Ethernet, and Gigabit Ethernet Multiple access – CSMA/CD, CSMA/CA. Token Ring and FDDI, 
+        Bridges, Bridges operation, Switches, Wireless LAN.  
+        \n\n
+        
+        <b>Frame relay and Cell Relay:</b> Frame Relay services and protocol, ATM overview, ATM LAN.
+        \n\n
+        
+        <b>Internetworking:</b> principles of internetworking, connectionless &amp; connection oriented internetworking. 
+        The Internet protocol, Routing Protocol, IPv6, ICMPv6.
+        \n\n
+        
+        <b>The Transport Layer:</b> The transport service, transport service primitives, socket primitives, TCP &amp; UDP. 
+        \n\n
+        
+        <b>Distributed Applications:</b> Simple Network Management Protocol -SNMPv2, Electronic mail - SMTP and MIME, 
+        Hypertext Transfer protocol (HTTP), Video on Demand.
+        \n\n
+        
+        <b>Recommended books:</b>
+        \n\n
+        
+        
+        •	Data and Computer Communications. - W. Stallings, Macmillan, 6th Edition.
+        \n\n
+         
+        •	Computer Networks, -A.S. Tanenbaum, Prentice Hall, 1996.
+        \n\n
+         
+        •	Data Communications and Networking, 4/e, McGraw-Hill, Behrouz A. Forouzan.
+        \n\n\n\n\n
+        
+        
+    </string>
+    
+    
+    
+    
+    
+    
+    <string name="ece_subject_code_and_name415">
+        <b>ECE-405: Industrial Management</b>
+        \n\n
+        
+        Introduction, evolution, management function, organization.
+        \n\n
+        
+        <b>Organization:</b> Theory and structure, coordination, span of control, authority delegation, 
+        groups, committee, and task force, manpower planning.
+        \n\n
+        
+        <b>Personnel management:</b> Scope, importance, need hierarchy, motivation, job redesign, 
+        leadership, participative management, training, performance appraisal, wages, and incentives, 
+        informal groups, organization change and conflict.
+        \n\n
+        
+        <b>Cost and Financial Management:</b> elements of costs of products, depreciation, Break-even analysis, 
+        Investment Analysis, Benefit cost analysis.
+        \n\n
+        
+        <b>Management accounting:</b> cost planning and control, budget and budgetary control, development planning process.
+        \n\n
+        
+        <b>Marketing management:</b> concepts, strategy, sales promotion, patent laws.
+        \n\n
+        
+        <b>Technology management:</b> management of innovation and changes, technology lifecycle.
+        \n\n
+        
+        
+    </string>
+    
+    
+    
+    <string name="ece_subject_code_and_name416">
+        <b>ECE-406: Computer Networks Lab</b>
+        \n\n
+        
+        Based on course ECE-404 Computer Networks.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    <string name="ece_subject_code_and_name417">
+        <b>ECE-407: Wireless Communications Lab</b>
+        \n\n
+        
+        Based on course ECE-402 Wireless Communication Systems.
+        \n\n\n\n\n
+        
+    </string>
+    
     
 </resources>
