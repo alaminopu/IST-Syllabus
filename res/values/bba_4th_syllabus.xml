@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bba_subject_code_and_name221">
+        <b>2201    INSURANCE AND RISK MANAGEMENT </b>
+        \n\n
+        
+        <b>1. Insurance : </b> \n
+        The scope of insurance, origin, history and development of insurance, nature and function of insurance. 
+        \n\n
+        
+        <b>2. Risk : </b> \n
+        Types of risk, insurable risk, identification and management of risk. 
+        \n\n
+        
+        <b>3. Difference insurance policies : </b> \n
+        Life, Fire, marine, liability .
+        \n\n
+        
+        <b>4. Principles of Insurance : </b> \n
+        Insurable interest, Indemnity, subrogation, contribution, Utmost good faith, Proximate cause.
+        \n\n
+        
+        <b>5. Reinsurance.</b>
+        \n\n
+        
+        <b>6. Insurance market.</b>
+        \n\n
+        
+        <b>7. Insurance pricing.</b>
+        \n\n
+        
+        <b>8. Insurance Practices in Bangladesh.</b>
+        \n\n\n
+        
+        
+        
+        
+        <b>Recommend Books :</b>
+        \n\n
+        
+        1.	Williams, Risk and Insurance. McGraw-Hill, India.
+        \n\n
+        
+        2.	Azizul Huq Chaudhari, Elements of Insurance.
+        \n\n\n\n\n
+        
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name222">
+        <b>2202    COST ACCOUNTING </b>
+        \n\n
+        
+        <b>1. Nature of Cost Accounting : </b> \n
+        Meaning, Objects, Importance and advantages of cost of accounting – essential of a cost accounting system- Relationship 
+        between cost accounting and financial accounting- methods of costing – limitation of cost accounting.
+        \n\n
+        
+        <b>2. Cost Concepts : </b> \n
+        Cost terms – Expense – Classification of cost – preparation of cost sheet.
+        \n\n
+        
+        <b>3. Materials : </b> \n
+        Direct and indirect materials – Procurements of materials – Storage of materials – Materials record -  
+        methods of valuing material issues – planning material requirements – stock levels – EOQ – Safety stock – 
+        material control – ABC plan -  VED analysis – stock valuation – stock verification and adjustment.
+        \n\n
+        
+        <b>4. Labour : </b> \n
+        Labour cost control, recording of time -  methods of remuneration – incentive plans – wages calculation – 
+        payments of wages – wages abstract.
+        \n\n
+        
+        <b>5. Overhead : </b> \n
+        Planning and control of overhead – predetermined factory overhead – methods of determining allocation ratios – 
+        applied factory overhead – departmental allocation of factory overhead – actual factory overhead – over and under 
+        applied factory overhead – analysis of variance – administrative, selling and distribution overheads – 
+        applied and actual overhead – accounting for overheads – departmental rate – plan wise rate.
+        \n\n
+        
+        <b>6. Job and Batch Costing : </b> \n
+        nature and procedure of job and batch costing – determination of economics batch quantity.
+        \n\n
+        
+        <b>7. Contract Costing : </b> \n
+        Nature and procedure – contract account – notional profit – determination of profits and incomplete contract.
+        \n\n
+        
+        <b>8. Process Costing : </b> \n
+        Nature and application – physical flow – loss, spoilage, defective, scrap – equivalent procedure unit. 
+        \n\n
+        
+        <b>9. Standard Costing Concepts : </b> \n
+        Objective – setting of standards – analysis of material and labour variance and overhead variance, 
+        significance of variance.
+        \n\n
+        
+        <b>10. Cost Accounting Records : </b> \n
+        Non Integral accounting system, journal entries, cost accounting ledger and control accounts, integral 
+        accounting system, advantages, disadvantage  journal entries and ledger accounts.
+        \n\n
+        
+        <b>11. Reconciliation of Cost Accounting Profit and Financial accounting Profit : </b> \n
+        Reason for variations, treatment of items, need for Reconciliation, Reconciliation statement, Memorandum 
+        Reconciliation Account.
+        \n\n
+        
+        <b>12. Operational Costing  : </b> \n
+        Basic principals, conditions necessary for it\'s success, accounting records, Transport costing, Staff, Canteen 
+        costing, hotel costing, powerhouse costing, hospital costing.
+        \n\n\n
+        
+        
+        <b>Recommend Books :</b>  
+        \n\n
+        
+        1.	Polimemeni, Cost Accounting, The World Press Private Ltd.
+        \n\n
+        
+        2.	Matz and Usry , Cost Accounting, The World Press Private Ltd.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name223">
+        <b>2203    COMPUTER PROGRAMMING </b>
+        \n\n
+        
+       <b>1. Evaluation of Programming :</b> \n
+       History and evolution of computer language and difference types of program.
+       \n\n
+       
+       <b>2. Fundamental Concepts of Computer Programming and terminology : </b> \n
+       Algorithms and its notations, Flow charts, Functions, constant, variables and data types. Expressions, selections 
+       statements, arrays, records and pointers, general sub procedure, lists, stacks, queues and recursions, loop 
+       structure, trees, sorting and searching and data files.
+       \n\n
+       
+       <b>3. Designing and Creating a Relation database with MS Access 2000 or above : </b> \n
+       Tables – Attributes, keys, Indexes, Relationship, Queries – select, insert, delete, append, parameter, Wizards;  
+       Forms- Wizards, controls, sub forms; reports – wizards, custom macros - actions, conditions, function; code behind 
+       forms and expressions.
+       \n\n\n
+       
+       <b>Recommend Books :</b>
+       \n\n
+       
+       1.	Seymour Lipschutz, Data Structure. Schaum\'s outline series, McGraw-Hill.
+       \n\n
+       
+       2.	Andersen, Peter Norton, Guide to Access 2000 Programming, Sams Publishers.
+       \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name224">
+        <b>2204    COMMERCIAL LAW</b>
+        \n\n
+        
+        <b>1. Law of Contract : </b> \n
+        Definition of a Contract- essential elements of a contract – offer – acceptance – considerations – void and 
+        voidable agreements – capacity of parties – free consent – Legality of object and consideration – contingent 
+        contract – performance of contracts  - terminology and discharge of Contracts – indemnity &amp; guarantee – 
+        Bailsment and pledge.
+        \n\n
+        
+        <b>2. Law of Relating to Negotiable Instruments : </b> \n
+        Definition- acceptance and negotiation – rights and Liabilities of Parties – Dishonor of Negotiable instruments.
+        \n\n
+        
+        <b>3. Laws Related to Sales of Goods : </b> \n
+        Definitions, Transfer of Ownership, Performance of the contract of sales. 
+        \n\n
+        
+        <b>4. The Company Act 1994 : </b> \n
+        Definition, Characteristics, types Memorandum – Contents and clauses, alteration, ultra vires, article of 
+        association – purpose, content, alteration; formations of company – steps, procedure of registrations and 
+        incorporation, Certification of incorporation, promoters; prospectus : contents, misrepresentation, omission, 
+        statement in lieu of prospectus; directors – appointment, Qualification, powers and duties, removal, vacation of 
+        office, Remuneration, managing director; Meetings – Statutory Meetings, Statutory report, annual meeting, extraordinary 
+        general meeting, resolutions, minutes of proceeding; winding up – winding up by the court, 
+        voluntary winding up, winding up subject to the supervision of the court, appointment of official liqueidators.
+        \n\n
+        
+        <b>5. Partnership Act : </b> \n
+        Nature of partnership, Rights and liberalities of Prtners and Dissolution of Firms.
+        \n\n\n
+        
+        <b>Recommend Books : </b>
+        \n\n
+        
+        1.	Sen, A.K. and Mitra, J.K., Commercial Law including Company Law and Industrial Law, The World Press 
+        Limited, Calcutta.
+        \n\n
+        
+        2.	The Company Act, 1994.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name225">
+        <b>2205    THEORY AND PRACTICE OF BANKING</b>
+        \n\n
+        
+        <b>1. Banker : </b> \n
+        Customer Relationship.
+        \n\n
+        
+        <b>2. </b>	Banker as agent; trustee; executor and administrator.
+        \n\n
+        
+        <b>3. </b>	Negotiable Instrument Act; Payments and Collections of promissory notes, bills and cheques.
+        \n\n
+        
+        <b>4. </b>	Investment in securities; Loans and Advances.
+        \n\n
+        
+        <b>5. </b>	Loans and advances; Cash credit; overdrafts; Different forms of loans with and without collateral, securities 
+        and guarantees. Securities and conditions for acceptable securities.
+        \n\n
+        
+        <b>6. Lending Policy : </b> \n
+        Sound Lending policy, Factors to be considered at the time of Sanctioning Loans, which type of loan will be 
+        considered as good loan and which type of loan will be considered as bad loan, Areas for using bank\'s funds.
+        \n\n
+        
+        <b>7. Payments Instruments : </b> \n
+        Details about different types of payment instruments, cheques, types of crossing, cancellation of crossing.
+        \n\n
+        
+        <b>8. Crossing of cheques :  </b> \n
+        Significance of crossing, importance and application of crossing, types of crossing, cancellation of crossing.
+        \n\n
+        
+        <b>9. </b>Banking company Act, Money Laundering Act, Artho-Rin Adalat Act.
+        \n\n\n
+        
+        <b>Recommend Books :</b>
+        \n\n
+        
+        1.	A R Khan, Fundamentals of Banking, S S Publishers.
+        \n\n
+        
+        2.	 M I Tanan, Banking Law and Practices.
+        \n\n
+        
+        3.	Mentioned Act.
+        \n\n\n\n\n
+        
+    </string>
+</resources>

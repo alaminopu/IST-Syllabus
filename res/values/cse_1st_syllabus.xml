@@ -5,35 +5,35 @@
         <b>CSE-111 Introduction to Computer System</b>
         \n\n
 
-        <b>Introduction:</b> Data &amp; Information, History, Basic organization of computer, Computer generations, Types of 
+        <b>Introduction:</b> \n Data &amp; Information, History, Basic organization of computer, Computer generations, Types of 
         computer: Main frame, Mini and Micro computer; Different types of micro computer, Simplest &amp; Expanded Computer 
         System, Number systems: Binary, Hexadecimal and Octal numbers; A Modern Overview of Computers, Some Modern 
         Computing Ideas, Types of computer buses.
         \n\n
         
-        <b>Hardware &amp; Software:</b> Hardware, classification of hardware, Types of software, Systems software: Operating 
+        <b>Hardware &amp; Software:</b> \n Hardware, classification of hardware, Types of software, Systems software: Operating 
         system, Editors, Assemblers, Compilers, Interpreters, System Utilities, Application packages.
         \n\n
         
-        <b>Input Device Techniques:</b> Keyboard, Touch Screen, Light pen, Mouse, Pen Input Method, Graphics Tablet, Joysticks, 
+        <b>Input Device Techniques:</b> \n Keyboard, Touch Screen, Light pen, Mouse, Pen Input Method, Graphics Tablet, Joysticks, 
         Barcodes. OCR System ,Scanner. Mark Sense Reader, Magnetic Ink character recognition,  Digital Camera, Speech Input.
         \n\n
         
-        <b>Output Device Techniques:</b> Monitor, Printer, Graphics output devices.
+        <b>Output Device Techniques:</b> \n Monitor, Printer, Graphics output devices.
         \n\n
         
-        <b>Storage Techniques:</b> Primary Storage device and techniques, Secondary storage device and techniques.
+        <b>Storage Techniques:</b> \n Primary Storage device and techniques, Secondary storage device and techniques.
         \n\n
         
-        <b>Operating System:</b> Basic  concept, types of operating system : batch, multi tasking,  multiprocessing , time 
+        <b>Operating System:</b> \n Basic  concept, types of operating system : batch, multi tasking,  multiprocessing , time 
         sharing &amp; real time operating system.
         \n\n
         
-        <b>Modern Communication Systems:</b> Computer Networks, types of computer network, network topology , 
+        <b>Modern Communication Systems:</b> \n Computer Networks, types of computer network, network topology , 
         International Network Standards.
         \n\n
         
-        <b>Programming Concept:</b> Problem analysis, Algorithm build-up, Flowcharts, High Level Language Features, 
+        <b>Programming Concept:</b> \n Problem analysis, Algorithm build-up, Flowcharts, High Level Language Features, 
         Function and Procedure.
         \n\n\n
         
@@ -107,25 +107,25 @@
         <b>CSE-114 Physics (Electricity and magnetism)</b>
         \n\n
         
-        <b>Charge, Electric field &amp; Gauss\’s Law:</b> Simple phenomena in electrostatics; Electrostatic induction and 
+        <b>Charge, Electric field &amp; Gauss\’s Law:</b> \n Simple phenomena in electrostatics; Electrostatic induction and 
         charge density; Coulomb\’s law; Electric field &amp; field strength; Point charge in an electric field; dipole in an 
         electric field; Electric flux; Gauss\’s law and some applications; Electric potential; Potential due to a point charge; 
         Equipotential surfaces; Potential energy; Potential gradient; Capacitance and its calculation; Parallel plate capacitor 
         with dielectric; Dielectric &amp; Gauss\’s law; Electric vectors; Energy stored in an electric field.
         \n\n
         
-        <b>Electric current, Simple circuits and Electrical Measurements:</b> Current and Ohm\’s law; E.M.F. and potential 
+        <b>Electric current, Simple circuits and Electrical Measurements:</b> \n Current and Ohm\’s law; E.M.F. and potential 
         difference; Whetstone bridge; Simple RC and RL circuits, The potentiometer; Moving coil galvanometer; Ammeter; 
         Voltmeter; Multimeter; Wattmeter &amp; Energy meter; Measurements of Voltage, Current, Resistance, Inductance, 
         Capacitance, Power and Energy.
         \n\n
         
-        <b>Magnetic Field &amp; force on Current:</b> Coulomb\’s law; Magnetic field and field strength; Magnetic force on 
+        <b>Magnetic Field &amp; force on Current:</b> \n Coulomb\’s law; Magnetic field and field strength; Magnetic force on 
         current; Directions of current and field; Maxwell\’s screw rule; Fleming\’s left hand rule; Magnetic field near 
         long wire; Magnetic field for solenoid; Fleming\’s right hand rule.
         \n\n
         
-        <b>Magnetic properties of matter:</b> Poles and dipoles; Coulomb\’s law for magnets &amp; Gauss\’s theorem of 
+        <b>Magnetic properties of matter:</b> \n Poles and dipoles; Coulomb\’s law for magnets &amp; Gauss\’s theorem of 
         magnetism; Dia-magnetism, Para-magnetism and Ferro-magnetism. Magnetomotive force and field intensity; concept of 
         self and mutual inductance; The coefficient of magnetic coupling; Rise of current and decay of current in 
         inductive circuit; Energy in magnetic field; Inductance in series and parallel; Hysteresis and eddy current losses.
@@ -151,7 +151,7 @@
         <b>CSE-115 Differential Calculus and Co-Ordinate Geometry</b>
         \n\n
         
-        <b>Differential calculus:</b> Limits, continuity and differentiability; successive differentiation of various types of 
+        <b>Differential calculus:</b> \n Limits, continuity and differentiability; successive differentiation of various types of 
         functions; leibniz\’s theorem; Rolle\’s Theorem; Mean value Theorem in finite and infinite forms; Lagrange\’s form of 
         remainders; Cauchys form of remainders; Expansion of functions; Evaluation indeterminate forms by L\’Hospitals rule; 
         Partial differentiation; Euler\’s Theorem; Tangent and Normal, Subtangent and subnormal in Cartesian and polar 
@@ -159,7 +159,7 @@
         curvature, center of curvature Asymptotes, curve tracing.
         \n\n
         
-        <b>Co-ordinate Geometry:</b> Transformation of co-ordinates axes and it uses; Equation of conics and its reduction to 
+        <b>Co-ordinate Geometry:</b> \n Transformation of co-ordinates axes and it uses; Equation of conics and its reduction to 
         standard forms; Pair of straight lines; Homogeneous equations of second degree; Angle between a pair of straight lines; 
         Pair of lines joining the origin to the point of intersection of two given curves, circles; system of circles; 
         orthogonal circles; radical axis, radical center, properties of radical axes; Coaxial circles; and limiting points; 

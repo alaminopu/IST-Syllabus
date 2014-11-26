@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bba_subject_code_and_name211">
+        <b>2101    PRINCIPLES OF FINANCE </b>
+        \n\n
+        
+        <b>1. Introduction : </b> \n
+        Definition, Business Finance, Functions of Financial Manager, Goals of the Firm, Social Responsibilities of the Firm.
+        \n\n
+        
+        <b>2. Concepts of Risk and Return : </b> \n
+        Definition of Risk, Difference between Risk and Uncertainty, Relation between Risk and Return, Measurement of Risk, 
+        Portfolio Risk, Corporate risk, Market Risk, Significance of Risk in the field of  Financial Environment.
+        \n\n
+        
+        <b>3. Time value of money and It\'s Applications :  </b> \n
+        Time value definitions, present value, future values, concepts of annuity, compounding, effective rate of return.
+        \n\n
+        
+        <b>4. Short term Financing :  </b> \n
+        Potentiating Source  of Short term financing, Trade credit, Accruals, Negotiated short, Term Financing, Short term 
+        Bank loans, Open market loans, Secured loans, Others source of short term financing.
+        \n\n
+        
+        <b>5. Common and Preferred Stock Financing : </b> \n
+        Market for common stock, Decision to go public, Decision to list, Procedures for selling new common stock, advantages 
+        and disadvantages of common stock financing, preferred stock financing,  Investment banking process.
+        \n\n
+        
+        <b>6. Bonds and Convertible securities: </b> \n
+        Bonds, Types of loan term debt, Important bond features, Bond refunding junk bonds, Advantages and disadvantage of 
+        financing with debt, convertible securities, conversion terms, valuation of convertibles, bond ratings, provisions in 
+        bond indenture.
+        \n\n
+        
+        <b>7. Lease Financing: </b> \n
+        Types of leases, Tax effects, financial statement effects, evaluation by the lessee, evaluation by the lessor, other 
+        issues in lease analysis.
+        \n\n
+        
+        <b>8. Concepts of Cost of Capital and Valuation of Securities: </b> \n
+        Capital components and cost, cost of preferred stock, cost of common equity cost of retained earning, WACC, general 
+        valuation model, bond valuation, preferred stock valuation, common stock valuation.
+        \n\n
+        
+        <b>9. Introduction to Capital Budgeting: </b> \n
+        Concepts of capital budgeting, capital budgeting decision rules, Evaluation of the decision rules, comparison of NPV 
+        and IRR methods, comparison of the NPV and PI methods, Multiple IRR.
+        \n\n\n
+        
+        <b>Recommended Books: </b> \n\n
+        
+        1.	Charles P Jones, Introduction to Financial Management, Homewood.
+        \n\n
+        
+        2.	Santley B Block and Geoffrey A Hirt, Principles of Finance , Richard D Irwin.
+        \n\n
+        
+        
+        3.	Brigham and Gapenski, Principles of Finance, The Dryden Press .
+        \n\n\n\n\n
+        
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name212">
+        <b>2102    PRINCIPLES OF MARKEING  </b>
+        \n\n
+        
+        <b>1. Foundation of Marketing : </b> \n
+        Definition of marketing - Scope of marketing – modern function of marketing – core concepts of marketing - marketing 
+        system and goals –  market – market and marketing mix – marketing process.
+        \n\n
+        
+        <b>2. Marketing Environment : </b> \n
+        The macro and micro marketing environment – environmental factors affecting consumer decision - making process.
+        \n\n
+        
+        <b>3. Consumer Markets and Consumer Buying Behavior: </b> \n
+        Definition of consumer market and consumer buying behavior - Models of consumer behavior - factors affecting consumer 
+        behavior - cultural, social and psychological factors – the buying decision process - the buyers decision process for 
+        new products/service.
+        \n\n
+        
+        <b>4. Marketing Segmentation: </b> \n
+        Levels of market segmentation – bases and causes of segmenting consumer and business market - requirements of 
+        effecting segmentation – evaluating market segments – selecting market segments.
+        \n\n
+        
+        <b>5. Product and Service Classification : </b> \n
+        Define product – Classification of products – Individual product decision – Product Attributes – branding – packaging 
+        – labeling – products decisions – products line and product mix decision – product life cycle – nature and 
+        characteristics of service – marketing strategies for service firms.
+        \n\n
+        
+        <b>6. Pricing the Products : </b> \n
+        General Pricing Approaches – Factors affecting pricing decision – product line pricing strategies – product mix 
+        pricing strategies – price adjustment strategies.        
+        \n\n
+        
+        <b>7. Distributing the products : </b> \n
+        Nature of distribution channel channel design decision – channel management decisions – channel behavior and 
+        organizations.
+        \n\n
+        
+        <b>8. Marketing Promotion and Communication : </b> \n
+        Steps in developing effective Communication- tools of marketing promotion – advertising – personal selling – sales 
+        promotion – publicity and public relation – factors in setting the marketing communication mix.
+        \n\n\n
+        
+        <b>Recommended Books : </b>
+        \n\n
+        
+        1.	Philip kotler and Gray Armstrong, Principles of Marketing, (9th edition), Prentics Hall.
+        \n\n\n\n\n 
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name213">
+        <b>2103     ORGANIZAIONAL BEHAVIOUR : </b>
+        \n\n
+        
+        <b>1. Introduction : </b> \n
+        What is organization behavior? Contributing disciplines to the organizational behavior field, Challenges and 
+        opportunities for organizational behavior.
+        \n\n
+        
+        <b>2. Foundation of Individual Behavior : </b> \n
+        Ability – learning – values – attitudes – job satisfaction – personality – Perception.
+        \n\n
+        
+        <b>3. Motivation : </b> \n
+        Form concepts to application – recognition program – involvement programs - Involvement programs – variable pay programs.
+        \n\n
+        
+        <b>4. Foundation of Group Behavior : </b> \n
+        Classifying groups – stages of group development – group structure.
+        \n\n
+        
+        <b>5. Understanding Work Team : </b> \n
+        Types of teams, Creating effective Teams.
+        \n\n
+        
+        <b>6. Leadership : </b> \n Theories of leadership – power and politics.
+        \n\n
+        
+        <b>7. Inter-group Behavior : </b> \n Conflict types and processor of Negotiation.
+        \n\n
+        
+        <b>8. Organizational Culture : </b> \n
+        Meaning and Characteristics.
+        \n\n\n
+        
+        
+        <b>Recommended Books : </b>
+        \n\n
+        
+        1.	S P Robbins, Organizational Behavior, Prentice-Hall
+        \n\n
+        
+        2.	Keith Davis, Human Behavior at Work, McGraw-Hill
+        \n\n
+        
+    </string>
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name214">
+        <b>2104   MACRO ECONOMIC</b>
+        \n\n
+        
+        <b>1. Introduction : </b> \n
+        Meaning of macroeconomics, Macroeconomics transaction, Macroeconomics markets – commodity market, labor market, money 
+        market, bond market, foreign exchange market, Walras law, macroeconomics issues and trade offs – gross domestic 
+        products, unemployment, Inflation, foreign debt, exchange rates, interest rates government budgets deficit, 
+        macroeconomics policies – fiscal policy monetary policy.
+        \n\n
+        
+        <b>2. Concepts and Measurement of Macroeconomics Aggregates : </b> \n
+        Circular flow of income and expenditure, measurement of macroeconomics aggregates, Price Index, real versus nominal 
+        GDP/GNP and GNP deflector.
+        \n\n
+        
+        <b>3. Theory of Income and Determination (Fixed Price) : </b> \n
+        Autarky Economy without government, variable Consumption, Multiplier, Autarky Economy with Government.
+        \n\n
+        
+        <b>4. Money, Interest and Income : </b> \n
+        Investment and Interest rate, Equilibrium in the Commodity Market – IS Curve, Interest Rate and Money, Equilibrium 
+        in the money market – LM curve and velocity of money.
+        \n\n
+        
+        <b>5. Commodity and Money Market Interactions : </b> \n
+        Commodity and money market interactions, Monetary policy, Interest rate and output, Effectiveness of monetary policy, 
+        Effectiveness of fiscal policy, Targets and policy mix.
+        \n\n
+        
+        <b>6. Price Level and Aggregate Demand : </b> \n
+        Slope of the AD Curve, Position of AD curve.
+        \n\n
+        
+        <b>7. Aggregate Supply : </b> \n
+        Aggregates supply (AS) – Classical model, aggregates supply – imperfect foresight models, perfectly elastic 
+        aggregates supply.
+        \n\n
+        
+        <b>8. Consumption and Investment.</b>
+        \n\n\n
+        
+        
+        <b>Recommended Books:</b> \n\n
+        
+        1.	Pual A Samuelson, Macroeconomics, McGraw-Hill, India.
+        \n\n
+        
+        2.	Rudiger Drnbush, Stanley Fischer and Richard Startz, Macroeconomics, McGraw-Hill Irwin, Singapore.
+        \n\n
+         
+        3.	M.C. Vaish, Macroeconomics, Allied Publishers Pvt Limited.
+        \n\n\n\n\n
+
+              
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name215">
+        <b>2105   BUSINESS STATISTICS-2</b>
+        \n\n
+        
+        <b>1. Probability : </b> \n
+        Meaning of Probability, Experiment, Events – Simple and Compound, Simple Space, Probability of events, Event 
+        Relations, Independent and Dependent events, Probability laws, Bayes Theorem.
+        \n\n
+        
+        <b>2. Random Variable : </b> \n
+        Random variable, Discrete Random Variable, Continuous random variable, Probability distribution of discrete random 
+        variable, Mathematical Expectations and variance of a discrete random variable.
+        \n\n
+        
+        <b>3. Discrete Probability Distributions: </b> \n
+        Binomial Probability Distribution and Poisson Probability Distribution. 
+        \n\n
+        
+        <b>4. Continuous Probability Distributions:  </b> \n
+        Normal Distribution, tabulated Area of the Normal Distribution, Normal Approximation to the Binomial Distribution.
+        \n\n
+        
+        <b>5. Sampling and Sampling Distribution : </b> \n
+        Sampling, Statistic and Parameters, types of Sampling, Sampling Distribution, Central limit Thermos, Sampling 
+        distribution of the sample mean and proportion, sampling distribution of the difference between two sample means and 
+        proportion.
+        \n\n
+        
+        <b>6. Large Sample Estimation : </b> \n
+        Point and Interval Estimation, reliability of point and Interval Estimation, point and Interval Estimation  of a 
+        population mean and difference between two means, point and interval estimation of a binomial proportion and 
+        difference between two proportions.
+        \n\n
+        
+        <b>7. Large Sample Tests of Hypotheses : </b> \n
+        Basic terminology, types 1 and type 2 errors, one tail and two tailed tests, testing hypotheses about population 
+        mean and population, testing hypotheses about difference between two population means and proportion, use of p-values.
+        \n\n
+        
+        <b>8. Small Sample : </b> \n
+        Student\'s Distributions, small sample inference about population mean and the difference between two means, 
+        paired difference tests, inferences about population variance (chi-square test), comparing two population 
+        variance (F-distribution).
+        \n\n\n
+        
+        <b>Recommended Books : </b>
+        \n\n
+        
+        1.	Richard I Levin and David S Rubin, Statistics for Management, Prentice-Hall.
+        \n\n
+        
+        2.	S.P. Gupta &amp; M.P. Gupta, Business Statistic, Sultan Chand and Sons.
+        \n\n\n\n\n
+
+        
+    </string>
+</resources>

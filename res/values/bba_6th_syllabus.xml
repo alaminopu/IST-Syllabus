@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bba_subject_code_and_name321">
+        <b>3201    FINANCIAL MANAGEMENT</b>
+        \n\n
+        
+        <b>1. Itroduction to financial management : </b> \n
+        Definition of financial management , goals of the firm, agency relationship, the efficient market hypotheses, discounted
+         cash flow analysis, the risk return trade offs.
+        \n\n
+        
+        <b>2. Risk and Return : </b> \n
+        Probability distribution , total risk analysis, portfolio risk analysis, CAPM, APT, and other model.
+        \n\n
+        
+        <b>3. Valuation Concepts and models : </b> \n
+        General valuation model, bond valuation, preferred stock, cost of common equity , cost of retained earning , the CAPM 
+        approach , the DCF and risk premium methods, cost of newly issued common stock, WACC, Other issues in the cost of 
+        capital.
+        \n\n
+        
+        <b>4. Cost Capital : </b> \n
+        Capital components and cost , cost of debt , cost of preferred stock, cost of common equity, cost of return earning, 
+        the CAPM approach, the DCF approach, bond yield plus risk premium approach, comparison of the CAPM, DCF and risk 
+        premium method; cost of newly issued common stock , WACC, other issues in the cost of capital.
+        \n\n
+        
+        <b>5. Overview of Capital Budgeting and Risk Analysis in Capital Budgeting : </b> \n
+        Capital budgeting decision rules, comparison of NPV and IRR, risk adjustment, introduction to risk assessment, 
+        techniques for measuring corporate risk, market risk, relationship among firm beta, asset beta, and capital structure, 
+        techniques of measuring beta risk, portfolio effect within firm, problems with project risk assessment, 
+        incorporation project risk in the capital budgeting decisions.
+        \n\n
+        
+        <b>6. Working Capital Policy and Financing : </b> \n
+        Working capital terminology , the requirements for external working capital financing , the working capital cash flow 
+        cycle, working capital investment and financing policies, advances and disadvantage of short term credit, sources of 
+        short term financing, accruals, accounts payable or trade credit, short term loans, account receivable financing, 
+        inventory financing.
+        \n\n
+        
+        <b>7. Capital Structure Theories : </b> \n
+        Early theories of capital structure, the MM model, Financial distress and agency costs, review of the tradeoff model.
+        \n\n
+        
+        <b>8. Dividend Policy : </b> \n
+        Dividend policy theories, dividend policies issues, dividend policies in practice , summery of factors that influence 
+        the dividend policies.
+        \n\n
+        
+        <b>9. Mergers and Corporate Restructuring : </b> \n
+        A perspective on Corporate restructuring, Forms of Business Combination, mergers, merger mechanics, payment methods, 
+        tax consideration, reasons for business combination, evaluating proposed business combination by the seller and the 
+        buyers, are mergers profitable? Corporate takeover fights.
+        \n\n
+       
+        <b>10. Cash and marketable Securities management : </b> \n
+        Cash management, the cash budget, setting the target cash balance , cash management techniques, matching the cost and 
+        benefits of cash management, marketable securities management.
+        \n\n
+        
+        <b>11. Receivable Management and Credit Policy : </b> \n
+        receivable management, credit policy, cash discount, other factors influencing credit policy. 
+        \n\n\n
+        
+        <b>Recommend Books : </b>
+        \n\n
+        
+        1. Charles P Jones, Introduction to Financial Management. \n\n
+        
+        2. Brigham and Gapenski, Intermediate Financial Management. \n\n
+        
+        3. Ross and Westerfield, Corporate Finance.
+        
+        \n\n\n\n\n
+       
+        
+    </string>
+    
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name322">
+        <b>3202    ENTREPRENEURAL DEVELOPMENT </b>
+        \n\n
+        
+        <b>1. Entrepreneur : </b> \n
+        Evolution of the concepts of entrepreneur, characteristics of an entrepreneur, function of entrepreneur, types of 
+        entrepreneur.
+        \n\n
+        
+        <b>2. Entrepreneurship : </b> \n
+        Concepts of entrepreneurship, growth of entrepreneurship in Bangladesh, Role of entrepreneurship in economic 
+        development.
+        \n\n
+        
+        <b>3. Factors affecting entrepreneurial growth : </b> \n
+        Environment for entrepreneurship, environmental factors , economic factors , non-economic factors , government actions.
+        \n\n
+        
+        <b>4. Entrepreneurial motivation : </b> \n
+        Motivation theories, motivating factors , achievement motivation.
+        \n\n
+        
+        <b>5. Entrepreneurial competencies : </b> \n
+        Meaning of entrepreneurial competence or trait, major entrepreneurial competence, developing competencies.
+        \n\n
+        
+        <b>6. Entrepreneurial mobility : </b> \n
+        Factors influencing mobility, occupational mobility, locational mobility.
+        \n\n
+        
+        <b>7. Small enterprises : </b> \n
+        characteristics, rational, scope, opportunities for an entrepreneurial career, role of small enterprises in economic 
+        development.
+        \n\n
+        
+        <b>8. Project Identification and Selection :</b> \n
+        Meaning of project , project identification , project selection,formulation of a project report, concepts of project 
+        appraisal, metods of project appraisal, business plan.
+        \n\n
+        
+        <b>9. Finance of enterprises : </b> \n
+        Finance planning, source of finance, capital structure.
+        \n\n
+        
+        <b>10. Industrial Support to Entrepreneurs of Bangladesh :</b> \n
+        Need for institutional support , financial institution of government and non-government of Bangladesh, supply and demand side analysis of support and 
+        assistance of Bangladesh, Government policy and progams for small scale Enterprises.
+        \n\n\n
+        
+        <b>Recommend Books : </b>
+        \n\n
+        
+        1. S S Khanka , Entrepreneurial development , S Chanda and company ltd.
+        \n\n
+        
+        2. Hisrich and Petter, Entrepreneurship, Tata McGraw-Hill.
+        \n\n\n\n\n
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name323">
+        <b>3203    INTERNATIONAL BUSINESS </b>
+        \n\n
+        
+        <b>1. Introduction : </b> \n
+        Definition – characteristics – scope – importance in the world economy – trend with special reference to Bangladesh.
+        \n\n
+        
+        <b>2. International trade theories : </b> \n
+        Overview of trade theory – source of international trade – absolute advances – comparative advantages – economic 
+        gains – huckster – ohlin theory.
+        \n\n
+        
+        <b>3. Protectionism and Free Trade : </b> \n
+        Arguments for and against protectionism – economic of protectionism – instruments of protectionism – multilateral 
+        Tread Negotiation – removing barriers to free trade.
+        \n\n
+        
+        <b>4. Foreign Exchange Rate : </b> \n
+        Nature and Importance of foreign exchange rate – equilibrium exchange rates – determination of foreign exchange rate 
+        – nominal and exchange rates – appreciation and depreciation of currencies.
+        \n\n
+        
+        <b>5. Balance of Payment : </b> \n
+        Concepts of balance of payments and balance of trade – adjustment mechanism of balance payments – disequilibrium – 
+        causes of disequilibrium – removal of disequilibrium.
+        \n\n
+        
+        <b>6. Issues of International trade : </b> \n
+        The Bertton woods system – the international monetary fund (IMF) – The World Bank – world trade organization(WTO).
+        \n\n
+        
+        <b>7. Bangladesh and International Trade : </b> \n
+        Bangladesh position in the developing countries – trade intensity and terms of tread of Bangladesh with the SAARC 
+        countries – quota free export market – trends and composition of export and import Bangladesh.
+        \n\n
+        
+        <b>8. Institutions Assisting International Trade of Bangladesh : </b> \n
+        Export promotion bureau (EPB) – Export Processing zone (EPZ) – Trading corporation of Bangladesh(TCB) – Bangladesh 
+        Standard and Testing Institution(BSTI).
+        \n\n\n
+        
+        <b>Recommended Books : </b>
+        \n\n
+        
+        1. Charles W L Hills, Institutional Business, McGraw-Hill.
+        \n\n\n\n\n
+        
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name324">
+        <b>3204    MARKEING MANAGEMENT</b>
+        \n\n
+        
+        <b>1. Understanding Marketing Management : </b> \n
+        Define marketing management – importance of marketing management – core marketing management concepts – scope of 
+        marketing management – demand management – marketing management philosophies – the marketing management process.
+        \n\n
+        
+        
+        <b>2. Managing Marketing Information and Measuring Market Demand : </b> \n
+        Define marketing information system – marketing intelligence and research system – marketing decision support system – 
+        An overview of forecasting and demand measurement.
+        \n\n
+        
+        <b>3. Market Targeting and Market Positioning : </b> \n
+        Define market targeting and positioning – importance and evaluation of market segments for market targeting – tools 
+        for competitive differentiation – developing target positioning strategies – communication the company\'s positioning 
+        – consumer values – SWOT analysis for the positioning strategies.
+        \n\n
+        
+        <b>4. Competitive Strategies : </b> \n
+        Identifying competitors – market leader strategies – market challenger strategies – market follower strategies – 
+        market niche Strategies.    
+        \n\n
+        
+        <b>5. Managing Product Life-cycle Strategies : </b> \n
+        Products life-cycle – marketing strategies throughout the product life cycle – stages in market evolution and analysis.
+        \n\n
+        
+        <b>6. Developing new products : </b> \n
+        Define new product – stages of new product development – manging new products development process – Strategies for new 
+        product development – the consumer adoption process.
+        \n\n
+        
+        <b>7. Managing Products, Services and Brand : </b> \n
+        Dynamics of attribute competition – product hierarchy – product mix decision – product line decisions – Brand decision 
+        – categoric of services – characteristics of services and marketing implications – marketing strategies for firms – 
+        managing product support services.
+        \n\n
+        
+        <b>8. Designing pricing strategies : </b> \n
+        Setting the price – new product pricing strategies – adapting the pricing – initiating and responding to the price 
+        changes.
+        \n\n
+        
+        <b>9. Managing Marketing Channel : </b> \n
+        Channel Functions and flows – Channel Levels – channels in the services sector – channels design decision – 
+        channels dynamics – channel cooperation – conflict and competition – managing retailing – wholesaling and market 
+        logistics.
+        \n\n
+        
+        <b>10. Managing Direct and on- line Marketing : </b> \n
+        Benefits of direct marketing – major channels for direct marketing – advances and disadvantage of on-line marketing – 
+        challenges ODF electronic commerce.
+        \n\n\n
+        
+        <b>Recommend Books : </b>
+        \n\n
+        
+        1. Philip kotler, Marketing Management , prentice-Hall inc.
+        \n\n\n\n\n
+        
+         
+        
+        
+    </string>
+    
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name325">
+        <b>3205    PRODUTION AND OPERATIONS MANAGEMENT</b>
+        \n\n
+        
+        <b>1. Induction to operational management : </b>
+        \n
+        
+        Meaning of process, meaning of operational management, difference and similarities of manufacturing and services, 
+        trends in operations management, operations management across the organization.
+        \n\n
+        
+        <b>2. Operational strategies : </b> \n
+        Corporate strategies, market analysis, competitive priorities, services strategies, manufacturing strategies, mass 
+        customization.
+        \n\n
+        
+        <b>3. Process management : </b> \n
+        Meaning of process management, major process decisions, relationship between decision in manufacturing and services, 
+        job design consideration, economics of scope, designing process.
+        \n\n
+        
+        <b>4. Total Quality Management : </b> \n
+        Meaning of process management, major process decisions, relationship between decisions in manufacturing and services, 
+        job design consideration, economics of scope, designing processes.
+        \n\n
+        
+        <b>5. Capacity Decisions : </b> \n
+        Capacity planning, systematic approach to capacity decisions – estimating capacity requirements, identify gaps, develop 
+        alternative, evaluate alternative, tools of capacity planning.
+        \n\n
+        
+        <b>6. Location Analysis : </b> \n
+        Factors Affecting Locations Decisions, locating a single facility, comparing several sites , applying load – distance 
+        methods, using break-even analysis.
+        \n\n
+        
+        <b>7. Layout Analysis : </b> \n
+        Meaning of layout planning, layout types, creating hybrid layouts, designing process layout, warehouse layout, office 
+        layouts, designing products layout – line balancing, other considerations. 
+        \n\n
+        
+        <b>8. Inventory Management : </b> \n
+        Inventory concepts – pressures for low inventories, pressures for high inventories, types of inventories, inventory 
+        reduction tactics, placement of manufacturing inventories, economic oder quantity – cancellation EOQ, non instantaneous 
+        replacement , quantity discounts, one period decision.
+        \n\n
+        
+        <b>9. Aggregate Planning and Scheduling : </b> \n
+        Purpose of aggregates plans , managerial importance of aggregates plans, planning processes, identifying alternatives, 
+        preparing an acceptable plans, scheduling in manufacturing – Gantt charts, Performance Measures, job shop dispatching, 
+        sequencing operations for single and multi machines, scheduling in services – scheduling customer demand, scheduling 
+        workforce, characteristics of just-in-time operations – pull method of material flow, small lot sizes, uniform 
+        workstations loads, standardized components and work methods, close supplier ties, flexible workforce, line flows, 
+        Kanban  system – general operating rules, determination number of containers, JIT II.
+        \n\n\n
+        
+        <b>Recommend Books : </b> \n\n
+        
+        1. Lee J Krajewski and Larry P. Ritzman, Operations Management: Strategy and Analysis, Addition-Wesley Publishing 
+        Company.
+        \n\n\n\n\n
+        
+        
+        <b></b>
+        
+    </string>
+    
+</resources>

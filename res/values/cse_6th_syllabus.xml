@@ -5,16 +5,16 @@
         <b>CSE-321 Software Engineering</b>
         \n\n
         
-        <b>Software Engineering Paradigms: </b> Definition of S/W Eng.; The classical life cycle; Prototyping fourth generation 
+        <b>Software Engineering Paradigms: </b> \n Definition of S/W Eng.; The classical life cycle; Prototyping fourth generation 
         technique; The product and the process model, Generic view of software engineering, Boehm\'s spiral model, Measurement 
         and Matrices.
         \n\n
         
-        <b>Requirements Analysis Fundamentals: </b> Analysis principle; Feasibility Study, Software Prototyping Specification; 
+        <b>Requirements Analysis Fundamentals: </b> \n Analysis principle; Feasibility Study, Software Prototyping Specification; 
         Requirement Analysis Methodologies; Structured and object oriented analysis; Data Flow-oriented analysis methods.
         \n\n
         
-        <b>Software Design Fundamentals: </b> Design process; Design fundamentals: S/W architecture, Program structure, Data 
+        <b>Software Design Fundamentals: </b> \n Design process; Design fundamentals: S/W architecture, Program structure, Data 
         structure, S/W procedure, Modularity, abstraction; Effective modular design; Procedural design; Data flow-oriented 
         Design; Top-down and bottom-up design; Design process considerations; Transform analysis; Transaction analysis; Data 
         structure-oriented design: Logical construction of programs and systems, Data structured systems development; 
@@ -22,12 +22,12 @@
         declaration, statement construction, Input/output, Software reliability.
         \n\n
         
-        <b>Software Testing Techniques and Strategies: </b> Software Testing method, Testing fundamentals &amp; strategies; 
+        <b>Software Testing Techniques and Strategies: </b> \n Software Testing method, Testing fundamentals &amp; strategies; 
         White box testing; Basis path testing; Loop testing; Black Box testing. Verification and validation; Organization for 
         software testing; Defect testing; Integration testing; Validation testing; System testing; The art of debugging.
         \n\n
         
-        <b>Software Management and Maintenance Technique: </b> Maintenance process, System documentation, Maintenance cost, 
+        <b>Software Management and Maintenance Technique: </b> \n Maintenance process, System documentation, Maintenance cost, 
         Configuration management &amp; planning, Change management, person &amp; release management, Software cost estimation 
         technique, Algorithmic cost modeling, The COCOMO model, Software quality assurance &amp; activities, McCall\’s quality 
         factor, Software reuse, Software re-engineering, Computer Aided Software Engineering (CASE) tool.
@@ -58,7 +58,7 @@
         Laboratory works based on CSE-321
         \n\n
         
-        <b>A student has to perform one of the following computer based systems: </b>Student information system, Admission 
+        <b>A student has to perform one of the following computer based systems: </b> \n Student information system, Admission 
         processing system, Employee information system, Payroll management system, Result processing system, Library management 
         system.
         \n 
@@ -76,24 +76,24 @@
         <b>CSE-323 Numerical Analysis</b>
         \n\n
         
-        <b>Numerical solution of polynomials: </b> general algebraic equation, integration.
+        <b>Numerical solution of polynomials: </b> \n general algebraic equation, integration.
         \n\n
         
-        <b>Numerical solution of simultaneous linear equation: </b>matrix operations; least-squares curve flitting techniques; 
+        <b>Numerical solution of simultaneous linear equation: </b> \n matrix operations; least-squares curve flitting techniques; 
         interpolation polynomials.
         \n\n
         
-        <b>Numerical solution of ordinary differential equation: </b> Euler method, Multi-step methods, Adams-Moulton, 
+        <b>Numerical solution of ordinary differential equation: </b> \n Euler method, Multi-step methods, Adams-Moulton, 
         Adams-Bashforth method, predictor-corrector scheme, Runge-Kutta methods, stiffness, Error estimation and step size 
         control. Detailed error analysis of several techniques. Root finding for non linear equations, Numerical methods for 
         initial value problems for ordinary differential equations.
         \n\n
         
-        <b>Direct methods for systems of linear equations: </b> Gaussian Elimination interpreted as matrix factorization, 
+        <b>Direct methods for systems of linear equations: </b> \n Gaussian Elimination interpreted as matrix factorization, 
         pivoting strategies, techniques for special classes of matrices.
         \n\n
         
-        <b>Iterative techniques for systems of linear equations: </b> Jacobi and Gauss- Seidel iteration, their analysis via 
+        <b>Iterative techniques for systems of linear equations: </b> \n Jacobi and Gauss- Seidel iteration, their analysis via 
         matrix and vector norms, the spectral radius of a matrix Eigenvalue problems for matrices illustrative programming 
         projects and use of computer to implement the projects.
         \n\n\n
@@ -124,49 +124,49 @@
         <b>CSE-324 Computer Graphics and Multimedia</b>
         \n\n
         
-        <b>Graphics Input, storage, Output and Communications: </b> Graphics input, storage, Communication Devices, Common 
+        <b>Graphics Input, storage, Output and Communications: </b> \n Graphics input, storage, Communication Devices, Common 
         Display devices, Raster Scan CRT.
         \n\n
         
-        <b>Scan Conversion: </b> Scan converting a Point, Line, Circle, Ellipse, Arcs, Rectangle, Region filling, Side Effects 
+        <b>Scan Conversion: </b> \n Scan converting a Point, Line, Circle, Ellipse, Arcs, Rectangle, Region filling, Side Effects 
         of Scan Conversion.
         \n\n
         
-        <b>Two-dimensional and three-dimensional Graphics Transformation </b> Geometric Transformations, Co-ordinate 
+        <b>Two-dimensional and three-dimensional Graphics Transformation </b> \n Geometric Transformations, Co-ordinate 
         Transformations, Composite Transformations, and Instance Transformation.
         \n\n
         
-        <b>Two-dimensional and three-dimensional Viewing and Clipping: </b> Viewing Transformations, Clipping Algorithms.
+        <b>Two-dimensional and three-dimensional Viewing and Clipping: </b> \n Viewing Transformations, Clipping Algorithms.
         \n\n
         
-        <b>Mathematics of Projection: </b> Perspective projection, Parallel projection.
+        <b>Mathematics of Projection: </b> \n Perspective projection, Parallel projection.
         \n\n
         
-        <b>Geometric representations: </b> Wire frame model, Curve Design, Interpolation and Approximation.
+        <b>Geometric representations: </b> \n Wire frame model, Curve Design, Interpolation and Approximation.
         \n\n
         
-        <b>Hidden Surfaces: </b> Depth comparisons, Z-Buffer algorithm, The Painter\’s algorithm, Scan line algorithm.
+        <b>Hidden Surfaces: </b> \n Depth comparisons, Z-Buffer algorithm, The Painter\’s algorithm, Scan line algorithm.
         \n\n
         
-        <b>Introduction to Multimedia Systems: </b> Interactive and non-interactive multimedia, temporal media and Non-Temporal 
+        <b>Introduction to Multimedia Systems: </b> \n Interactive and non-interactive multimedia, temporal media and Non-Temporal 
         media, Hypertext, Hypermedia, MPC Level 1, MPC Level 2, Quick Time.
         \n\n
         
-        <b>Image: </b> Image, Types and applications, Image Capture, Text conversion, Vectorization, Image compression, 
+        <b>Image: </b> \n Image, Types and applications, Image Capture, Text conversion, Vectorization, Image compression, 
         Encoding, Standards for encoding images, JPEG.
         \n\n
         
-        <b>Audio: </b> Audio capture, Compression methods, MIDI, Digital audio, Sampling Rate, Sampling Size, MPEG-1, MPEG-2.
+        <b>Audio: </b> \n Audio capture, Compression methods, MIDI, Digital audio, Sampling Rate, Sampling Size, MPEG-1, MPEG-2.
         \n\n
         
-        <b>Video: </b> TV screen, Monitor,Video capturing technique, Broadcast TV standards,  video standards, Video 
+        <b>Video: </b> \n TV screen, Monitor,Video capturing technique, Broadcast TV standards,  video standards, Video 
         compression, Coding of real-time video, Analog video signal formats. Animation Classification and techniques.
         \n\n
         
-        <b>Storage for multimedia: </b> Choice of storage, Storage types, Compact Disk specification,  CD-DA, CD-ROM, CD-I.
+        <b>Storage for multimedia: </b> \n Choice of storage, Storage types, Compact Disk specification,  CD-DA, CD-ROM, CD-I.
         \n\n
         
-        <b>Multimedia Project: </b> Project Design concept, Media content Design and Development, Interface Design and 
+        <b>Multimedia Project: </b> \n Project Design concept, Media content Design and Development, Interface Design and 
         Development Process, Multimedia team.
         \n\n\n
         
@@ -230,40 +230,40 @@
         <b>CSE-326 Compiler Design</b>
         \n\n
         
-        <b>Introduction to compiler: </b> Compiler, Analysis of the source Program, the phases of compiler, of the compiler, 
+        <b>Introduction to compiler: </b> \n Compiler, Analysis of the source Program, the phases of compiler, of the compiler, 
         compiler construction tools.
         \n\n
         
-        <b>A simple one pass compiler: </b> syntax definition, CFG, parse tree, ambiguity, associativity of operators, lexical 
+        <b>A simple one pass compiler: </b> \n Syntax definition, CFG, parse tree, ambiguity, associativity of operators, lexical 
         analysis.
         \n\n
         
-        <b>Lexical analysis: </b> the role of the lexical analyzer, input buffering, specification tokens, finite automaton, 
+        <b>Lexical analysis: </b> \n The role of the lexical analyzer, input buffering, specification tokens, finite automaton, 
         Thompson\’s construction, conversion of regular expression to DFA.
         \n\n
         
-        <b>Basic parsing technique: </b> Parser Bottom-up parsing, operator precedence parsing, operator precedence grammar, 
+        <b>Basic parsing technique: </b> \n Parser Bottom-up parsing, operator precedence parsing, operator precedence grammar, 
         Top down parsing, Predictive parsing, LL1 grammar, LR parser (SLR, LALR).
         \n\n
         
-        <b>Syntax Directed Translation: </b> Syntax Directed Definition, Construction of Syntax tree L –Attributed definition.
+        <b>Syntax Directed Translation: </b> \n Syntax Directed Definition, Construction of Syntax tree L –Attributed definition.
         \n\n
         
-        <b>Runtime Environment: </b> Activation tree, Storage organization, Storage allocation strategies, parameter passing, 
+        <b>Runtime Environment: </b> \n Activation tree, Storage organization, Storage allocation strategies, parameter passing, 
         symbol table.
         \n\n
         
-        <b>Intermediate code generation: </b> Intermediate languages, three address code, Boolean expression, back patching.
+        <b>Intermediate code generation: </b> \n Intermediate languages, three address code, Boolean expression, back patching.
         \n\n
         
-        <b>Code generation: </b> issues in the design of a code generator, target machine, basic block, flow graph, code 
+        <b>Code generation: </b> \n issues in the design of a code generator, target machine, basic block, flow graph, code 
         generator algorithm, DAG, peephole optimization.
         \n\n
         
-        <b>Code optimization: </b> Function preserving  optimization, optimization of basic block, loop optimization.
+        <b>Code optimization: </b> \n Function preserving  optimization, optimization of basic block, loop optimization.
         \n\n
         
-        <b>Error detection: </b> reporting errors, Sources of error, syntactic error, semantic error, dynamic error, plan of 
+        <b>Error detection: </b> \n reporting errors, Sources of error, syntactic error, semantic error, dynamic error, plan of 
         error detection.
         \n\n\n
         
@@ -315,7 +315,7 @@
         <b>CSE-328 System Analysis and Design</b>
         \n\n
         
-        <b>The systems Development Environment: </b> Introduction- A modern approach to systems analysis and design, your role 
+        <b>The systems Development Environment: </b> \n Introduction- A modern approach to systems analysis and design, your role 
         and other organizational responsibilities in systems development types of information systems and systems development, 
         Developing information systems and the systems development life cycle.
         \n
@@ -325,13 +325,13 @@
         tools, visual development tools, evolution and future of development tools.
         \n\n
         
-        <b>Analysis: </b> Fundamental principles of systems analysis, the preliminary investigation phase, determining systems 
+        <b>Analysis: </b> \n Fundamental principles of systems analysis, the preliminary investigation phase, determining systems 
         requirements, traditional methods for determining requirements, modern methods for determining systems requirements, 
         feasibility study; structuring system requirements- Process modeling, data flow diagramming, logic modeling with 
         structured English, decision trees, Decision tables, Data dictionary, process descriptions, conceptual data modeling.
         \n\n
         
-        <b>The design phase: </b> the logical representation of data, design of physical files and database, design principles 
+        <b>The design phase: </b> \n the logical representation of data, design of physical files and database, design principles 
         and output design, input design, designing forms and reports, designing databases, designing the internals- program and 
         process, Designing distributed systems.
         \n
@@ -340,7 +340,7 @@
         checking and testing; installation-Direct, parallel single location, phased and planning.
         \n\n
         
-        <b>System maintenance: </b>documentation; maintenance information system, the process of maintaining information 
+        <b>System maintenance: </b> \n Documentation; maintenance information system, the process of maintaining information 
         systems, the process of maintaining information systems, types of maintenance, managing maintenance, documentation the 
         system-user document, programmer document and operational document.
         \n\n\n

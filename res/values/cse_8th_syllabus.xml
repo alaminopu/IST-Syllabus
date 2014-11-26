@@ -113,20 +113,20 @@
         <b>CSE-423 Computer and Network Security</b>
         \n\n
         
-        <b>Cryptography and cryptographic algorithms: </b> Traditional cryptographic algorithms: traditional cryptography, 
+        <b>Cryptography and cryptographic algorithms: </b> \n Traditional cryptographic algorithms: traditional cryptography, 
         cryptanalysis, Private-key (symmetric-key) and public-key (asymmetric-key) cryptographic algorithms, DES and block 
         cipher modes, advanced encryption standard, RSA and other public key cryptosystems, key management, Diffie-Hellman key 
         exchange, Elliptic curve cryptography, cryptography hash functions, secure hash algorithm, message authentication 
         codes, Digital signatures and digital signature standard.
         \n\n
         
-        <b>Cryptography and network security: </b> Data-origin authentication and data integrity, Key distribution, management, 
+        <b>Cryptography and network security: </b> \n Data-origin authentication and data integrity, Key distribution, management, 
         Kerberos and X.509 authentication service, certificate authotity and public key infrastructure, Email security, PGP and 
         S/MIME, IP Security, authentication header and ESP, Security associations, Key management, eb security considerations, 
         secure socket layer and transport layer security, secure electronic transactions (SET).
         \n\n
         
-        <b>Cryptography for antivirus software and password management: </b> generic decryption, digital immune system and UNIX 
+        <b>Cryptography for antivirus software and password management: </b> \n generic decryption, digital immune system and UNIX 
         password scheme.
         \n\n\n
         
@@ -179,35 +179,35 @@
         <b>CSE-424 Image Processing</b>
         \n\n
         
-        <b>Introduction to image processing: </b> Representation of image, A basic image processing system, Relationship to 
+        <b>Introduction to image processing: </b> \n Representation of image, A basic image processing system, Relationship to 
         human visual system, Example of fields that use digital image processing.
         \n\n
         
-        <b>Digital Image Fundamentals: </b> Image formation in the eye, Light and electromagnetic spectrum, Image sensing and 
+        <b>Digital Image Fundamentals: </b> \n Image formation in the eye, Light and electromagnetic spectrum, Image sensing and 
         acquisition, Image sampling, Image quantization, Some basic relationships between pixels Neighbors of a pixel, Adjacency, 
         connectivity, region, Boundaries, Distance measures.
         \n\n
         
-        <b>Image enhancement: </b> Some basic gray level transformations, Histogram processing, Histogram equalization, Histogram 
+        <b>Image enhancement: </b> \n Some basic gray level transformations, Histogram processing, Histogram equalization, Histogram 
         matching, Image negatives, log transformation, Power law transformation, Basics of spatial filtering, Smoothing spatial 
         filters, Homomorphic filtering, Correspondence between the spatial and frequency domain filtering.
         \n\n
         
-        <b>Image Restoration: </b> A model of the image degradation/ Restoration process, Noise models, Restoration in the 
+        <b>Image Restoration: </b> \n A model of the image degradation/ Restoration process, Noise models, Restoration in the 
         presence of noise only spatial filtering.
         \n\n
         
-        <b>Color Image processing: </b>Color fundamentals, Color models, the RGB color model The CMY, CMYK color Model, HIS 
+        <b>Color Image processing: </b> \n Color fundamentals, Color models, the RGB color model The CMY, CMYK color Model, HIS 
         color Model, Basics of full-color transformation, Color transformations, formulation.
         \n\n
         
-        <b>Image Compression: </b>Image compression fundamentals, Coding redundancy, Inter pixel redundancy.
+        <b>Image Compression: </b> \n Image compression fundamentals, Coding redundancy, Inter pixel redundancy.
         \n
         
         Psychovisual redundancy, Image compression models, The source encoder and decoder, The channel encoder and decoder.
         \n\n
         
-        <b>Image Segmentation: </b> Edge detection, line detection, point detection, Boundary Detection, Thresholding, 
+        <b>Image Segmentation: </b> \n Edge detection, line detection, point detection, Boundary Detection, Thresholding, 
         Region based segmentation.
         \n\n\n 
         
@@ -237,7 +237,7 @@
         <b>CSE-425 VLSI Design</b>
         \n\n
         
-        <b>VLSI Design: </b> Design and analysis techniques for VLSI circuits; Design of reliable VLSI circuits; Noise 
+        <b>VLSI Design: </b> \n Design and analysis techniques for VLSI circuits; Design of reliable VLSI circuits; Noise 
         consideration; Design and operation of large fan out and fan in circuits, clocking methodologies; Techniques for data 
         path and data control design. Simulation techniques; parallel processing, Special purpose architectures in VLSI layout 
         partitioning and placement routing and wiring in VLSI; Reliability aspects of VLSI design, Graph based VLSI Design, 
@@ -265,15 +265,15 @@
         <b>CSE-426 Simulation and Modeling</b>
         \n\n
         
-        <b>Concept of system: </b> System components, continuous and discrete systems.
+        <b>Concept of system: </b> \n System components, continuous and discrete systems.
         \n\n
         
-        <b>System modeling: </b> Types of models, static and dynamic models, physical and mathematical models, continuous and 
+        <b>System modeling: </b> \n Types of models, static and dynamic models, physical and mathematical models, continuous and 
         discrete models. Principles used in system modeling. Study if system model;  system design, system model analysis and 
         postulation.
         \n\n
         
-        <b>System Dynamics: </b> Need for simulation, types of simulation, techniques of simulation. Comparison of simulated 
+        <b>System Dynamics: </b> \n Need for simulation, types of simulation, techniques of simulation. Comparison of simulated 
         and analytical methods. Continuous system simulation. Differential equation model.
         \n
         
@@ -283,11 +283,11 @@
         continuously distributed random numbers, Rejection method.
         \n\n
         
-        <b>Discrete System Simulation: </b> Discrete event simulation, activity simulation, representation of time, generation 
+        <b>Discrete System Simulation: </b> \n Discrete event simulation, activity simulation, representation of time, generation 
         of arrival patterns, entities, resources, queues. Measures of queues and mathematical solution of queuing problems.
         \n\n
         
-        <b>Discrete simulation languages: </b> General Purpose simulation, System language (GPSS) and  SIMSCRIPT.
+        <b>Discrete simulation languages: </b> \n General Purpose simulation, System language (GPSS) and  SIMSCRIPT.
         \n\n\n
         
         <b>Reference Books: </b>
@@ -316,31 +316,31 @@
         <b>CSE-427 E-Commerce</b>
         \n\n
         
-        <b>Introduction: </b> An overview,traditional and electronic business trasanctions, types of e-commerce, benefits of 
+        <b>Introduction: </b> \n An overview,traditional and electronic business trasanctions, types of e-commerce, benefits of 
         e-commerce.
         \n\n
         
-        <b>Security and e-commerce: </b> Review of private key and public key enery operations, Comparasion of encryption 
+        <b>Security and e-commerce: </b> \n Review of private key and public key enery operations, Comparasion of encryption 
         method, Digital signatures and certificates, overview of literate security systems.
         \n\n
         
-        <b>Handling money on the net: </b> Transactions on the internet,requirements for payment systems,types and tools for 
+        <b>Handling money on the net: </b> \n Transactions on the internet,requirements for payment systems,types and tools for 
         electyronics payment, electronic data interchange and components of EDI system.
         \n\n
         
-        <b>Consumer and Business Markets: </b> Consumer markets and one to one marketing,value chains and the market place, 
+        <b>Consumer and Business Markets: </b> \n Consumer markets and one to one marketing,value chains and the market place, 
         Online communities and new marketing opportunies, websities and ordering online, Online catalogs , tying database, to 
         online catalogs, Electronic consumer support,tracking online problems, security software modules.
         \n\n
         
-        <b>Virtual: </b>Virtual factory, virtual coordination and implementation,access to shared data and applications, 
+        <b>Virtual: </b> \n Virtual factory, virtual coordination and implementation,access to shared data and applications, 
         entrusting access to intermediary.
         \n\n
         
-        <b>Business Process Engineering: </b> Approaches, models and methodologies, management of changes.
+        <b>Business Process Engineering: </b> \n Approaches, models and methodologies, management of changes.
         \n\n
         
-        <b>Legal Issues: </b> Risk associated with proper documents and electronic documents, authentication of electronic 
+        <b>Legal Issues: </b> \n Risk associated with proper documents and electronic documents, authentication of electronic 
         documents, laws for e-commerce, EDI interchange agreements legal issues for internet commerce.
         \n\n\n
         

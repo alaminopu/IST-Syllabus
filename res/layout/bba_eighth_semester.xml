@@ -10,84 +10,150 @@
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="BBA Eight"
-                android:id="@+id/subject_code_and_name421"
+                android:text="@string/bba_subject_code_and_name_acc421"
+                android:id="@+id/bba_subject_code_and_name_acc421"
                 android:layout_alignParentTop="true" android:textColor="#000000"/>
 
-    <!--     <TextView
+         <TextView
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
-                   android:text="@string/subject_code_and_name422"
-                   android:id="@+id/subject_code_and_name422"
-                   android:layout_below="@+id/subject_code_and_name421"
+                   android:text="@string/bba_subject_code_and_name_acc422"
+                   android:id="@+id/bba_subject_code_and_name_acc422"
+                   android:layout_below="@+id/bba_subject_code_and_name_acc421"
                    android:textColor="#000000"/>
            <TextView
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
-                   android:text="@string/subject_code_and_name423"
-                   android:id="@+id/subject_code_and_name423"
-                   android:layout_below="@+id/subject_code_and_name422"
+                   android:text="@string/bba_subject_code_and_name_acc423"
+                   android:id="@+id/bba_subject_code_and_name_acc423"
+                   android:layout_below="@+id/bba_subject_code_and_name_acc422"
                    android:textColor="#000000"/>
            <TextView
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
-                   android:text="@string/subject_code_and_name431"
-                   android:id="@+id/subject_code_and_name431"
-                   android:layout_below="@+id/subject_code_and_name423"
+                   android:text="@string/bba_subject_code_and_name_acc424"
+                   android:id="@+id/bba_subject_code_and_name_acc424"
+                   android:layout_below="@+id/bba_subject_code_and_name_acc423"
                    android:textColor="#000000"/>
            <TextView
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
-                   android:text="@string/subject_code_and_name432"
-                   android:id="@+id/subject_code_and_name432"
-                   android:layout_below="@+id/subject_code_and_name431"
+                   android:text="@string/bba_subject_code_and_name_acc425"
+                   android:id="@+id/bba_subject_code_and_name_acc425"
+                   android:layout_below="@+id/bba_subject_code_and_name_acc424"
                    android:textColor="#000000"/>
            <TextView
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
-                   android:text="@string/subject_code_and_name433"
-                   android:id="@+id/subject_code_and_name433"
-                   android:layout_below="@+id/subject_code_and_name432"
+                   android:text="@string/bba_subject_code_and_name_mgt421"
+                   android:id="@+id/bba_subject_code_and_name_mgt421"
+                   android:layout_below="@+id/bba_subject_code_and_name_acc425"
                    android:textColor="#000000"/>
            <TextView
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
-                   android:text="@string/subject_code_and_name434"
-                   android:id="@+id/subject_code_and_name434"
-                   android:layout_below="@+id/subject_code_and_name433"
+                   android:text="@string/bba_subject_code_and_name_mgt422"
+                   android:id="@+id/bba_subject_code_and_name_mgt422"
+                   android:layout_below="@+id/bba_subject_code_and_name_mgt421"
                    android:textColor="#000000"/>
 
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/subject_code_and_name435"
-                    android:id="@+id/subject_code_and_name435"
-                    android:layout_below="@+id/subject_code_and_name434"
+                    android:text="@string/bba_subject_code_and_name_mgt423"
+                    android:id="@+id/bba_subject_code_and_name_mgt423"
+                    android:layout_below="@+id/bba_subject_code_and_name_mgt422"
                     android:textColor="#000000"/>
 
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/subject_code_and_name436"
-                    android:id="@+id/subject_code_and_name436"
-                    android:layout_below="@+id/subject_code_and_name435"
+                    android:text="@string/bba_subject_code_and_name_mgt424"
+                    android:id="@+id/bba_subject_code_and_name_mgt424"
+                    android:layout_below="@+id/bba_subject_code_and_name_mgt423"
                     android:textColor="#000000"/>
 
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/subject_code_and_name437"
-                    android:id="@+id/subject_code_and_name437"
-                    android:layout_below="@+id/subject_code_and_name436"
+                    android:text="@string/bba_subject_code_and_name_mgt425"
+                    android:id="@+id/bba_subject_code_and_name_mgt425"
+                    android:layout_below="@+id/bba_subject_code_and_name_mgt424"
                     android:textColor="#000000"/>
 
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/subject_code_and_name438"
-                    android:id="@+id/subject_code_and_name438"
-                    android:layout_below="@+id/subject_code_and_name437"
+                    android:text="@string/bba_subject_code_and_name_fin421"
+                    android:id="@+id/bba_subject_code_and_name_fin421"
+                    android:layout_below="@+id/bba_subject_code_and_name_mgt425"
                     android:textColor="#000000"/>
-             -->
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_fin422"
+                android:id="@+id/bba_subject_code_and_name_fin422"
+                android:layout_below="@+id/bba_subject_code_and_name_fin421"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_fin423"
+                android:id="@+id/bba_subject_code_and_name_fin423"
+                android:layout_below="@+id/bba_subject_code_and_name_fin422"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_fin424"
+                android:id="@+id/bba_subject_code_and_name_fin424"
+                android:layout_below="@+id/bba_subject_code_and_name_fin423"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_fin425"
+                android:id="@+id/bba_subject_code_and_name_fin425"
+                android:layout_below="@+id/bba_subject_code_and_name_fin424"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_mkt421"
+                android:id="@+id/bba_subject_code_and_name_mkt421"
+                android:layout_below="@+id/bba_subject_code_and_name_fin425"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_mkt422"
+                android:id="@+id/bba_subject_code_and_name_mkt422"
+                android:layout_below="@+id/bba_subject_code_and_name_mkt421"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_mkt423"
+                android:id="@+id/bba_subject_code_and_name_mkt423"
+                android:layout_below="@+id/bba_subject_code_and_name_mkt422"
+                android:textColor="#000000"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_mkt424"
+                android:id="@+id/bba_subject_code_and_name_mkt424"
+                android:layout_below="@+id/bba_subject_code_and_name_mkt423"
+                android:textColor="#000000"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bba_subject_code_and_name_mkt425"
+                android:id="@+id/bba_subject_code_and_name_mkt425"
+                android:layout_below="@+id/bba_subject_code_and_name_mkt424"
+                android:textColor="#000000"/>
+
+
     </RelativeLayout>
 </ScrollView>

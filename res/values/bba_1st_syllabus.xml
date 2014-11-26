@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+<string name="bba_subject_code_and_name111">
+    <b>1101 INTRODUCTION TO BUSINESS</b>
+    \n\n
+    
+    <b>1. Business Concepts: </b>
+    \n
+    
+    Meaning of business – Basic Elements of Business – Basic Features of Business – Branches and their place in the Ecology 
+    of Bangladesh – Business Environment – Business Size – Location of Business – Efficiency of Business – Social responsibility 
+    of Business and its Implications.
+    \n\n
+    
+    <b>2. Business Organizations: </b>
+    \n
+    
+    Forms of business ownership in Bangladesh – Relative position of each form of ownership sole proprietorship, 
+    partnership joint-stock company, Co- operatives and state ownership – Considerations in the choice of specific form of 
+    ownership. 
+    \n\n
+    
+    <b>3. Development of Joint-Stock Companies in Bangladesh: </b>
+    \n
+    
+    Phases of development, Types Domain of operations of each type – Formation of Memorandum of Association and Article of 
+    Association, prospectus – Rights and obligation of share holders, directors, and government – Liquidation of a company.
+    \n\n
+    
+    <b>4. State Enterprises: </b>
+    \n
+    
+    Historical background – Fields of state enterprise – Importance – Successes and Failures – Proposals for improvement.
+    \n\n
+    
+    <b>5. Co-operative Societies in Bangladesh: </b>
+    \n
+    
+    Their development – Types(industrial, commercial and service sector societies) – the role of each type – Formation - 
+    problems and approaches to solve problems.
+    
+    \n\n
+    
+    <b>6. Institutions for Promotion of Business: </b>
+    \n
+    
+    Support services of government institutions – Chamber of Commerce and Industry – Federation of Chambers of Commerce and 
+    Industry – Trade Associations – The Dhaka Stock Exchange – Chittagong Stock Exchange – Board of Investment – 
+    Privatization Board – Export Promotion Bureau – Bangladesh Small and Cottage Industries Corporation – Shilpa Bank – 
+    Shilpa rin Sangstha – Export Processing Zone. 
+    \n\n
+    
+    <b>7. Trade Practices in Bangladesh: </b>
+    \n
+    
+    Commercial policy – Import procedure – Export procedure – Formalities – Problems and measures to overcome the problems – 
+    Documents used in trade – LC Shipping Documents – Commercial Advice.
+    \n\n\n
+    
+    <b>Recommended Books: </b>
+    \n\n
+    
+    1. John M Ivancevich and Steven J Skinner, Business for the 21st Century, Irwin.
+    \n\n
+    
+    2.A guide to Opportunity – Investment guide of Bangladesh, Board of Investment, Bangladesh.   
+     \n\n\n\n\n
+    
+</string>    
+
+
+
+
+<string name="bba_subject_code_and_name112">
+    <b>1102 PRINCIPLE OF ACCOUNTING </b>
+    \n\n
+    
+    <b>1. Introduction: </b> \n
+    What is Accounting? Building Blocks of  Accounting – Ethics, Assumptions, Equations, Transaction Analysis, Financial 
+    Statements.
+    \n\n
+    
+    <b>2. Recording Process: </b>
+    \n
+    
+    The Accounts, Steps in the recording Process, Journal, Ledger, Trial Balance.
+    \n\n
+    
+    <b>3. Adjustment Process: </b>
+    \n
+    
+    Timing Issues, Basics of Adjusting Entries, Adjusted Trial Balance and Financial Statement, Alternative Treatment of 
+    prepaid Expenses and Unearned Revenues.
+    \n\n
+    
+    <b>4. Completion of Accounting Cycle: </b> \n
+    Using a Work sheet, Closing the Books, Reversing Entries and Correcting Entries, Classified Balance Sheet.
+    \n\n
+    
+    
+    <b>5. Accounting for Merchandising Operations: </b> \n
+    Merchandising Operations, Recording Purchases of Merchandise, Recording sales of Merchandise, Completing Accounting Cycle, 
+    Forms of Financial Statements – Multiple and Single Step Income Statement – Classified Balance Sheet, Work Sheet of a 
+    Merchandiser.
+    \n\n
+    
+    <b>6. Inventories: </b>
+    Inventory Basics, Periodic Inventories System, Inventory Costing Under a Periodic Inventory System, LCM, Inventory Errors, 
+    Statement Presentation and Analysis, LIFO, FIFO, Average cost Method.
+    \n\n
+    
+    
+    <b>7. Accounting Information System:  </b> \n
+    Basic Concepts of Accounting Information Systems, Subsidiary Ledgers, Special Journals.
+    \n\n
+    
+    <b>8. Internal Control and Cash: </b> \n
+    Internal Control, Cash Control, Use of a Bank, Reporting Cash.
+    \n\n\n
+    
+    
+    <b>Book Recommended</b>
+    1. Weygandt, D E Keiso, and P D Kimmel, Accounting Principles, 8th Edition, John Wiley and Sons, Inc.
+    
+    </string>
+    
+
+
+    <string name="bba_subject_code_and_name113">
+        <b>1103 INTRODUCTION TO COMPUTER</b>
+        \n\n
+        
+        <b>1. Historical Evaluations of Computer</b> \n
+        An Overview of the Computer System – Relationship between system and technology – Components of computer systems – 
+        Difference between hardware and software – Major types of software – Operating System Basics and Shapes of Computers 
+        Today.
+        \n\n
+        
+        <b>2. Processing and Representing Data: </b> \n
+        Transforming data into information, text codes, conversion of text codes – Binary to decimal and decimal to binary, 
+        logical diagram of CPUs and its components and functions.
+        \n\n
+        
+        <b>3. Computer Hardware: </b> \n
+        Types of computer hardware, types of  input devices, standard methods of input through keyboard, types of output 
+        Devices, Monitors and sound systems, selection criteria of monitors, printers – types, functions of laser printers and 
+        selection criteria of printer.
+        \n\n
+        
+        <b>4. Storage Devices: </b> \n
+        Types of storage devices, formatting a floppy, CDROM and hard disk, technologies of reading and writing data on and 
+        from floppy disk and reading data from CD Rom, measuring drive performance.
+        \n\n
+        
+        <b>5. Networks and Data Communications: </b> \n
+        Uses of  networks, structure of network, Data transferring mechanism: Packet, Header, Payloads, Control Elements, 
+        definition of protocol, layers of OSI model, topologies, networking media and hardware.
+        \n\n
+        
+        <b>6. Internet and Online Resources: </b> \n
+        History of  internet, how internet works, features of internet, accessing internet. 
+        \n\n
+        
+        <b>7. Living with computers: </b> \n
+        Computers and the individual – Ergonomics, piracy, virus – origin, prevention, hardware and data theft and other 
+        ethical issues that affect us all. 
+        \n\n
+        
+        <b>8. Word processing using MS word: </b> \n
+        Creating and saving documents, editing, coping pasting, spelling and grammar checking, creating and manipulating table, 
+        creating and footer, creating auto table of index and printing documents.
+        \n\n
+        
+        <b>9. Spreadsheet using MS Excel: </b> \n
+        Creating and saving worksheets, editing, coping, pasting, creating, formula, MS Excel functions, linking among sheets, 
+        creating header and footer, creating charts and printing documents.
+        \n\n\n
+        
+        <b>Recommended Books</b>
+        \n\n
+        
+        1. Peter Norton, Introduction to Computers, Fourth Edition, Glencoe/McGraw-Hill.
+        \n\n
+
+        2. Lutfar Rahman, Alamgir, ComputerFundamentals, Systech Publications, Dhaka.
+        \n\n
+        
+        3. Microsoft Office Professional, Microsoft Publications.
+        \n\n\n\n\n 
+        
+        
+    </string>
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name114">
+        
+        
+        <b>1104   BUSINESS MATHEMATICS </b>
+        \n\n
+        
+        
+        <b>1. Basic Concepts of Number: </b> \n
+        
+         Introduction, Prime, Rational and irrational numbers, even and odd numbers, imaginary and complex number.
+         \n\n
+         
+         
+         <b>2. Indices, Exponents and Logarithmic Functions: </b> \n
+         Indices, laws of indices, positive and fractional indices with operations, logarithmic and natural logarithm. 
+         \n\n
+         
+         <b>3. Theory of Sets: </b> \n
+         Definition of set, different types of set, Union, different, intersection, Cartesian product, Venn diagram, 
+         Application to business problems.
+         \n\n
+         
+         <b>4. Linear and Quadratic Functions: </b> \n
+         Solution of linear and simultaneous linear equations, Relationship between roots and co-efficient of a quadratic 
+         equations, formation of quadratic equation with given roots, Sketching of different linear and non-linear equations.
+         \n\n
+         
+         <b>5. Mathematics of Finance:  </b> \n
+         Annuities, Sinking fund, discount, simple and compound interest, amortization, calculation of present and future 
+         value of annuities.
+         \n\n
+         
+         <b>6. Co-ordinate Geometry: </b> \n
+         Cartesian co-ordinate system, distance between points, straight line, slopes, intercepts, Equation of cost line, 
+         business applications.
+         \n\n
+         
+         <b>7. Differential Calculus:  </b> \n
+         Concepts, derivatives and differentiation of non-trigonometric functions – derivative of a function of one variable, 
+         power  function, sum functions, product of two functions, quotient of two functions, functions of a function and 
+         rate, measurement; Successive differentiation; Maxima and Minima; Business Applications.
+         \n\n
+         
+         <b>8. Integral Calculus: </b> \n
+         Meaning of integration, Rules of integration, Indefinite and definite integration, area determination, business 
+         applications.
+         \n\n\n
+         
+         <b>Recommended Books </b>
+         \n\n
+         
+         1. D.C. Sancheti &amp; V.K. Kapoor. Business Mathematics, Sultan Chand and Sons.
+         \n\n
+
+         2. Gordon D Prichett and John C Saber, Mathematics with Application in Management &amp; Economics, Irwin Inc.
+         \n\n\n\n\n
+         
+         
+    </string>
+    
+    
+    
+    
+    <string name="bba_subject_code_and_name115">
+        <b>1105  ENGLISH</b>
+        \n\n
+        
+        <b>1. Reading and Understanding:</b> \n
+        Students are expected to read passages that they might come across in their everyday life to create understanding 
+        about the different uses of language so that they can understand different purposes and types of reading, guess mean of 
+        the words in context, understand long sentences, recognize main ideas and supporting ideas, answer comprehension 
+        answers, and write summaries.
+        \n\n
+        
+        <b>2. Writing: </b> \n
+        To write correct sentences, complete sentences and combining sentences; Be able to write situational sentences for 
+        posters, notices, slogans, memos, advertisements; Be able to right paragraph, understand structure of a paragraph, 
+        topics of a sentence, develop ideas, write conclusions; Explain the types of paragraphs like narrative, descriptive, 
+        expository, persuasive; explain the techniques of paragraph development; Newspaper writing like reports and press 
+        release; Write resumes; Write letter both formal and informal; Request letters, job letters, complaint letters, etc; 
+        Generate ideas for essay, outlines, introduction, main essay, conclusion.
+        \n\n
+        
+        <b>3. Grammar: </b> \n
+        Word order of Sentences, Framing Questions, Tense, Articles, Subject – Verb, Agreement, Noun – Pronoun Agreement, 
+        Verbs, Phrases, Infinitives, Participles, Gerunds, Punctuation.
+        \n\n
+        
+        <b>4. Developing Vocabulary: </b> \n
+        Use of Dictionary, Suffixes, Prefixes, Synonyms, Antonyms, changing word forms and using them  in sentences. 
+        \n\n
+        
+        <b>5. Translation from Bengali to English.</b>
+        \n\n\n
+        
+        <b>Recommended Books</b>
+        \n\n
+        
+        1. P C Wrin and H Martin, HighSchool English Grammar and Composition, Sultan Chand and Company.
+        \n\n
+
+        2. A J Thomson and A V Martinet, A Practical English Grammar, Delhi Oxford University Press.
+        \n\n\n\n\n
+        
+        
+        
+
+        
+        
+    </string>
+    
+
+</resources>
+
+
+
+
+
+

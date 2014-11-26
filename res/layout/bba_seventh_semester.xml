@@ -10,53 +10,37 @@
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="BBA Seventh"
-                android:id="@+id/subject_code_and_name411"
+                android:text="@string/bba_subject_code_and_name411"
+                android:id="@+id/bba_subject_code_and_name411"
                 android:layout_alignParentTop="true" android:textColor="#000000"/>
 
-     <!--   <TextView
+        <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name412"
-                android:id="@+id/subject_code_and_name412"
-                android:layout_below="@+id/subject_code_and_name411"
+                android:text="@string/bba_subject_code_and_name412"
+                android:id="@+id/bba_subject_code_and_name412"
+                android:layout_below="@+id/bba_subject_code_and_name411"
                 android:textColor="#000000"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name413"
-                android:id="@+id/subject_code_and_name413"
-                android:layout_below="@+id/subject_code_and_name412"
+                android:text="@string/bba_subject_code_and_name413"
+                android:id="@+id/bba_subject_code_and_name413"
+                android:layout_below="@+id/bba_subject_code_and_name412"
                 android:textColor="#000000"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name414"
-                android:id="@+id/subject_code_and_name414"
-                android:layout_below="@+id/subject_code_and_name413"
+                android:text="@string/bba_subject_code_and_name414"
+                android:id="@+id/bba_subject_code_and_name414"
+                android:layout_below="@+id/bba_subject_code_and_name413"
                 android:textColor="#000000"/>
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name415"
-                android:id="@+id/subject_code_and_name415"
-                android:layout_below="@+id/subject_code_and_name414"
+                android:text="@string/bba_subject_code_and_name415"
+                android:id="@+id/bba_subject_code_and_name415"
+                android:layout_below="@+id/bba_subject_code_and_name414"
                 android:textColor="#000000"/>
-        <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name416"
-                android:id="@+id/subject_code_and_name416"
-                android:layout_below="@+id/subject_code_and_name415"
-                android:textColor="#000000"/>
-        <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/subject_code_and_name417"
-                android:id="@+id/subject_code_and_name417"
-                android:layout_below="@+id/subject_code_and_name416"
-                android:textColor="#000000"/>
-
-        -->
     </RelativeLayout>
 </ScrollView>

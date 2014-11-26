@@ -61,45 +61,45 @@
         <b>CSE-213 Operating System</b>
         \n\n
         
-        <b>Introduction:</b> Definition OS, Mainframe, desktop systems, multiprocessor Systems, distributed systems, 
+        <b>Introduction:</b> \n Definition OS, Mainframe, desktop systems, multiprocessor Systems, distributed systems, 
         clustered systems, real-time systems, handheld systems, computing environments.
         \n\n
         
-        <b>OS Structures:</b> System components, OS services, system calls, system programs, system structure, virtual 
+        <b>OS Structures:</b> \n System components, OS services, system calls, system programs, system structure, virtual 
         machines, system design and implementation.
         \n\n
         
-        <b>Processes:</b> Process concept, Process state, Process control block, threads, Process scheduling, operation on 
+        <b>Processes:</b> \n Process concept, Process state, Process control block, threads, Process scheduling, operation on 
         processes, cooperating Processes, interprocesses communication, Communication in client-server system.
         \n\n
         
-        <b>CPU scheduling:</b> Basic concepts, CPU-I/O bust cycle, CPU scheduler, preemptive scheduling, dispatcher, 
+        <b>CPU scheduling:</b> \n Basic concepts, CPU-I/O bust cycle, CPU scheduler, preemptive scheduling, dispatcher, 
         scheduling criteria, Scheduling algorithms, multiple-processor scheduling, real-time scheduling ,algorithm evaluation, 
         process scheduling models: ex-windows 2000, Linux.
         \n\n
         
-        <b>Process Synchronization:</b> Background Process Synchronization ,critical section problem, semaphore, 
+        <b>Process Synchronization:</b> \n Background Process Synchronization ,critical section problem, semaphore, 
         classical problems of synchronization, critical regions, OS Synchronization ,Atomic transaction.
         \n\n
         
-        <b>Deadlocks:</b> System model, Dead Lock characterization, Methods for handling Deadlock, Deadlock Avoidance, Dead 
+        <b>Deadlocks:</b> \n System model, Dead Lock characterization, Methods for handling Deadlock, Deadlock Avoidance, Dead 
         Lock Detection, Recovery from Dead lock.
         \n\n
         
-        <b>Memory management:</b> Background: Address binding, Logical vs Physical Address Space, Dynamic Loading, Dynamic 
+        <b>Memory management:</b> \n Background: Address binding, Logical vs Physical Address Space, Dynamic Loading, Dynamic 
         Linking and Shared Libraries, Overlays, Swapping, Contiguous Memory Allocation, Paging, Segmentation, Segmentation with 
         paging.
         \n\n
         
-        <b>Virtual Memory:</b> Background of Virtually Memory (VM). Demand Paging, Process Creation, Page Replacement, 
+        <b>Virtual Memory:</b> \n Background of Virtually Memory (VM). Demand Paging, Process Creation, Page Replacement, 
         Different Page, Replacement Algorithms, Thrashing: Working Set Model, Page-Fault Frequency
         \n\n
         
-        <b>File Concept:</b> File Attributes, File Operations, File Types, File Structure, File Access Methods, Directory 
+        <b>File Concept:</b> \n File Attributes, File Operations, File Types, File Structure, File Access Methods, Directory 
         Structure, file System Mounting, File Sharing, File Protection.
         \n\n
         
-        <b>File System Implementation:</b> File System Structure, File System Implementation, Overview, Partitions and 
+        <b>File System Implementation:</b> \n File System Structure, File System Implementation, Overview, Partitions and 
         Mounting Virtual File Systems, Directory Implementation, Allocation Methods, Free-Space Management, Recovery: 
         Consistency Checking, Backup and Restore Log-Structure File System.
         \n\n\n
@@ -182,26 +182,26 @@
         <b>CSE-216 Mathematics for CSE</b>
         \n\n
         
-        <b>Theory of Matrices:</b> Types of matrices (Creditary, hermitian, symmetric etc.); Determinant of a square matrix; 
+        <b>Theory of Matrices:</b> \n Types of matrices (Creditary, hermitian, symmetric etc.); Determinant of a square matrix; 
         Equivalence, Adjoint and inverse of a square matrix; Linear equations; The characteristic roots and the characteristic 
         equation of a matrix; Linear transformation. Similarity transformations.
         \n\n
         
-        <b>Vector Algebra:</b> Scalars and vectors, equality of vectors; Addition and subtraction of vectors; Multiplication 
+        <b>Vector Algebra:</b> \n Scalars and vectors, equality of vectors; Addition and subtraction of vectors; Multiplication 
         of vectors by scalars; scalar and vector product of two vectors and their geometrical interpretations; triple products 
         and multiple products; liner dependence and independence of vectors.
         \n\n
         
-        <b>Vector calculus:</b> Differentiations and integration of vectors together with elementary applications; 
+        <b>Vector calculus:</b> \n Differentiations and integration of vectors together with elementary applications; 
         Definition of line, surface and volume integrals; Gradient, divergence and curl of point functions, various formulae, 
         Gauss\’s theorem, Stoke\’s theorem, Green\’s theorem.
         \n\n
         
-        <b>Fourier Analysis:</b> Real and Complex form of Fourier series; Finite transform; Fourier Integral; Fourier transforms 
+        <b>Fourier Analysis:</b> \n Real and Complex form of Fourier series; Finite transform; Fourier Integral; Fourier transforms 
         and their uses in solving boundary value problems of wave equations.
         \n\n
         
-        <b>Laplace Transform:</b> Definition; Laplace transforms of some elementary functions; sufficient conditions for 
+        <b>Laplace Transform:</b> \n Definition; Laplace transforms of some elementary functions; sufficient conditions for 
         existence of Laplace transforms; Inverse Laplace transforms; Laplace transforms of derivatives. The unit step function; 
         Periodic function; Some special theorems on Laplace transforms; Partial fraction; Solutions of differential equations 
         by Laplace transforms; Evaluation of improper integrals.
@@ -231,49 +231,49 @@
         <b>CSE-217 Electronic Devices and Circuits</b>
         \n\n
         
-        <b>Semiconductor Diodes:</b> Semiconductor Materials, Energy levels, Entrinsic Materials- n-Type and p-Type, 
+        <b>Semiconductor Diodes:</b> \n Semiconductor Materials, Energy levels, Entrinsic Materials- n-Type and p-Type, 
         Semiconductor Diode, Ideal Diode, Diode Equivalent Circuit, Transition and Diffusion Capacitance.
         \n\n
         
-        <b>Diode Application:</b> Sinusoidal Inputs: Half Wave Rectification. Full Wave Rectification,  Clippers, Clampers, 
+        <b>Diode Application:</b> \n Sinusoidal Inputs: Half Wave Rectification. Full Wave Rectification,  Clippers, Clampers, 
         Zener Diode, LED.
         \n\n
         
-        <b>Bipolar Junction Transistor (BJT):</b> Transistor Construction, Transistor Operation, Common-Base Configuration, 
+        <b>Bipolar Junction Transistor (BJT):</b> \n Transistor Construction, Transistor Operation, Common-Base Configuration, 
         Transistor Amplifying Action, Common Emitter Configuration, Common Collector Configuration, Limits of  Operation.
         \n\n
         
-        <b>DC Biasing – BJTs:</b> Operating Point, Fixed Biased Circuit, Voltage - Divider Bias. DC Bias with Voltage Feedback, 
+        <b>DC Biasing – BJTs:</b> \n Operating Point, Fixed Biased Circuit, Voltage - Divider Bias. DC Bias with Voltage Feedback, 
         Miscellaneous Bias Configuration, Bias Stabilization.
         \n\n
         
-        <b>Field Effect Transistor (FET):</b> Construction And Characteristics of JEFT Transfer Characteristics, Depletion 
+        <b>Field Effect Transistor (FET):</b> \n Construction And Characteristics of JEFT Transfer Characteristics, Depletion 
         Type MOSFET, Enhancement Type MOSFET.
         \n\n
         
-        <b>FET Biasing:</b> Fixed – Biased Configuration, Self - Bias Configuration, Voltage – Divider Biasing.
+        <b>FET Biasing:</b> \n Fixed – Biased Configuration, Self - Bias Configuration, Voltage – Divider Biasing.
         \n\n
         
-        <b>BJT Transistor Modeling:</b> Amplification in the Ac Domain, The Hybrid Equivalent Model, Graphical Determination of 
+        <b>BJT Transistor Modeling:</b> \n Amplification in the Ac Domain, The Hybrid Equivalent Model, Graphical Determination of 
         h-parameters.
         \n\n
         
-        <b>Operational Amplifiers:</b> Differential and Common-Mode Operation, Op-amp Basics. Practical Op-amp Circuit, Op-amp 
+        <b>Operational Amplifiers:</b> \n Differential and Common-Mode Operation, Op-amp Basics. Practical Op-amp Circuit, Op-amp 
         Specifications-DC Offset Parameters, Op-amp Specifications-Frequency Parameters, Op-amp Unit Specifications.
         \n\n
         
-        <b>Op-amp Applications:</b> Voltage Summing, Voltage Buffer, Instrumentations Circuit, Active filters.
+        <b>Op-amp Applications:</b> \n Voltage Summing, Voltage Buffer, Instrumentations Circuit, Active filters.
         \n\n
         
-        <b>Feedback and Oscillator Circuits:</b> Feedback Concepts, feedback Connection Type, Practical Feedback Circuit, 
+        <b>Feedback and Oscillator Circuits:</b> \n Feedback Concepts, feedback Connection Type, Practical Feedback Circuit, 
         Feedback Amplifier – Phase and Frequency Consideration, Oscillator Operation, Phase-Shift Oscillator, Wien – Bridge 
         Oscillator, Crystal Oscillator.
         \n\n
         
-        <b>Other semi-conductor devices:</b> Thermistors, Tunnel diode, LED &amp; GUNN diode, Photodetectors.
+        <b>Other semi-conductor devices:</b> \n Thermistors, Tunnel diode, LED &amp; GUNN diode, Photodetectors.
         \n\n
         
-        <b>Integrated Circuits:</b> Integrated-circuit technology, Basic monolithic integrated circuits, Epitaxial Growth, 
+        <b>Integrated Circuits:</b> \n Integrated-circuit technology, Basic monolithic integrated circuits, Epitaxial Growth, 
         Masking and Etching, Diffusion of Impurities, Transistors for monolithic circuits, Monolithic diodes, Integrated 
         resistors, integrated capacitors and inductors.
         \n\n\n
@@ -318,44 +318,44 @@
         <b>CSE-219 Basic Accounting</b>
         \n\n
         
-        <b>Introduction: </b> Definition of Accounting, its role and functions, various images of Accounting, users of 
+        <b>Introduction: </b> \n Definition of Accounting, its role and functions, various images of Accounting, users of 
         Accounting information, history of Accounting, generally accepted accounting principles, distinction between 
         Bookkeeping and Accounting, relationship of Accounting with other disciplines, ethical issues, the accounting 
         profession.
         \n\n
         
-        <b>The Recording Process: </b> Business transactions, steps in the recording process, the accounting equation, the 
+        <b>The Recording Process: </b> \n Business transactions, steps in the recording process, the accounting equation, the 
         account, the rules of debit and credit, the journal and the ledger, subsidiary ledgers and special journals, 
         the trial balance.
         \n\n
         
-        <b>Accounting for Merchandising Operations: </b> Merchandising  operations, merchandising transactions, recording of 
+        <b>Accounting for Merchandising Operations: </b> \n Merchandising  operations, merchandising transactions, recording of 
         merchandising purchases and sales under perpetual and periodic inventory systems.
         \n\n
         
-        <b>The Adjustment Process: </b> Accounting period, accrual vs. cash basis of Accounting, revenues (income) and expenses, 
+        <b>The Adjustment Process: </b> \n Accounting period, accrual vs. cash basis of Accounting, revenues (income) and expenses, 
         types of adjusting entries, preparing and posting of closing entries, preparing the adjusted trial balance, preparation 
         of classified income statement and the balance sheet.
         \n\n
         
-        <b>Worksheet: </b> Meaning, objects, nature, rules for the preparation of worksheet and preparation of worksheet – 
+        <b>Worksheet: </b> \n Meaning, objects, nature, rules for the preparation of worksheet and preparation of worksheet – 
         8-column and 10-column.
         \n\n
         
-        <b>Preparation of Financial Statements: </b> Single and multiple-step income statements, Owner\’s equity statement , 
+        <b>Preparation of Financial Statements: </b> \n Single and multiple-step income statements, Owner\’s equity statement , 
         Classified balance sheet, Cash flow statement.
         \n\n
         
-        <b>Rectification of Errors: </b> Meaning; Types of Errors; Rectification of errors before preparation of trial balance; 
+        <b>Rectification of Errors: </b> \n Meaning; Types of Errors; Rectification of errors before preparation of trial balance; 
         after preparation of trial balance; after preparation of financial statements and errors detected in the next 
         accounting year.
         \n\n
         
-        <b>Control of Cash: </b> Internal control; controlling cash; the bank checking account; petty cash funds; bank 
+        <b>Control of Cash: </b> \n Internal control; controlling cash; the bank checking account; petty cash funds; bank 
         reconciliation statement.
         \n\n
         
-        <b>Accounting Information System: </b> Basic concepts, principles of Accounting information systems, developing an 
+        <b>Accounting Information System: </b> \n Basic concepts, principles of Accounting information systems, developing an 
         Accounting system, mechanized accounting systems.
         \n\n\n
         

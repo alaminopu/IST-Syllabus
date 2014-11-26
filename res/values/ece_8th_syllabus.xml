@@ -5,19 +5,19 @@
         <b>ECE-411: Information Theory and Coding</b>
         \n\n
         
-      <b>Block and Convolutional Codes for High Spectral Efficiency:</b> Trellis Coded Modulation (TCM), Coding with Diversity. 
+      <b>Block and Convolutional Codes for High Spectral Efficiency:</b> \n Trellis Coded Modulation (TCM), Coding with Diversity. 
       Turbo Codes.
       \n\n
       
-      <b>Iterative Decoding:</b> MAP Algorithms. ARQ schemes. General concepts of coding theory. Noise and error correcting codes. 
+      <b>Iterative Decoding:</b> \n MAP Algorithms. ARQ schemes. General concepts of coding theory. Noise and error correcting codes. 
       Linear codes including the Hamming, Golary, the Reed-Muller codes, Finite and Number Fields. Algebraic Function fields, 
       algebraic curves and their applications, Cyclic codes (including the BCH, Reed-Solomon, Justesen, Goppa, and Quadratic 
       Residue codes). Decoding techniques for some of these codes. Application to information processing.
       \n\n
        
-      <b>Information measures:</b> entropy, relative entropy, and mutual information, Asymptotic equipartition theory, Entropy rates, 
+      <b>Information measures:</b> \n Entropy, relative entropy, and mutual information, Asymptotic equipartition theory, Entropy rates, 
       source coding and data compression, unannei capacity, Differential entropy and Gaussian channel, Rate-distortion theory.
-      \n\n
+      \n\n\n
       
       <b>Recommended Books:</b>
       \n\n
@@ -53,37 +53,37 @@
         <b>ECE-412: Biomedical Instruments</b>
         \n\n
         
-        <b>Human Anatomy &amp; Physiology:</b> Anatomy &amp; Physiology of major systems of the body - generation &amp; 
+        <b>Human Anatomy &amp; Physiology:</b> \n Anatomy &amp; Physiology of major systems of the body - generation &amp; 
         propagation of Bioelectric potentials.Transducers, Leads &amp; Electrodes: Transducers for biological applications 
         types, properties, characteristics &amp; selection.
         \n\n
         
-        <b>Leads &amp; Electrodes:</b> Types, materials, properties, characteristics. Method of application and 
+        <b>Leads &amp; Electrodes:</b> \n Types, materials, properties, characteristics. Method of application and 
         selection - equivalent circuits of leads &amp; electrodes. Fundamentals of biomaterials: Compatability studies of 
         metals, ceramic plastics used in the inplantable devices.
         \n\n
         
-        <b>EEG :</b> Working principles, lead system &amp; clinical applications.
+        <b>EEG :</b> \n Working principles, lead system &amp; clinical applications.
         \n\n
         
-        <b>EMG :</b> Working principles, &amp; clinical applications. Evoked potential systems, Audiometry.
+        <b>EMG :</b> \n Working principles, &amp; clinical applications. Evoked potential systems, Audiometry.
         \n\n
         
-        <b>Theraputic instruments:</b> Diathermy, defibrilletor, cardiac pacemakers, stimulators. Power source for 
+        <b>Theraputic instruments:</b> \n Diathermy, defibrilletor, cardiac pacemakers, stimulators. Power source for 
         implantable devices.Laser Applications in machine. 
         \n\n
         
-        <b>X-Rays:</b> Production &amp; use in machine, basics of radiography, diagnostic &amp; therapeutic - X-Ray film 
+        <b>X-Rays:</b> \n Production &amp; use in machine, basics of radiography, diagnostic &amp; therapeutic - X-Ray film 
         construction and processing, interaction with body. Fundamentals of Radiation Therapy.
         \n\n
         
-        <b>Blood pressure:</b> Diastolic &amp; Systolic measurement by invasive and non invasive methods - Ultra sound, 
+        <b>Blood pressure:</b> \n Diastolic &amp; Systolic measurement by invasive and non invasive methods - Ultra sound, 
         Spygmomanometer Automated methods - direct methods.
         \n\n
         
-        <b>Blood flow:</b> Electro-magnetic, Ultrasound, Blood cell counters. Applications of Ultra sound-basic physics 
+        <b>Blood flow:</b> \n Electro-magnetic, Ultrasound, Blood cell counters. Applications of Ultra sound-basic physics 
         of Ultra sound generation, Echo cardiography, Modes of Scan, Doppler measurements, Biological effects - colour doppler.
-        \n\n
+        \n\n\n
         
         <b>Recommended books:</b>
         \n\n
@@ -117,19 +117,19 @@
         <b>ECE-413: Network Security</b>
         \n\n
         
-        <b>Cryptography and Cryptography Algorithms:</b> Traditional cryptography, Cryptanalysis, Private-key (Symmetric-key) 
+        <b>Cryptography and Cryptography Algorithms:</b> \n Traditional cryptography, Cryptanalysis, Private-key (Symmetric-key) 
         and Public-key (asymmetric-key) cryptographic algorithms, DES and Block cipher modes, Advanced Encryption Standard 
         (AES), RSA and other public key cryptosystems, Key Management, Diffie-Hellman key exchange, Elliptic curve cryptography. 
         Cryptographic hash functions, Secure Hash Algorithms, Message authentication codes, Digital signatures and digital 
         signature standard.
         \n\n
         
-        <b>Cryptography and Network Security:</b> Data origin authentication and Data integrity, Key distribution, 
+        <b>Cryptography and Network Security:</b> \n Data origin authentication and Data integrity, Key distribution, 
         Key management, Kerberos and X.509 authentication service, Certificate authority (CA) and public key infrastructure 
         (PKI), E-mail security, PGP and S/MIME, IP security (IPSec), Authentication header and ESP, Security associations, 
         key management, Oakley key determination protocol and ISAKMP, Web security considerations, secure socket layer (SSL) 
         and transport layer security (TLS), Secure electronic transactions (SET).
-        \n\n
+        \n\n\n
         
         <b>Recommended books:</b>  
         \n\n
@@ -161,19 +161,20 @@
         <b>ECE-420: Neural networks</b>
         \n\n
         
-        <b>Preliminaries:</b> Neural computations, Classifiers, Approximators, Simple memory and restoration patterns, 
+        <b>Preliminaries:</b> \n Neural computations, Classifiers, Approximators, Simple memory and restoration patterns, 
         Optimizing networks, Clustering and feature detecting networks, Development of artificial neural systems, 
         Future trends.
+        \n\n
         
-        <b>Fundamental concepts and models of artificial neural systems:</b> Biological neuron and their artificial models, 
+        <b>Fundamental concepts and models of artificial neural systems:</b> \n Biological neuron and their artificial models, 
         Models of artificial neural networks, McCulloch\’s Pitts neural model, Feed forward and feedback network, Neural 
         processing, Learning and adaptation, Neural network learning rules, Associative memory, BAM, MAM, FAM, Hopfield 
         networks, Self organizing networks, ART networks, Back propagation network.
         \n\n
         
-        <b>Applications of neural algorithm and systems:</b> Character recognition, Control networks, Robot kinematics, 
+        <b>Applications of neural algorithm and systems:</b> \n Character recognition, Control networks, Robot kinematics, 
         Expert systems.
-        \n\n
+        \n\n\n
         
         <b>Recommended books:</b>
         \n\n
@@ -204,41 +205,41 @@
         <b>ECE-421: Digital Image Processing</b>
         \n\n
         
-        <b>Fundamentals of Digital Image Processing:</b> Formation of an image, Imaging in the ultraviolet band, 
+        <b>Fundamentals of Digital Image Processing:</b> \n Formation of an image, Imaging in the ultraviolet band, 
         Imaging in the visible band, Imaging in the microwave band, imaging in the radio band, 
         X-ray imaging, gamma ray imaging,  Components of an image processing system, Steps in DIP.
         \n\n
         
-        <b>Digital Image:</b> Elements of visual perception – structure of the human eye, image formation in the eye.
+        <b>Digital Image:</b> \n Elements of visual perception – structure of the human eye, image formation in the eye.
         \n\n
         
-        <b>Image Sensing and Acquisition:</b> Image sensor, Sensor strip, Sensor arrays, Image formation model.
+        <b>Image Sensing and Acquisition:</b> \n Image sensor, Sensor strip, Sensor arrays, Image formation model.
         \n\n
         
-        <b>Image Sampling and Quantization:</b> representing digital image, Basic relationship between pixels, 
+        <b>Image Sampling and Quantization:</b> \n representing digital image, Basic relationship between pixels, 
         Image operation on pixel basis.
         \n\n
         
-        <b>Image Enhancement in the Spatial Domain:</b> Gray level transformations, Histogram processing, 
+        <b>Image Enhancement in the Spatial Domain:</b> \n Gray level transformations, Histogram processing, 
         Enhancement using arithmetic logic operations, spatial filtering, Smoothing and sharpening spatial filters.
         \n\n
         
-        <b>Image Enhance in the Frequency Domain:</b> Fourier transform, 1D and 2D FT, Properties of 2D FT, DFT, FFT; 
+        <b>Image Enhance in the Frequency Domain:</b> \n Fourier transform, 1D and 2D FT, Properties of 2D FT, DFT, FFT; 
         Smoothing frequency domain filters, Sharpening frequency domain filters, Homomorphic filtering.
         \n\n
         
-        <b>Image Restoration:</b> Model of image restoration process, Restoration in the presence of noise, 
+        <b>Image Restoration:</b> \n Model of image restoration process, Restoration in the presence of noise, 
         Estimation of the degradation function.
         \n\n
         
-        <b>Color Image Processing:</b> Color models, Color Image processing, Color transformation, Color Image compression.
+        <b>Color Image Processing:</b> \n Color models, Color Image processing, Color transformation, Color Image compression.
         \n\n
         
-        <b>Wavelet and Multiresolution Processing:</b> Wavelet transforms.
+        <b>Wavelet and Multiresolution Processing:</b> \n Wavelet transforms.
         \n\n
         
-        <b>Image Compression:</b> Image compression models.      
-        \n\n
+        <b>Image Compression:</b> \n Image compression models.      
+        \n\n\n
         
         <b>Recommended Books:</b>
         \n\n
@@ -284,7 +285,7 @@
         wireless, and IP networks, such as error resilience and quality of service, will be discussed. The H.32x series, 
         standards for audiovisual communication systems in various network environments, will be described. Current research 
         results in multimedia communications will be reviewed through student seminars in the last weeks of the course.
-        \n\n
+        \n\n\n
         
         <b>Recommended Books:</b>
         \n\n
@@ -313,7 +314,7 @@
         management; Network traffic management and modeling, Connection and admission control; High-speed LAN, Performance 
         modeling and estimation – Probability and stochastic process, queuing analysis, self similar traffic; Congestion and 
         traffic management, Internet routing, Quality of Service (QoS).
-        \n\n
+        \n\n\n
         
         <b>Recommended books:</b>
         \n\n
@@ -342,7 +343,7 @@
         Factors governing radar performance, Radar equation and range, Factors influencing maximum range, 
         Effect of noise, Types of Radar, CW &amp; FM radar; Doppler effect; MTI &amp; Pulse radar; Modulators, Multiple access 
         techniques, Receivers, Duplexers, Radar antenna, Tracking radar and radar systems.
-        \n\n
+        \n\n\n
         
         <b>Recommended Books:</b>    
         \n\n
@@ -386,7 +387,7 @@
         
         Introduction to satellite TV receiver system – elements of the system and construction, creation and operation of the 
         system.
-        \n\n
+        \n\n\n\n\n
         
         
     </string>
@@ -410,7 +411,7 @@
         CMOS design styles, NMOS and CMOS inverters, dc, transient and tranfer characteristics. Designing and testing 
         basic logic gates and other VLSi building blocks such as adders, multipliers, counters, barrel shifters, etc. 
         using computer aided design tools and hardware in the laboratory.
-        \n\n
+        \n\n\n
         
         <b>Recommended books:</b>
         \n\n

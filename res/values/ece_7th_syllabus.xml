@@ -5,25 +5,25 @@
         <b>ECE-401: Microwave Engineering</b>
         \n\n
         
-        <b>Introduction:</b> VHF, UHF and microwave frequency ranges. 
+        <b>Introduction:</b> \n VHF, UHF and microwave frequency ranges. 
         \n\n
         
-        <b>Microwave transmission lines:</b> Transmission line equation and solution, 
+        <b>Microwave transmission lines:</b> \n Transmission line equation and solution, 
         Reflection and transmission coefficient, Standing wave and standing wave ratio, 
         Smith chart, impedance transformation and matching.
         \n\n
         
-        <b>Waveguides and components:</b> Rectangular waveguide, Circular waveguide, Waveguide components, 
+        <b>Waveguides and components:</b> \n Rectangular waveguide, Circular waveguide, Waveguide components, 
         cavities and resonators, Directional couplers, Circulators and isolators.
         \n\n
         
-        <b>Microstrip Lines:</b> Wave propagation and micro strip lines, dielectric constants, characteristic impedance, 
+        <b>Microstrip Lines:</b> \n Wave propagation and micro strip lines, dielectric constants, characteristic impedance, 
         attenuation factors.
         \n\n
         
-        <b>Microwave Devices:</b> Microwave transistor, Varactor diode, IMPATT diode, Gunn diode, Schottky barrier diode, 
+        <b>Microwave Devices:</b> \n Microwave transistor, Varactor diode, IMPATT diode, Gunn diode, Schottky barrier diode, 
         Backward diode, Point contact diode, Klystron, Reflex Klystron, TWT and magnetron. 
-        \n\n
+        \n\n\n
         
         <b>Recommended Books:</b>
         \n\n
@@ -59,27 +59,27 @@
         <b>ECE-402: Wireless Communication Systems</b>
         \n\n
         
-        <b>Digital Modulation Technique:</b> Modern communication systems, BPSK, DPSK, QPSK, OQPSK, MSK, GMSK, MFSK, 
+        <b>Digital Modulation Technique:</b> \n Modern communication systems, BPSK, DPSK, QPSK, OQPSK, MSK, GMSK, MFSK, 
         Spread spectrum modulation techniques, DS-SS, FH-SS, Multipath channels, intelligent cells, micro and nano cells.
         \n\n
         
-        <b>Satellite Communication:</b> Introduction, Orbits, Station Peeping. Satellite altitude, Transmission path, 
+        <b>Satellite Communication:</b> \n Introduction, Orbits, Station Peeping. Satellite altitude, Transmission path, 
         Path loss, Noise consideration, Satellite system, Saturation flux density, Effective isotropic radiated power, 
         Multiple access methods, Earth station antenna, satellite link, design, frequency plan, Satellite communication 
         for Internet, VSAT Network, GNSS-GPS and Galileo Systems, GIS, Multiple Access Techniques.
         \n\n
         
-        <b>Mobile Communication:</b> Mobile-Multimedia traffic, Flow control, Bandwidth allocation, Channels, lst, 
+        <b>Mobile Communication:</b> \n Mobile-Multimedia traffic, Flow control, Bandwidth allocation, Channels, lst, 
         2nd and 3rd generation wireless networks. Cellular mobile system engineering. 
         \n\n
         
-        <b>Free-space propagation:</b> Propagation model. Multipath propagation, Propagation environment, Marine environment.
+        <b>Free-space propagation:</b> \n Propagation model. Multipath propagation, Propagation environment, Marine environment.
         \n\n
         
-        <b>Microcells:</b> Two Ray Model, Freznel Zone, RF cove¬rage, Indoor coverage, Outdoor coverage, 
+        <b>Microcells:</b> \n Two Ray Model, Freznel Zone, RF cove¬rage, Indoor coverage, Outdoor coverage, 
         computer aided Techniques, Single coverage plot, composite coverage plot, RF survey, Cellular traffic, 
         Trunking efficiencies. 
-        \n\n
+        \n\n\n
         
         <b>Recommended Books:</b>
         \n\n
@@ -111,37 +111,37 @@
         <b>ECE403: Control Systems</b>
         \n\n
         
-        <b>Introduction:</b> Introduction to, control, systems, Definitions and Mathematical background.
+        <b>Introduction:</b> \n Introduction to, control, systems, Definitions and Mathematical background.
         \n\n
         
-        <b>System Equations:</b> State concepts, Transfer function and block diagram, Mechanical translation systems, 
+        <b>System Equations:</b> \n State concepts, Transfer function and block diagram, Mechanical translation systems, 
         Mechanical rotational systems.
         \n\n
         
-        <b>Solution of Differential Equations:</b> Standard inputs to control systems, Steady-state response and 
+        <b>Solution of Differential Equations:</b> \n Standard inputs to control systems, Steady-state response and 
         transient response.
         \n\n
         
-        <b>Laplace Transform:</b> Definition, Laplace transform theorem, Application of the Laplace transforms to 
+        <b>Laplace Transform:</b> \n Definition, Laplace transform theorem, Application of the Laplace transforms to 
         differential equations, inverse, transformation, Heavi¬side, partial fraction expansion theorems.
         \n\n
         
-        <b>System Representation:</b> Block diagrams, Determination of the overall transfer function, 
+        <b>System Representation:</b> \n Block diagrams, Determination of the overall transfer function, 
         Standard block din grain terminology, Simulation diagrams, Signal flow graphs.
         \n\n
         
-        <b>Control System Characteristics:</b> Routh-Hurwitz stabi¬lity criterion, Feedback system types, 
+        <b>Control System Characteristics:</b> \n Routh-Hurwitz stabi¬lity criterion, Feedback system types, 
         Analysis of system types, Steady-state error coefficients, Nonunity-feedback system.
         \n\n
         
-        <b>Root Locus:</b> Plotting roots of a characteristics equation, Quantitative analysis of the root locus, 
+        <b>Root Locus:</b> \n Plotting roots of a characteristics equation, Quantitative analysis of the root locus, 
         Open-loop transfer function, Poles of the control ratio, Application of the magnitude and angle condition.
         \n\n
         
-        <b>Frequency Response:</b> Correlation of the sinusoidal and time responses, Frequency response curves, 
+        <b>Frequency Response:</b> \n Correlation of the sinusoidal and time responses, Frequency response curves, 
         Bode plots (Logarithmic plots), General frequency transfer function relationships, Nyquist\’s stability criterion, 
         Definitions of phase margins and gain margins and their relation of stability.
-        \n\n
+        \n\n\n
         
         <b>Recommended books</b>
         \n\n
@@ -167,28 +167,28 @@
         <b>ECE-404: Computer Networks and Internet</b>
         \n\n
         
-        <b>Introduction:</b> Introduction to computer Networks, Protocols and Architecture- TCP/IP protocol suit, 
+        <b>Introduction:</b> \n Introduction to computer Networks, Protocols and Architecture- TCP/IP protocol suit, 
         The OSI Reference Model.
         \n\n
         
-        <b>Local Area Networks and the Medium Access Sublayer:</b> LAN Technology, Architecture. Topology, Wireless LAN, 
+        <b>Local Area Networks and the Medium Access Sublayer:</b> \n LAN Technology, Architecture. Topology, Wireless LAN, 
         Ethernet and Fast-Ethernet, and Gigabit Ethernet Multiple access – CSMA/CD, CSMA/CA. Token Ring and FDDI, 
         Bridges, Bridges operation, Switches, Wireless LAN.  
         \n\n
         
-        <b>Frame relay and Cell Relay:</b> Frame Relay services and protocol, ATM overview, ATM LAN.
+        <b>Frame relay and Cell Relay:</b> \n Frame Relay services and protocol, ATM overview, ATM LAN.
         \n\n
         
-        <b>Internetworking:</b> principles of internetworking, connectionless &amp; connection oriented internetworking. 
+        <b>Internetworking:</b> \n Principles of internetworking, connectionless &amp; connection oriented internetworking. 
         The Internet protocol, Routing Protocol, IPv6, ICMPv6.
         \n\n
         
-        <b>The Transport Layer:</b> The transport service, transport service primitives, socket primitives, TCP &amp; UDP. 
+        <b>The Transport Layer:</b> \n The transport service, transport service primitives, socket primitives, TCP &amp; UDP. 
         \n\n
         
-        <b>Distributed Applications:</b> Simple Network Management Protocol -SNMPv2, Electronic mail - SMTP and MIME, 
+        <b>Distributed Applications:</b> \n Simple Network Management Protocol -SNMPv2, Electronic mail - SMTP and MIME, 
         Hypertext Transfer protocol (HTTP), Video on Demand.
-        \n\n
+        \n\n\n
         
         <b>Recommended books:</b>
         \n\n
@@ -218,27 +218,27 @@
         Introduction, evolution, management function, organization.
         \n\n
         
-        <b>Organization:</b> Theory and structure, coordination, span of control, authority delegation, 
+        <b>Organization:</b> \n Theory and structure, coordination, span of control, authority delegation, 
         groups, committee, and task force, manpower planning.
         \n\n
         
-        <b>Personnel management:</b> Scope, importance, need hierarchy, motivation, job redesign, 
+        <b>Personnel management:</b> \n Scope, importance, need hierarchy, motivation, job redesign, 
         leadership, participative management, training, performance appraisal, wages, and incentives, 
         informal groups, organization change and conflict.
         \n\n
         
-        <b>Cost and Financial Management:</b> elements of costs of products, depreciation, Break-even analysis, 
+        <b>Cost and Financial Management:</b> \n elements of costs of products, depreciation, Break-even analysis, 
         Investment Analysis, Benefit cost analysis.
         \n\n
         
-        <b>Management accounting:</b> cost planning and control, budget and budgetary control, development planning process.
+        <b>Management accounting:</b>  \n Cost planning and control, budget and budgetary control, development planning process.
         \n\n
         
-        <b>Marketing management:</b> concepts, strategy, sales promotion, patent laws.
+        <b>Marketing management:</b> \n concepts, strategy, sales promotion, patent laws.
         \n\n
         
-        <b>Technology management:</b> management of innovation and changes, technology lifecycle.
-        \n\n
+        <b>Technology management:</b> \n Management of innovation and changes, technology lifecycle.
+        \n\n\n\n\n
         
         
     </string>

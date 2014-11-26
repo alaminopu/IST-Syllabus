@@ -6,7 +6,7 @@
         <b>ECE-101: English</b>
         \n\n
         
-        <b>Reading and Comprehension:</b> Thematic structure, vocabulary, cohesive and rhetorical devices, 
+        <b>Reading and Comprehension:</b> \n Thematic structure, vocabulary, cohesive and rhetorical devices, 
         grammatical items, intention/attitude of the writer, précis (i) comprehension (ii) paragraph (iii) précis 
         (iv) essay (v) amplification (vi) dialogue-writing.
         \n\n
@@ -23,19 +23,19 @@
         framing of which questions.
         \n\n
         
-        <b>Notions and Functions:</b> i) emotion attitudes ii) moral attitudes iii) suasion iv) intellectual attitudes 
+        <b>Notions and Functions:</b> \n i) emotion attitudes ii) moral attitudes iii) suasion iv) intellectual attitudes 
         v) socializing.
         \n\n
         
-        <b>Letters:</b> Application, Request, Enquiries, Quotations, Tender to newspaper, Formal and informal, 
+        <b>Letters:</b> \n Application, Request, Enquiries, Quotations, Tender to newspaper, Formal and informal, 
         Advertisements, etc.
         \n\n
         
-        <b>Translations:</b> English to Bengali  and Bengali  to English.
+        <b>Translations:</b> \n English to Bengali  and Bengali  to English.
         \n\n
         
-        <b>Technical Writing:</b> Projects, reports, and thesis.
-        \n\n
+        <b>Technical Writing:</b> \n Projects, reports, and thesis.
+        \n\n\n
         
         
         <b>Recommended books:</b>
@@ -49,7 +49,7 @@
         \n\n
         
         •	High School English Grammar and Composition by Waren &amp; Martin.
-        \n\n\n
+        \n\n\n\n\n
 
 
     </string>
@@ -63,20 +63,20 @@
         \n\n
         
         
-        <b>Electrostatics:</b> Electronic charge, Conservation &amp; quantization of charge, Coulomb\’s law,
+        <b>Electrostatics:</b> \n Electronic charge, Conservation &amp; quantization of charge, Coulomb\’s law,
         Electric field and field strength, Lines of force, Point charge and dipole in an electric field, 
         Electric flux &amp; Gauss\’s law, Applications of Gauss\’s law, Electric potential and field strength,
         Potential due to a point charge, Group of point charges, Potential due to continuous charge distribution, 
         Electric potential energy.
         \n\n
         
-        <b>Capacitance and Dielectrics:</b> Capacitance, calculation of capacitance, 
+        <b>Capacitance and Dielectrics:</b> \n Capacitance, calculation of capacitance, 
         Parallel plate capacitor with and without dielectric, Dielectric – an atomic view, Gauss\’s law for capacitor,
         The three electric vectors, Energy storage in an electric field.
         \n\n
         
         
-        <b>Magnetism and Electromagnetism:</b> The magnetic field, Definition of B, permeability of a medium, 
+        <b>Magnetism and Electromagnetism:</b> \n The magnetic field, Definition of B, permeability of a medium, 
         Magnetic force on a current, Torque on a current loop, Circulating charges, Ampere\’s law, Lines of magnetic induction,
         Force between two parallel current carrying conductors, B for a solenoid, Biot-Savart law, 
         Faraday\’s law of electromagnetic induction, Lenz\’s law, Time varying magnetic field,
@@ -87,10 +87,10 @@
         \n\n
         
         
-        <b>Optics:</b> Optical interference, Young\’s experiment, Coherence, Intensity in Young\’s experiment,
+        <b>Optics:</b> \n Optical interference, Young\’s experiment, Coherence, Intensity in Young\’s experiment,
         Thin Film interference, Newton\’s rings, Michelson\’s interferometer, Diffraction, Diffraction grating,
         Polarization, Double refraction, Optical activity.
-        \n\n
+        \n\n\n
         
         
         
@@ -101,7 +101,7 @@
         \n\n
         
         •	Fundamentals of Physics by Halliday &amp; Robert Resnick.
-        \n\n\n
+        \n\n\n\n\n
 
 
     </string>
@@ -115,7 +115,7 @@
         \n\n
         
         
-        <b>Differential Calculus:</b> Limits, Continuity and differentiability; 
+        <b>Differential Calculus:</b> \n Limits, Continuity and differentiability; 
         Successive differentiation of various types of functions; Leibnitz\`s theorem; Rolle\`s  theorem;
         Mean value theorem in finite and infinite forms; Lagrange\`s form of remainders; Cauchy\`s form of remainder;
         Evaluation of indeterminate forms by L\` Hospitals rule; Partial differentiation;
@@ -123,10 +123,10 @@
         \n\n
         
         
-        <b>Integral Calculus:</b> Definitions of integration; Integration by the method of substitutions; 
+        <b>Integral Calculus:</b> \n Definitions of integration; Integration by the method of substitutions; 
         Integration by parts; Standard integrals; Integration by the method of successive reduction; 
         Definite integrals and its properties and use in summing series; Beta function and Gamma function.
-        \n\n
+        \n\n\n
         
         
         <b>Recommended Books:</b>
@@ -148,7 +148,7 @@
         \n\n
         
         •	Ordinary Differential Equation by B.D. Sharma
-        \n\n\n
+        \n\n\n\n\n
         
     </string>    
     
@@ -180,7 +180,7 @@
         \n
         
         Eigen values and Eigen vectors.
-        \n\n
+        \n\n\n
         
         
         <b>Recommended Books:</b>
@@ -189,7 +189,7 @@
         \n\n
         
         •	Linear Algebra by Abdur Rahman.
-        \n\n
+        \n\n\n\n\n
     
      </string>    
 
@@ -212,39 +212,39 @@
     \n\n
 
     <b>Programming in C:</b>
-    \n
-    <b>Introduction:</b> A Simple C program, Preparing and Running a C Program.
+    \n\n
+    <b>Introduction:</b> \n A Simple C program, Preparing and Running a C Program.
     \n\n
     
-    <b>C Fundamentals:</b> Character Set, Identifiers, Keywords, Data Types, Constants, Variables, Declarations, 
+    <b>C Fundamentals:</b> \n Character Set, Identifiers, Keywords, Data Types, Constants, Variables, Declarations, 
     Expressions, Statements, Symbolic Constants.
     \n\n
     
-    <b>Operators and Expressions:</b>  Operators, Types of Operators, Library Functions, Data input and output, 
+    <b>Operators and Expressions:</b> \n Operators, Types of Operators, Library Functions, Data input and output, 
     preparing and running a complete C program.
     \n\n
     
-    <b>Control Structures:</b>  Branching: if, if.else, nested if, ladder if, switch, break, Looping: while, do-while, 
+    <b>Control Structures:</b> \n Branching: if, if.else, nested if, ladder if, switch, break, Looping: while, do-while, 
     for, Nested control structures.
     \n\n
     
-    <b>Functions:</b>  Definition and Declaration, Accessing, Processing, Function Prototypes, Passing arguments, 
+    <b>Functions:</b> \n Definition and Declaration, Accessing, Processing, Function Prototypes, Passing arguments, 
     Function Calling and Returning Values.
     \n\n
     
-    <b>Arrays:</b> Definition and declaration, Types of arrays, processing an Array, Passing arrays to functions.
+    <b>Arrays:</b> \n Definition and declaration, Types of arrays, processing an Array, Passing arrays to functions.
     \n\n
     
-    <b>Pointers:</b>  Definitions and declarations, Passing pointer to functions, Dynamic Memory Allocations, 
+    <b>Pointers:</b> \n  Definitions and declarations, Passing pointer to functions, Dynamic Memory Allocations, 
     Operations on Pointers, Arrays of Pointers.
     \n\n
     
-    <b>Structures and Unions:</b> Definition, Processing, User Defined Data Types, Structure and Pointers, 
+    <b>Structures and Unions:</b> \n Definition, Processing, User Defined Data Types, Structure and Pointers, 
     Passing Structures to Functions, Unions.
     \n\n
     
-    <b>Data Files:</b> Definition and Declaration, Types of data files, Creating, Opening, closing and processing files.
-    \n\n
+    <b>Data Files:</b> \n Definition and Declaration, Types of data files, Creating, Opening, closing and processing files.
+    \n\n\n\n\n
     
     <b>Recommended Books:</b>
     \n\n
@@ -267,7 +267,9 @@
     \n\n
     
     •	C by Example (Cambridge Computer Science Texts) by Noel Kalicharan.
-    \n\n\n
+    \n\n\n\n\n
+    
+    
    </string>
    
     
@@ -277,7 +279,7 @@
         <b>ECE-106: Physics – 1 Lab</b>
         \n\n
             Based on ECE-102 Physics – 1.
-            \n\n
+            \n\n\n\n\n
         
     </string>
     
@@ -287,7 +289,7 @@
         \n\n
 
         Based on ECE-107 Fundamentals of Computer &amp; Programming.
-        \n\n\n
+        \n\n\n\n\n
     </string>
 
 </resources>

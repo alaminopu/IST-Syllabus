@@ -5,7 +5,7 @@
         <b>ECE-311: Optical Fiber Communication</b>
         \n\n
         
-        <b>Introduction:</b> Electromagnetic spectrum, Use of light in communication, Types of fiber Loses in fibers, 
+        <b>Introduction:</b> \n Electromagnetic spectrum, Use of light in communication, Types of fiber Loses in fibers, 
         Dispersion, Light sources for fibers, Photo detector, connector and splices, fiber optic communication systems,
         Electro optical conversion devices (HDs, LEDs, ADDS, PINs, etc.), Circuit considerations, Repeater, Receiver,
         Optical switching, Optical interconnection, Integrated Optics, Modulation Techniques: Intensity .Modulation,
@@ -13,18 +13,18 @@
         traps-oceanic fiber cable.
         \n\n
         
-        <b>Optical fibers:</b> Modes of propagation, transmission characteristics, wave-guide analysis. Optical sources: 
+        <b>Optical fibers:</b> \n Modes of propagation, transmission characteristics, wave-guide analysis. Optical sources: 
         light emitting diode (LED), and semiconductor laser diode (SLD); operational principles, characteristics curves; 
         optical transmitter design using LED/SLD. Optical amplifiers: laser and fibre amplifier. 
         Photodetectors: p-i-N and avalanche photodetectors (APDs), noise sources.
         \n\n
         
-        <b>Transmission link analysis:</b> Point-to-point and point-to-multi-point links, system configuration, 
+        <b>Transmission link analysis:</b> \n Point-to-point and point-to-multi-point links, system configuration, 
         link power budget, rise time budget, line coding schemes, transmission systems limitations, 
         design of fibre-optic systems. Optical data buses, optical networks, fibre distributed data interface 
         (FDDI) and synchronous optical network (SONET). SDH. Optical frequency division multiplexing (OFDM) and 
         wavelength division multiplexing (WDM) transmission systems.
-        \n\n
+        \n\n\n
         
         <b>Recommended Books:</b>
         \n\n
@@ -41,7 +41,7 @@
         
         •	Optical Communications (Wiley Series in Telecommunications and Signal Processing) by Robert M. 
         Gagliardi and Sherman Karp. 
-        \n\n\n     
+        \n\n\n\n\n     
        
     </string>
     
@@ -53,25 +53,25 @@
         <b>ECE-312: Digital Signal Processing</b>
         \n\n
         
-        <b>Introduction to digital signal processing:</b> Sampling of continuous-time and discrete-time signals, 
+        <b>Introduction to digital signal processing:</b> \n Sampling of continuous-time and discrete-time signals, 
         The z-transform, Linear time-invariant model of discrete-time systems, 
         Frequency domain representation of discrete-time systems and signals.
         \n\n
         
-        <b>Structure of discrete-time systems:</b> Signal flow graph representation of digital networks, 
+        <b>Structure of discrete-time systems:</b> \n Signal flow graph representation of digital networks, 
         Matrix representation of digital networks, Basic network structures for FIR and IIR systems.
         \n\n
         
-        <b>Digital filter design techniques:</b> Design of FIR and IIR filters from analog filters using windows, 
+        <b>Digital filter design techniques:</b> \n Design of FIR and IIR filters from analog filters using windows, 
         Computer aided design techniques for filters, Discrete Fourier series and discrete Fourier transforms, 
         Convolution and correlation, Algorithms for the computation of the DFT and FFT, 
         Power spectrum. Adaptive Filter: characteristics, LMS, NLMS algorithms.
         \n\n
         
-        <b>Digital signal processor architecture:</b> evolution of DSP architecture, Different architecture, 
+        <b>Digital signal processor architecture:</b> \n evolution of DSP architecture, Different architecture, 
         Important architectural element of a DSP, Application of DSP in speech and image processing, RADAR, 
         Pattern recognition, etc. 
-        \n\n
+        \n\n\n
         
         <b>Recommended Books:</b>
         \n\n
@@ -90,7 +90,7 @@
         \n\n
         
         •	Schaum\'s Outline of Digital Signal Processing (Schaum\'s) by Monson H. Hayes.
-        \n\n\n
+        \n\n\n\n\n
         
         
         
@@ -100,27 +100,27 @@
         <b>ECE-313: Industrial &amp; Power Electronics</b>
         \n\n
         
-        <b>Transducers:</b> Active and passive transducers, Position and displacement transducers – potentiometer, 
+        <b>Transducers:</b> \n Active and passive transducers, Position and displacement transducers – potentiometer, 
         LVDT; Pressure transducer; Temperature transducer; Optical transducer; Ultrasonic transducer; Flow transducer; 
         Strain gauge transducer; Speed transducer.
         \n\n
         
-        <b>Thyristors:</b> Schottky rectifier; Zener diode; Diode and transistor packages; SRC and TRIAC; GTO; 
+        <b>Thyristors:</b> \n Schottky rectifier; Zener diode; Diode and transistor packages; SRC and TRIAC; GTO; 
         IGBT, Applications.
         \n\n
         
-        <b>Triggering devices:</b> UJT, UJT relaxation oscillator, phase control circuit, programmable UJT (PUT); 
+        <b>Triggering devices:</b> \n UJT, UJT relaxation oscillator, phase control circuit, programmable UJT (PUT); 
         DIAC; Silicon Bilateral Switch (SBS); Asymmetrical AC trigger devices.
         \n\n
         
-        <b>Power Electronic Converters:</b> Fixed output voltage and phase controlled AC/DC converters, Single phase, 
+        <b>Power Electronic Converters:</b> \n Fixed output voltage and phase controlled AC/DC converters, Single phase, 
         Three phase; DC/DC converters – Chopper regulator, Step-up, Step-down, Switch mode regulators, 
         Thyristor chopper circuits; A simplified single phase cycloconverter; DC/AC inverter – Push-pull inverter, 
         PWM, Transformer-less inverters, MPPT, Grid-interactive inverters.               
         \n\n
         
-        <b>Motor Devices:</b> DC and AC motor devices, speed and position control of DC motor, microprocessor based motor drive.
-        \n\n
+        <b>Motor Devices:</b> \n DC and AC motor devices, speed and position control of DC motor, microprocessor based motor drive.
+        \n\n\n
         
         <b>Recommended Books:</b>
         \n\n
@@ -142,7 +142,7 @@
         \n\n
         
         •	Principles of Power Electronics by J G Kassakian, M F Schlecht and J C Verghese.
-        \n\n\n
+        \n\n\n\n\n
        
     </string>
     
@@ -169,7 +169,7 @@
         Application of reaction concept and variational  principles in antennas and propagation. 
         Frequency independent antennas, Scattering and diffraction. Selected topics in microwave antennas. 
         Antenna measurements. Application of broadcasting, microwave links, satellite communications and radio astronomy.
-        \n\n
+        \n\n\n
          
         <b>Recommended Books:</b>
         \n\n
@@ -188,7 +188,7 @@
         \n\n
         
         •	Geometric Theory of Diffraction, by Hansen Robert, C.
-        \n\n\n
+        \n\n\n\n\n
        
     </string>
     
@@ -198,15 +198,15 @@
         <b>ECE-315: Computer Peripherals and Interfacing</b>
         \n\n
         
-        <b>Interfacing:</b> Design and operation of interface between computer and the outside world; sensors, 
+        <b>Interfacing:</b> \n Design and operation of interface between computer and the outside world; sensors, 
         transducers and signal conditioning circuits, interfacing memory, system bus, IEEE 488 bus, RS-232. Study and 
         applications of peripheral chips: Parallel ports(8255), USART(8251). Interrupt controller (8259). 
         DMA controller (8257).
         \n\n
         
-        <b>Peripherals:</b> Keyboards, printers (dot-matrix, laser, ink-jet), VDUs, computer graphics hardware, 
+        <b>Peripherals:</b> \n Keyboards, printers (dot-matrix, laser, ink-jet), VDUs, computer graphics hardware, 
         plotters, disc-drivers, CD-ROM, A/D converters, stepper motors. 
-        \n\n
+        \n\n\n
         
         <b>Recommended books:</b>
         \n\n
@@ -219,7 +219,7 @@
         \n\n
          
         •	Computer Peripherals, By Barry Wilkinson.
-        \n\n\n
+        \n\n\n\n\n
         
 	
      
@@ -233,7 +233,7 @@
         \n\n
         
         Based on course ECE-315 Computer Peripherals and Interfacing.
-        \n\n
+        \n\n\n\n\n
               
     </string>
     
@@ -245,7 +245,7 @@
         \n\n
         
         Based on course ECE-313 Industrial and Power Electronics.
-        \n\n\n\n
+        \n\n\n\n\n
         
     </string>
 

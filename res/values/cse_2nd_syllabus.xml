@@ -5,29 +5,29 @@
         <b>CSE-121  Data Structure</b>
         \n\n
         
-        <b>Introduction:</b> Basic Terminology; Elementary Data Organization; Data Structures; Data Structure Operations; 
+        <b>Introduction:</b> \n Basic Terminology; Elementary Data Organization; Data Structures; Data Structure Operations; 
         Control Structures; Algorithms: Complexity, Time-Space Tradeoff, Mathematical Notation and function, String Processing: 
         String Operations, word processing, and Pattern Matching Algorithms.
         \n\n
         
-        <b>Arrays, Records and Pointers:</b> Linear Arrays; Representation of linear array in memory; Traversing linear arrays, 
+        <b>Arrays, Records and Pointers:</b> \n Linear Arrays; Representation of linear array in memory; Traversing linear arrays, 
         Inserting and Deleting; Sorting; (Bubble sort), Searching (linear, binary), Multidimensional Arrays; Pointer Arrays; 
         Record Structures;  Matrices.
         \n\n
         
-        <b>Linked lists:</b> Representation of Linked lists in memory, Traversing a linked list, Searching a linked list, 
+        <b>Linked lists:</b> \n Representation of Linked lists in memory, Traversing a linked list, Searching a linked list, 
         insertion, deletion; Header and two-way lists. 
         \n\n
         
-        <b>Stacks, Queues, Recursion:</b> Array Representation of Stacks, Polish Notation; Quicksort, Recursive definition; 
+        <b>Stacks, Queues, Recursion:</b> \n Array Representation of Stacks, Polish Notation; Quicksort, Recursive definition; 
         Towers of Hanoi, Implementation of Recursive procedures, Queue Dequeue, Priority Queues.
         \n\n
         
-        <b>Trees:</b> Binary Trees; Representing Binary Trees in memory, traversing binary tree, Header Nodes; Threads , 
+        <b>Trees:</b> \n Binary Trees; Representing Binary Trees in memory, traversing binary tree, Header Nodes; Threads , 
         binary search trees, Heap tree, heap sort, Huffman\’s Algorithm.
         \n\n
         
-        <b>Graphs:</b> Sequential Representation of Graph; Adjacency Matrix; Path Matrix; Warshall\’s Algorithm; 
+        <b>Graphs:</b> \n Sequential Representation of Graph; Adjacency Matrix; Path Matrix; Warshall\’s Algorithm; 
         Linked representation of Graphs.
         \n\n\n
         
@@ -76,27 +76,27 @@
         <b>CSE-123   Introduction to Electrical Engineering</b>
         \n\n
         
-        <b>Ohm\’s law, Power and Energy:</b> Conductance and conductivity, Ohm\’s Law, Power, Wattmeter, Efficiency, Energy, 
+        <b>Ohm\’s law, Power and Energy:</b> \n Conductance and conductivity, Ohm\’s Law, Power, Wattmeter, Efficiency, Energy, 
         Circuit Breaker\’s, GFCIS and Fuses, Effect of Temperature on resistance
         \n\n
         
-        <b>Series Circuits:</b> Introduction, Voltage Sources in Series, Kirchoff\’s Voltage Law, Resistances is Series, 
+        <b>Series Circuits:</b> \n Introduction, Voltage Sources in Series, Kirchoff\’s Voltage Law, Resistances is Series, 
         Voltage Divider rule, Voltage regulation.
         \n\n
         
-        <b>Parallel circuits:</b> Introduction, kirchoff\’s current law, Current divider rule, Voltage source in parallel, 
+        <b>Parallel circuits:</b> \n Introduction, kirchoff\’s current law, Current divider rule, Voltage source in parallel, 
         Open and short circuits, Voltmeter.
         \n\n
         
-        <b>Method of analysis:</b> Source conversion, Maxwell\’s loop Current method, Mesh Analysis with matrix form, 
+        <b>Method of analysis:</b> \n Source conversion, Maxwell\’s loop Current method, Mesh Analysis with matrix form, 
         Nodal analysis with voltage source, Nodal analysis with current source.
         \n\n
         
-        <b>Network theorem:</b> Delta star conversion, Superposition theorem, Thevenin\’s theorem, Norton\’s theorem, Maximum 
+        <b>Network theorem:</b> \n Delta star conversion, Superposition theorem, Thevenin\’s theorem, Norton\’s theorem, Maximum 
         power transfer theorem.
         \n\n
         
-        <b>Laws:</b> Ampere\’s law, Biot-Savart law, Induction and Inductance, Magnetic properties of matter, 
+        <b>Laws:</b> \n Ampere\’s law, Biot-Savart law, Induction and Inductance, Magnetic properties of matter, 
         Inductors and transformers, AC and DC networks, DC and AC powers, instantaneous and r.m.s value: Current, 
         voltage and power, average power for various combinations of R, L and C circuits, phasor representation.
         \n\n\n
@@ -140,16 +140,16 @@
         <b>CSE-125 Integral Calculus and Differential Equation</b>
         \n\n
         
-        <b>Indefinite Integrals as Inverse of Derivatives:</b> Techniques of integration; Definite integral as limit of a 
+        <b>Indefinite Integrals as Inverse of Derivatives:</b> \n Techniques of integration; Definite integral as limit of a 
         sum; Interpretation as area; Fundamental theorem of integral calculus (for continuous functions); Determination of 
         length and area of plain curve; Volume and surface area of revolution.
         \n\n
         
-        <b>Introduction to linear, Nonlinear and Inhomogeneous Differential Equations:</b> Solutions of ordinary differential 
+        <b>Introduction to linear, Nonlinear and Inhomogeneous Differential Equations:</b> \n Solutions of ordinary differential 
         equations; Solutions by the method of variation of parameters and indetermined coefficients.
         \n\n
         
-        <b>Differential Equations:</b> Power series solutions about singular points; Solutions of partial differential 
+        <b>Differential Equations:</b> \n Power series solutions about singular points; Solutions of partial differential 
         equations by the method of separation of variables.
         \n\n\n
         
@@ -178,34 +178,34 @@
         <b>CSE-126 Statistics and Probability </b>
         \n\n
         
-        <b>Elements of Statistics:</b> Nature and scope of statistics, Nature &amp; representation of statistical data; 
+        <b>Elements of Statistics:</b> \n Nature and scope of statistics, Nature &amp; representation of statistical data; 
         Attributes and variables; discrete and continuous variables; Method of data collection.
         \n\n
         
-        <b>Measures of location:</b> Characteristics of an ideal measure; Arithmetic mean; Geometric mean; Harmonic mean; 
+        <b>Measures of location:</b> \n Characteristics of an ideal measure; Arithmetic mean; Geometric mean; Harmonic mean; 
         Median; Mode; Quartiles; Deciles; Percentiles.
         \n\n
         
-        <b>Measure of dispersion:</b> Characteristics of an ideal measure: Absolute &amp; Relative measures; Range; Standard 
+        <b>Measure of dispersion:</b> \n Characteristics of an ideal measure: Absolute &amp; Relative measures; Range; Standard 
         deviation; Mean deviation; Quartile deviation; Coefficient of dispersion; Coefficient of variation; Skew ness and 
         kurtosis.
         \n\n
         
-        <b>Elements of Probability:</b> Meaning and definition of probability; A priori and a posteriori probability; Basic 
+        <b>Elements of Probability:</b> \n Meaning and definition of probability; A priori and a posteriori probability; Basic 
         terminology of probability; Random variables; Probability function; Expectation of sum and products.
         \n\n
         
-        <b>Regression and correlation:</b> Relationship between variables; Fitting of regression lines; Simple correlation; 
+        <b>Regression and correlation:</b> \n Relationship between variables; Fitting of regression lines; Simple correlation; 
         Multiple correlation and regression. 
         \n\n
         
-        <b>Sampling:</b> Sampling Techniques &amp; its role, different types of sampling &amp; its merits &amp; Demerits.
+        <b>Sampling:</b> \n Sampling Techniques &amp; its role, different types of sampling &amp; its merits &amp; Demerits.
         \n\n
         
-        <b>Tests of Significance:</b> Tests of means, Variance, Correlation coefficient and regression coefficient.
+        <b>Tests of Significance:</b> \n Tests of means, Variance, Correlation coefficient and regression coefficient.
         \n\n
         
-        <b>Probability Distribution:</b> Binomial Distribution, its uses and properties, Poisson Distribution, its uses and 
+        <b>Probability Distribution:</b> \n Binomial Distribution, its uses and properties, Poisson Distribution, its uses and 
         properties, Normal Distribution, its uses and properties.
         \n\n\n
         
@@ -223,7 +223,6 @@
         \n\n\n\n\n
         
     </string>
-    
     
     
     
